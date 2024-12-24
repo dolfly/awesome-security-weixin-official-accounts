@@ -1,26 +1,13 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2024-12-12T18:03:37】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510479&idx=1&sn=d578238889ffed2b12bf3c600b6d1e4c&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-23T11:00:59】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510485&idx=1&sn=d3915e6e5168b94f9863bea6f6e4b407&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
-### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:camera_flash:【2024-12-03T12:20:36】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486181&idx=1&sn=7a53f5b7009de305a0a1635086975dd6&scene=27#wechat_redirect)
-
-本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
 
 ---
 
@@ -34,6 +21,19 @@
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
+
+---
+
+
+### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:camera_flash:【2024-12-03T12:20:36】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486181&idx=1&sn=7a53f5b7009de305a0a1635086975dd6&scene=27#wechat_redirect)
+
+本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
 
 ---
 
@@ -151,19 +151,6 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2024-11-23T12:00:31】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491095&idx=1&sn=62418749b54df35ef9cbe1f3b5711ed9&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -333,6 +320,19 @@
 发布信息安全技术及相关竞赛信息。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
