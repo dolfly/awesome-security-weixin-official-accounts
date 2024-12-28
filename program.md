@@ -14,13 +14,26 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2024-12-25T17:46:19】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649788216&idx=1&sn=e3463f0b4f06a01760a2c7059edc36a4&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-27T17:01:53】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649789459&idx=1&sn=faea9f8767b65c9dcaa9edb1c04af58a&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
+### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+
+[:chart_with_upwards_trend:【14/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+
+[:camera_flash:【2024-12-27T12:30:34】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491627&idx=1&sn=2202ffd2aa6a686e47a25b2af69f2f89&scene=27#wechat_redirect)
+
+北邮图数据挖掘与机器学习实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
 
 ---
 
@@ -38,24 +51,11 @@
 ---
 
 
-### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:chart_with_upwards_trend:【13/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:camera_flash:【2024-12-26T09:40:24】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491626&idx=1&sn=0a69385ef20cee8214e7bc15d82bba6d&scene=27#wechat_redirect)
-
-北邮图数据挖掘与机器学习实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
-
----
-
-
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-12-24T12:04:59】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502001&idx=1&sn=9ee9dbe3b289e181b228325a53fb8cfe&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-27T12:01:13】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502033&idx=1&sn=770b37ce4fbc049c5d23c14659fabac8&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -66,9 +66,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2024-12-23T23:42:57】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491495&idx=1&sn=1b0e8aa9eb2f96c0dd83c831d9db87ae&scene=27#wechat_redirect)
+[:camera_flash:【2024-12-27T14:31:08】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491501&idx=1&sn=2e31653ee9846030144bbd9ddc6d33ce&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -129,6 +129,19 @@
 ---
 
 
+### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:camera_flash:【2024-12-27T11:00:59】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489489&idx=1&sn=74c003de8db257f049196ef535307235&scene=27#wechat_redirect)
+
+FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
+
+---
+
+
 ### [安第斯智能云](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE2MzY1OA==)
@@ -138,19 +151,6 @@
 OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的泛终端智能云，致力于“让终端更智能”。作为 OPPO 三大核心技术之一，安第斯智能云提供端云协同的数据存储与智能计算服务，是万物互融的“数智大脑”。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7bc48466f080" alt="" />
-
----
-
-
-### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:camera_flash:【2024-11-28T14:01:00】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489467&idx=1&sn=7b6f0cc44e71eceb4d96e16f982f5637&scene=27#wechat_redirect)
-
-FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
 
 ---
 
