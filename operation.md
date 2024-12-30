@@ -1,7 +1,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【19/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2024-12-27T08:01:29】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247510003&idx=1&sn=0d80205c7e55c3dc7ad534f56ef56706&scene=27#wechat_redirect)
 
