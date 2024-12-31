@@ -14,7 +14,7 @@
 
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
 [:camera_flash:【2024-12-09T13:30:29】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484343&idx=1&sn=4f8fa40f9e26e19f9978447955323a01&scene=27#wechat_redirect)
 
@@ -73,19 +73,6 @@
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:camera_flash:【2024-11-30T22:11:55】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486962&idx=1&sn=4699d1c95798f1ee9b6167e6d3d0cc81&scene=27#wechat_redirect)
-
-CTF协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
@@ -294,6 +281,19 @@ ctf技术交流。
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
+
+---
+
+
+### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+CTF协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
