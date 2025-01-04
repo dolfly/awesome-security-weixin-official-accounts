@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【4/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2024-12-30T18:06:44】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512647&idx=1&sn=b302bbdbfe448b8eee6b21cb8d1e2e80&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-03T15:01:26】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512671&idx=1&sn=577515d8a1835ce14d36c542877fcc0c&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,7 +14,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2025-01-02T18:02:46】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649789470&idx=1&sn=187c97d0da016a4747b9d8eba0ea678d&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2024-12-31T12:05:31】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502050&idx=1&sn=401c110c768f8adc52e873245fd46fd4&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-03T12:02:39】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502109&idx=1&sn=01f3cb0332659283beec301837f962aa&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -66,9 +66,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-01-02T15:04:44】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491507&idx=1&sn=4ca9f7c8c84cb635c3840c9a9f3ea191&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-03T22:31:23】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491520&idx=1&sn=f3bacbb23ae0aece8dec75f687816b13&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-01-02T19:58:40】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779697&idx=2&sn=1d9024f1ca261627a7e6e91b55661c1b&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-02T19:58:40】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651779697&idx=1&sn=9da7af985ae9e9735e04368441c01698&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
