@@ -25,6 +25,19 @@
 ---
 
 
+### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+
+[:camera_flash:【2025-01-06T11:57:16】](https://mp.weixin.qq.com/s?__biz=MzU0MjcwNzI2NQ==&mid=2247484605&idx=1&sn=a6a2a45bb360dcd3066d99e06f1d3962&scene=27#wechat_redirect)
+
+西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
+
+---
+
+
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
@@ -47,19 +60,6 @@
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
-
-[:camera_flash:【2025-01-03T10:19:59】](https://mp.weixin.qq.com/s?__biz=MzU0MjcwNzI2NQ==&mid=2247484555&idx=1&sn=337bfffc87a8ddac219430d933bd4d56&scene=27#wechat_redirect)
-
-西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
 
 ---
 

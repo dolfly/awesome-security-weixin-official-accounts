@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2024-12-31T23:55:32】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247492742&idx=1&sn=1e6c3572e41c065dd1f8f7083102f030&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-05T18:02:42】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247492811&idx=1&sn=2954c04f10652dbec3764fc23b835ed2&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
