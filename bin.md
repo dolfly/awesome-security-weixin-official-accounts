@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-01-06T18:02:25】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588126&idx=2&sn=010593027b0eed2aec29c69a26c16865&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-07T17:59:31】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458588181&idx=3&sn=ed0557407f95454c25c98501fe8cac6e&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【3/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2025-01-07T00:00:14】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037487&idx=1&sn=9b5e45904ac872de30244d5bd30bb01c&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-07T00:00:14】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652037487&idx=2&sn=08c4448485b3cae183a4ece70ab95919&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [软件安全与逆向分析](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
-
-[:camera_flash:【2024-12-24T19:35:31】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484747&idx=1&sn=d8c8cb026e6e086302131e146e8adbf1&scene=27#wechat_redirect)
-
-分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
-
----
-
-
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
@@ -99,6 +86,19 @@
 吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护，留给世界一抹值得百年回眸的惊艳，沉淀百年来计算机应用之精华与优雅，任岁月流转，低调而奢华的技术交流与探索却是亘古不变。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
+
+---
+
+
+### [软件安全与逆向分析](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+
+[:camera_flash:【2024-12-24T19:35:31】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484747&idx=1&sn=d8c8cb026e6e086302131e146e8adbf1&scene=27#wechat_redirect)
+
+分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
 
 ---
 
