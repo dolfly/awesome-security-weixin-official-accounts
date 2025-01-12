@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【1/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【1/91/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2025-01-10T19:01:28】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247633711&idx=3&sn=a171f86485cabe24801c9536db242e1e&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
 [:camera_flash:【2025-01-08T21:47:32】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247548995&idx=2&sn=313195554302feb50138ab035f33cd34&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【25/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【28/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-01-10T12:00:26】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546579&idx=2&sn=74ed267221ac90fe1cefffdad9969d1b&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-12T12:01:51】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247546664&idx=2&sn=4c18d53fa9dcc5cfebddcb4102d7baaf&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -40,7 +40,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【4/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【3/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2025-01-09T16:02:09】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247533909&idx=1&sn=251ab889a58e026d4bf0ebef43591977&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【9/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【8/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2025-01-10T00:01:14】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514945&idx=1&sn=4fa92779395d0dd05f464c2ef04e7162&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-11T15:20:47】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247514946&idx=1&sn=ca0755f2190ba765dc7cb8b15f37258a&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -66,7 +66,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2025-01-10T18:31:50】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247521211&idx=1&sn=f5888344ad57191e78dfff778e714701&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@
 
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:chart_with_upwards_trend:【3/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+[:chart_with_upwards_trend:【3/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
 [:camera_flash:【2025-01-10T12:00:37】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247512093&idx=1&sn=38d32dbb721779788a5aa550aa438acc&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:chart_with_upwards_trend:【10/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+[:chart_with_upwards_trend:【9/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
 [:camera_flash:【2025-01-08T16:40:24】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650747615&idx=1&sn=eecb0744ceaefcf591267d8f9b8278ac&scene=27#wechat_redirect)
 
@@ -105,9 +105,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2025-01-10T12:39:36】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649401216&idx=1&sn=de77c2a7f5191211b4a1eddf1353dadf&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-11T13:32:25】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649401237&idx=1&sn=df00863fc872c7f6d3cc548bc8eb730f&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
-[:camera_flash:【2025-01-10T18:27:19】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247495438&idx=1&sn=0dfa956916eecc08f617ada58c6a41aa&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-10T18:27:19】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247495438&idx=2&sn=9a03ea5cc87ec11de2f5a5418b852d13&scene=27#wechat_redirect)
 
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 
@@ -233,19 +233,6 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 ---
 
 
-### [阿肯的不惑之年](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
-
-[:camera_flash:【2024-12-12T08:03:54】](https://mp.weixin.qq.com/s?__biz=MzIyMjUzNzYyNA==&mid=2247484633&idx=1&sn=f3548268a926a21e489b3c21c005bd48&scene=27#wechat_redirect)
-
-生活工作上努力成为最好自己的各类感想；企业信息安全建设的趋势和方向随笔。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ff60192713b6" alt="" />
-
----
-
-
 ### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
@@ -320,6 +307,19 @@ APP个人信息保护治理的工作动态、通知公告等相关信息发布�
 vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
+
+---
+
+
+### [中国安防协会](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTY4NTM1OQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTY4NTM1OQ==)
+
+[:camera_flash:【2025-01-11T18:24:10】](https://mp.weixin.qq.com/s?__biz=MjM5NTY4NTM1OQ==&mid=2650683479&idx=1&sn=9f35a5a195aa37a6f05fc85b20315c6d&scene=27#wechat_redirect)
+
+中国安全防范产品行业协会官方账号。及时发布安防行业要闻、政策标准、企业动态等信息，为会员用户提供更加便捷的服务，以推动我国安防事业高质量发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c630cf9e332" alt="" />
 
 ---
 
@@ -493,6 +493,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 ---
 
 
+### [阿肯的不惑之年](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+生活工作上努力成为最好自己的各类感想；企业信息安全建设的趋势和方向随笔。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ff60192713b6" alt="" />
+
+---
+
+
 ### [腾讯安全战略研究](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA0NjU3Ng==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTA0NjU3Ng==)
@@ -528,19 +541,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 网络与信息安全世界纷纷攘攘，利益与技术纠缠交织，陷阱重重。希望在混沌的时代，从中立的角度思考安全最本真的那条路，梳理网络安全的过去、现在与未来，在迷雾的街角点亮一盏灯。版主：周智，wx：zhouzhi20140516
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66aad224f32e" alt="" />
-
----
-
-
-### [中国安防协会](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTY4NTM1OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTY4NTM1OQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-中国安全防范产品行业协会官方账号。及时发布安防行业要闻、政策标准、企业动态等信息，为会员用户提供更加便捷的服务，以推动我国安防事业高质量发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c630cf9e332" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【3/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【3/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2025-01-09T18:06:05】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247512796&idx=1&sn=349504697de0c8697e3b70c4e9f40922&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【13/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
 [:camera_flash:【2025-01-09T08:30:39】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491707&idx=1&sn=3b39d075a998a3c1630cf51f835acb43&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2025-01-07T17:13:41】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491545&idx=1&sn=168ec87f8235a16dee4fb964a0d813ac&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-01-06T20:56:53】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486401&idx=1&sn=11313dbe19c846a812536cc5c328a82c&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
 [:camera_flash:【2025-01-09T17:53:29】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247490342&idx=1&sn=b7159516c545f83f15e876a2d287836a&scene=27#wechat_redirect)
 
@@ -105,9 +105,9 @@
 
 ### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
 
-[:camera_flash:【2025-01-08T08:30:35】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489520&idx=1&sn=1842badec17e99b66a8a7361c06a97a1&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-11T12:09:03】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247489533&idx=1&sn=f4c093ed6016e977e9eb01ba7d80d4a6&scene=27#wechat_redirect)
 
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
@@ -151,6 +151,19 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 腾讯代码安全检查Xcheck，是一个腾讯公司自研的静态应用安全测试(SAST，Static application security testing)工具，致力于挖掘代码中隐藏的安全风险，提升代码安全质量。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_177b81103e8d" alt="" />
+
+---
+
+
+### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:camera_flash:【2025-01-11T12:14:55】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545717&idx=1&sn=309283dd2ed10d791e052cf798b5e174&scene=27#wechat_redirect)
+
+新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 
@@ -281,19 +294,6 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
-
----
-
-
-### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 
