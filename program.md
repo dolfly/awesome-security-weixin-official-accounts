@@ -12,32 +12,6 @@
 ---
 
 
-### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:camera_flash:【2025-01-14T09:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491743&idx=1&sn=c3635ac038155dd8b22fc41363d8eb60&scene=27#wechat_redirect)
-
-北邮图数据挖掘与机器学习实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
-
----
-
-
-### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:camera_flash:【2025-01-14T12:03:47】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502297&idx=1&sn=054a518bae3f1fa02ba4e1c7b3dcea6c&scene=27#wechat_redirect)
-
-提供B站相关技术的介绍和讲解
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:chart_with_upwards_trend:【5/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
@@ -51,6 +25,19 @@
 ---
 
 
+### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+
+[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+
+[:camera_flash:【2025-01-14T09:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491743&idx=1&sn=c3635ac038155dd8b22fc41363d8eb60&scene=27#wechat_redirect)
+
+北邮图数据挖掘与机器学习实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
@@ -60,6 +47,19 @@
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
+### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:camera_flash:【2025-01-14T12:03:47】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502297&idx=2&sn=20765e585c38b6561b64567c991209c5&scene=27#wechat_redirect)
+
+提供B站相关技术的介绍和讲解
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
 
 ---
 
