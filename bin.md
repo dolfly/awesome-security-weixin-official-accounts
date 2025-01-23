@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-01-21T17:59:59】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589041&idx=3&sn=f23e141f9f2559ffdfdd86d3d8f3ef1f&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-21T17:59:59】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458589041&idx=1&sn=d6ac5ccbfd4e3343e192ddbf90411481&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -27,7 +27,7 @@
 
 ### [二进制磨剑](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
 
-[:chart_with_upwards_trend:【2/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
+[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
 
 [:camera_flash:【2025-01-19T10:01:10】](https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485300&idx=1&sn=e32bfd9075a39ac821bd3a6ab1424f89&scene=27#wechat_redirect)
 
