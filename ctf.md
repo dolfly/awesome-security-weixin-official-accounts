@@ -44,7 +44,7 @@
 
 [:camera_flash:【2025-01-13T18:47:45】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515484&idx=1&sn=0c506fe6fa7d8296675e4a1821546192&scene=27#wechat_redirect)
 
-国内最早、亚洲最大的网络攻防联赛。
+发现和培养网络安全技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
