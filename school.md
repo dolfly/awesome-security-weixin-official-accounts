@@ -38,6 +38,19 @@
 ---
 
 
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2025-01-23T08:30:22】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247492341&idx=1&sn=9f2ce48db76b0741bdd1c843e8a868c1&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
@@ -129,19 +142,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2025-01-07T08:30:52】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247492191&idx=1&sn=52a95d1eb7a3467fbdeaa3a29ed98545&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
@@ -164,6 +164,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 珠天PearlSky，意为珠科安全的一片天。珠天的队员都来自于珠海科技学院热爱钻研网络安全技术的同学。我们希望我们能够让更多人了解网络安全，更欢迎各位同学加入我们一起交流学习。本公众号会发布一些学习心得，经验总结等等一系列文章。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a4b0a923e487" alt="" />
+
+---
+
+
+### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:camera_flash:【2025-01-22T10:01:31】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487061&idx=1&sn=4aa2f2672a35e43ad97d08e7d2d8a014&scene=27#wechat_redirect)
+
+奇安信高校合作中心，架起高校和安全产业的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 
@@ -710,19 +723,6 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 电子科技大学御林安全工作室官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
-
----
-
-
-### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-奇安信高校合作中心，架起高校和安全产业的桥梁。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 
