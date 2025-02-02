@@ -40,7 +40,7 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2025-01-29T06:01:29】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510555&idx=1&sn=adf528e69e77da7e1ade94a1037f657a&scene=27#wechat_redirect)
 
