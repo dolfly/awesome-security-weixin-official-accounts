@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:camera_flash:【2025-01-27T15:54:09】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495739&idx=1&sn=70bff0dcfddcafcf645feed59f012888&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-27T15:54:09】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495739&idx=2&sn=c1eb11a7df482ea02fe0bb114eaa29bc&scene=27#wechat_redirect)
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
@@ -263,7 +263,7 @@ https://security.kuaishou.com
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MDc4MTM3Mg==)
 
-[:camera_flash:【2025-01-17T18:01:45】](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247493717&idx=2&sn=f317d3190e4e199c933d1b29fa2f2d94&scene=27#wechat_redirect)
+[:camera_flash:【2025-01-17T18:01:45】](https://mp.weixin.qq.com/s?__biz=MzI5MDc4MTM3Mg==&mid=2247493717&idx=1&sn=fe94bf647a29fff908cc7ed29b70554c&scene=27#wechat_redirect)
 
 美团安全应急响应中心官方公众号
 
@@ -398,6 +398,19 @@ vivo安全应急响应中心（vivoSRC）官方
 安全应急响应工具箱 https://cnsrc.org.cn
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_43c84af67d0d" alt="" />
+
+---
+
+
+### [小鹏汽车信息安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNTY5MTQ1NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNTY5MTQ1NA==)
+
+[:camera_flash:【2025-01-28T20:00:11】](https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247483998&idx=1&sn=10882b27ac29dad9f5ac84b086c2159f&scene=27#wechat_redirect)
+
+小鹏汽车信息安全应急响应中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_21d1232d7b62" alt="" />
 
 ---
 
