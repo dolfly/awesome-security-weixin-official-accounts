@@ -1,7 +1,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【1/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2025-03-07T17:03:30】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513696&idx=1&sn=b97a7c1ca28e948ac6ea6978a3c08c8b&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【10/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-03-10T17:31:45】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791944&idx=1&sn=9bd69fbe147a8e480158ee32348d88a6&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-12T21:49:04】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649791947&idx=1&sn=c1124a3831c35256ba1099d8acd819fb&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -53,13 +53,26 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-03-10T22:43:32】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491939&idx=1&sn=df7fdb64521a21af11e76faca3d68d64&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-12T11:25:20】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247491940&idx=1&sn=2e671c1bf946f2f1ea97e8e44c71b119&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2025-03-12T11:00:31】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486473&idx=1&sn=b911c9bee52e133dade9fc05ecec0291&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
@@ -90,15 +103,15 @@
 ---
 
 
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2025-03-07T18:02:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486469&idx=1&sn=0ff5b8a7d44655da20976900998bbebe&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-12T14:16:25】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945388&idx=1&sn=6e5830858aef7735ac2ae89bc8b711ec&scene=27#wechat_redirect)
 
-读书，写诗，假装自己是黑客。
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
@@ -112,19 +125,6 @@
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
-
----
-
-
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:camera_flash:【2025-03-04T19:59:45】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945331&idx=1&sn=b4f55d509c6f7555611b243b1b1e2185&scene=27#wechat_redirect)
-
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
