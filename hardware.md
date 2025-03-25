@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-03-23T16:31:22】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247622785&idx=2&sn=349ab4b630cc2379567e599bcb473e26&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-24T16:12:52】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247622952&idx=2&sn=c92076b856c7ce1b6626657c7feb5ee1&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-03-24T08:01:16】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489695&idx=1&sn=8092d844ad2946ad39698d858cfb4fd9&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-25T08:00:17】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489699&idx=1&sn=6ff94f8e1b098b996c16706400b320be&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-03-23T19:12:41】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454937549&idx=1&sn=15f1650360a69938a9acab1fc5f10726&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-25T08:12:32】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454937630&idx=1&sn=78bccc316311d22b85fdc6997b55def7&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2025-03-17T08:00:33】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048365&idx=2&sn=3c5ba8b626c66855b08eedce337f3a7d&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-17T08:00:33】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048365&idx=1&sn=49b60084d7a979c0d2e3119e926ee247&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
