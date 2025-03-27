@@ -51,6 +51,19 @@
 ---
 
 
+### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
+
+[:camera_flash:【2025-03-26T19:24:43】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247499754&idx=1&sn=0e055e5239bacca43e496936425a88c6&scene=27#wechat_redirect)
+
+欢迎加入齐鲁师范学院网络安全社团
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
+
+---
+
+
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
@@ -125,19 +138,6 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [齐鲁师院网络安全社团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDU5NTA1MQ==)
-
-[:camera_flash:【2025-03-16T19:18:29】](https://mp.weixin.qq.com/s?__biz=MzU3MDU5NTA1MQ==&mid=2247499737&idx=1&sn=78d317b22b364e8cf5efbee884f15318&scene=27#wechat_redirect)
-
-欢迎加入齐鲁师范学院网络安全社团
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c9ae293eb8e" alt="" />
 
 ---
 

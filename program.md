@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【1/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-03-25T12:03:44】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513971&idx=1&sn=a33e0813a4c4e8acf8a35a580cc38ed2&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-26T18:02:33】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513998&idx=1&sn=2b108c61604282ae5a61db4d11105f46&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,7 +14,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【8/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2025-03-24T17:37:23】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649792145&idx=1&sn=6b7984d3c3e961b5529b34594c44de0b&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2025-03-25T14:23:08】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491866&idx=1&sn=0d3f8e83674b315e9e79c2e7b4be73a4&scene=27#wechat_redirect)
 
@@ -105,9 +105,9 @@
 
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:camera_flash:【2025-03-16T16:59:24】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484705&idx=1&sn=f0189f17400daaa44f4a20221aefd47e&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-26T21:00:58】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484706&idx=1&sn=848f26862f54fd23835f64679bf83ec3&scene=27#wechat_redirect)
 
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
@@ -138,6 +138,19 @@
 逆向案例小笔记
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
+
+---
+
+
+### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+
+[:camera_flash:【2025-03-26T18:00:21】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545731&idx=1&sn=e6c11f0be3ece715ea375cd373086b13&scene=27#wechat_redirect)
+
+新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 
@@ -294,19 +307,6 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 该账号主要围绕智能化技术如何帮助企业提升网络安全水平展开，内容涉及机器学习、大数据处理等智能化技术在安全领域的实践经验分享，业界领先的产品和前沿趋势的解读分析等。通过分享、交流，推动安全智能的落地、应用。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dc9b9a9fb2b2" alt="" />
-
----
-
-
-### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
 
 ---
 
