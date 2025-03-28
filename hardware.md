@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-03-26T20:39:16】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247623008&idx=3&sn=df13b63fe63d726987b56a8d63302b5a&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-27T20:43:14】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247623022&idx=2&sn=eb9ec2da6bdcaa38c38e0f3c58f8951d&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-03-26T08:19:10】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454937631&idx=1&sn=80f6d6b388de5be75112d6359ff2bb19&scene=27#wechat_redirect)
+[:camera_flash:【2025-03-27T08:16:43】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454937672&idx=1&sn=424ea4614b3241d8c1f753942004ab14&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -40,7 +40,7 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 [:camera_flash:【2025-03-26T08:00:48】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048376&idx=2&sn=fa429d3dfae6b07f426d59d164b13213&scene=27#wechat_redirect)
 
@@ -142,6 +142,19 @@
 ---
 
 
+### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:camera_flash:【2025-03-27T11:35:28】](https://mp.weixin.qq.com/s?__biz=MzIxMjExNDMzNw==&mid=2247484664&idx=1&sn=3547e7884a44a4a43106add58941570c&scene=27#wechat_redirect)
+
+中国卫星黑客
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
+
+---
+
+
 ### [物联网IoT安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjcxMzg5Mg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjcxMzg5Mg==)
@@ -216,19 +229,6 @@
 极客的专属潮酷聚集地，尽在iotsec-zone
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f7435f8d16d" alt="" />
-
----
-
-
-### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-中国卫星黑客
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
