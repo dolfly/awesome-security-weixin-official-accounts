@@ -14,9 +14,9 @@
 
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
-[:camera_flash:【2025-04-02T10:10:27】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247488783&idx=1&sn=778b80885ea0bfb46b30ceae0e66674e&scene=27#wechat_redirect)
+[:camera_flash:【2025-04-03T13:08:35】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247488799&idx=1&sn=1f1e4c83537dfd155dc33772b8b1bf89&scene=27#wechat_redirect)
 
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
@@ -103,6 +103,19 @@
 ---
 
 
+### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
+
+[:camera_flash:【2025-04-03T21:28:33】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247497593&idx=1&sn=e711a30b1902b7738317c914a5422b05&scene=27#wechat_redirect)
+
+为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
+
+---
+
+
 ### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
@@ -138,19 +151,6 @@
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [杭师大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MzA1MDIzMg==)
-
-[:camera_flash:【2025-04-02T20:21:34】](https://mp.weixin.qq.com/s?__biz=Mzg5MzA1MDIzMg==&mid=2247497567&idx=1&sn=1a9b15f0bb876b55f0a00644485b89a4&scene=27#wechat_redirect)
-
-为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
 
 ---
 
