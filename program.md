@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-04-20T16:02:04】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514123&idx=1&sn=6195baa554590c35d1b162cbdfff3998&scene=27#wechat_redirect)
+[:camera_flash:【2025-04-21T15:40:39】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514151&idx=1&sn=24106c3e6919797e4926a268a4eb0993&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -40,7 +40,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2025-04-17T13:51:33】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247491982&idx=1&sn=672555043672926ffddfbdd1b10424ad&scene=27#wechat_redirect)
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-04-18T14:08:29】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780212&idx=2&sn=3fee49849241f1baf44e4f33e3428f29&scene=27#wechat_redirect)
+[:camera_flash:【2025-04-18T14:08:29】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780212&idx=1&sn=4a545a26c0739904a4f8f16bb986a2f6&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
