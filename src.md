@@ -172,7 +172,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyNzc4Mzk3MQ==)
 
-[:camera_flash:【2025-04-30T16:05:30】](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494264&idx=1&sn=0c5abd5bdc2543d2d41dcf5d7df247ff&scene=27#wechat_redirect)
+[:camera_flash:【2025-04-30T16:05:30】](https://mp.weixin.qq.com/s?__biz=MzUyNzc4Mzk3MQ==&mid=2247494264&idx=2&sn=4ed5137aebc4b45c5d75a1883e4ab7aa&scene=27#wechat_redirect)
 
 OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、业务和产品安全，促进消费者了解OPPO产品、业务相关安全隐私功能，传播OPPO安全隐私理念及态度的平台。
 
