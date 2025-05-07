@@ -103,6 +103,19 @@
 ---
 
 
+### [浙商大信息安全小分队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
+
+[:camera_flash:【2025-05-06T15:52:42】](https://mp.weixin.qq.com/s?__biz=MzI5NTM0MjA5OA==&mid=2247484388&idx=1&sn=0981ef3f4ab6e0b4c4cc52417a15f81d&scene=27#wechat_redirect)
+
+发布信息安全技术及相关竞赛信息。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
+
+---
+
+
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
@@ -281,19 +294,6 @@
 安全学习记录
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1b26e38d0253" alt="" />
-
----
-
-
-### [浙商大信息安全小分队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM0MjA5OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-发布信息安全技术及相关竞赛信息。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_711d4ce1da87" alt="" />
 
 ---
 
