@@ -1,9 +1,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-05-08T08:02:40】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247484944&idx=1&sn=3e7f28a6e9ada65acc7c9a8e5156b03b&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-15T08:01:45】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485022&idx=1&sn=a068da7d41d99b97e7dfd7e2607de5c0&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -60,6 +60,19 @@ PTE小技巧
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
+### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:camera_flash:【2025-05-14T13:35:22】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247486802&idx=1&sn=20930e04d268e4529fab994ca5b3782d&scene=27#wechat_redirect)
+
+关注网络安全，和你一起分享安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
@@ -268,19 +281,6 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
-
----
-
-
-### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-关注网络安全，和你一起分享安全技术。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
