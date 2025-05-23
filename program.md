@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【3/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【4/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-05-21T18:53:05】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514631&idx=1&sn=a55281c15b8c90bfff6808c3b7cfd632&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-22T11:31:47】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514638&idx=1&sn=38c04e677b10c528d1d04b70689e90c7&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【10/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-05-21T13:40:59】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492212&idx=1&sn=fff198e3f0ff6bdf8542c93729c08183&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-22T12:30:16】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492219&idx=1&sn=fbd4e8adf5eeb97389f806a22f4e1400&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -27,7 +27,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【5/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【4/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2025-05-21T18:54:17】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793496&idx=1&sn=0fa81c8debc669896f6d48874ebf26f2&scene=27#wechat_redirect)
 
@@ -38,9 +38,22 @@
 ---
 
 
+### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:camera_flash:【2025-05-22T19:58:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780506&idx=2&sn=32a8f7c1c062e0ec38e4ccc162950228&scene=27#wechat_redirect)
+
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+
+---
+
+
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-05-18T11:05:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486615&idx=1&sn=e0aff05c5c755be3ceb1369cdd1c0f92&scene=27#wechat_redirect)
 
@@ -53,7 +66,7 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:camera_flash:【2025-05-20T14:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502937&idx=1&sn=c5d6846baf254ae2a9961c61bb619dea&scene=27#wechat_redirect)
 
@@ -66,7 +79,7 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
 [:camera_flash:【2025-05-19T08:01:11】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492253&idx=1&sn=962b9646465d8ffbde125febe4d6fa4c&scene=27#wechat_redirect)
 
@@ -77,24 +90,11 @@
 ---
 
 
-### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:camera_flash:【2025-05-15T19:58:50】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651780422&idx=2&sn=a5ad1df83cd731c3fff17fa16783a856&scene=27#wechat_redirect)
-
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
-
----
-
-
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2025-05-15T16:57:20】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491061&idx=1&sn=8add20c0788395e325bc41e91aceaa2c&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-22T18:15:42】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491122&idx=1&sn=97ba43af31f844da7d2791ec8c81fde5&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
@@ -112,6 +112,19 @@
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
+
+---
+
+
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:camera_flash:【2025-05-22T15:22:42】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945552&idx=1&sn=9bfd172346f205ae33a5a2649cf661e3&scene=27#wechat_redirect)
+
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
@@ -142,19 +155,6 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 ---
 
 
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:camera_flash:【2025-05-01T10:00:34】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945542&idx=1&sn=445559ecc6a82b7dc1537a2bdf141b68&scene=27#wechat_redirect)
-
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
-
----
-
-
 ### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
@@ -164,6 +164,19 @@ FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索�
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+
+---
+
+
+### [全闲话](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
+
+[:camera_flash:【2025-05-23T03:05:13】](https://mp.weixin.qq.com/s?__biz=MzUzMTkxMjMwNg==&mid=2247484091&idx=1&sn=57ee42ba9bd102386504d6a7d52ec82e&scene=27#wechat_redirect)
+
+这里只有闲话和大闲话，据科学家团队开发的人工智障严重分析得出结论：此号会聚焦安全和运营领域并且一本正经那是不可能的！请谨慎关注~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b7d3b5806ab" alt="" />
 
 ---
 
@@ -359,19 +372,6 @@ Will的小屋
 专注于学习网络安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8e01ffd3a47c" alt="" />
-
----
-
-
-### [全闲话](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMTkxMjMwNg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-这里只有闲话和大闲话，据科学家团队开发的人工智障严重分析得出结论：此号会聚焦安全和运营领域并且一本正经那是不可能的！请谨慎关注~
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0b7d3b5806ab" alt="" />
 
 ---
 
