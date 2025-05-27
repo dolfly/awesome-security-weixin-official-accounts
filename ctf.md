@@ -14,9 +14,9 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-05-16T08:26:26】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515574&idx=1&sn=6340604516ac577bde94063d7f84349c&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-26T18:02:21】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515595&idx=1&sn=3769bfbdbbf48e40b12be19988d3a1ac&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
