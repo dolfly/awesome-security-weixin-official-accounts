@@ -1,9 +1,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-05-30T12:40:16】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485086&idx=1&sn=afc9753877771311d07cfade1f333ec1&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-31T10:30:36】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485136&idx=1&sn=d9491b0243395d340d2dbb95e5b8df8e&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -47,6 +47,19 @@ PTE小技巧
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+
+[:camera_flash:【2025-05-31T09:36:21】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484537&idx=1&sn=035aabab8276477598989d2ba790df7b&scene=27#wechat_redirect)
+
+本公众号为PolarD&amp;N实验室的唯一公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
 
 ---
 
@@ -333,19 +346,6 @@ CTF协会
 “知识面决定攻击面”，靶场、靶机、漏洞复盘及分析，本号主要发长内容，中短篇内容都在@天禧信安
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b01702ed9a29" alt="" />
-
----
-
-
-### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-本公众号为PolarD&amp;N实验室的唯一公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
 
 ---
 
