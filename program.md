@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【5/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-05-30T13:29:13】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514724&idx=2&sn=853726173dcd19cdb7b3638e91831735&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-30T13:29:13】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514724&idx=1&sn=f536abfe75692348281235b43d1b092f&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 

@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【2/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-05-31T17:59:50】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594864&idx=1&sn=64f9d92920ba85c893188506ab236b64&scene=27#wechat_redirect)
+[:camera_flash:【2025-05-31T17:59:50】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594864&idx=2&sn=5d09ceca42383f5e0caa07da01f8a235&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [二进制磨剑](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
-
-[:camera_flash:【2025-05-03T09:00:21】](https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485559&idx=1&sn=44ef4f16bca6673804e2c4ccb4acafce&scene=27#wechat_redirect)
-
-安全技术分享；二进制安全；逆向工程；移动安全；漏洞挖掘；IDA 技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf2cd6bfe39e" alt="" />
-
----
-
-
 ### [秃头的逆向痴想](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDE3NjI0MQ==)
@@ -99,6 +86,19 @@
 随便逆逆，随便挖挖。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c08b6fb82c4b" alt="" />
+
+---
+
+
+### [二进制磨剑](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
+
+[:camera_flash:【2025-05-03T09:00:21】](https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247485559&idx=1&sn=44ef4f16bca6673804e2c4ccb4acafce&scene=27#wechat_redirect)
+
+安全技术分享；二进制安全；逆向工程；移动安全；漏洞挖掘；IDA 技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cf2cd6bfe39e" alt="" />
 
 ---
 
