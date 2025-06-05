@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2025-06-02T14:41:02】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247494899&idx=1&sn=e846ab61d11e0b0a641f460d1b8dda5c&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-04T15:29:15】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247494901&idx=1&sn=7cef2f63596f7c5e4a437a63942eb936&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -14,9 +14,9 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2025-05-28T10:33:20】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486399&idx=1&sn=661908794062563aa7fa3010b6fd67a0&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-04T17:12:50】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486465&idx=1&sn=7c3ea8639a933ea0c506687967363045&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 

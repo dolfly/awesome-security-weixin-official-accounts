@@ -12,6 +12,32 @@ PTE小技巧
 ---
 
 
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2025-06-04T09:01:31】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515603&idx=1&sn=9d44065c42aa648f977f3b62a3cb53d1&scene=27#wechat_redirect)
+
+发现和培养网络安全技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2025-06-04T20:25:22】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501586&idx=1&sn=275efa7f893cb3066b8c28b4f3558c45&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
@@ -34,32 +60,6 @@ PTE小技巧
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2025-05-26T18:02:21】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515595&idx=1&sn=3769bfbdbbf48e40b12be19988d3a1ac&scene=27#wechat_redirect)
-
-发现和培养网络安全技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2025-05-09T18:21:16】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501575&idx=1&sn=facd65158d2973c10bde41cd1524b6e2&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
