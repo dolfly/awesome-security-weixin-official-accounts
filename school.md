@@ -1,9 +1,9 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2025-06-05T16:50:47】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486471&idx=1&sn=f4a22ce6c7fbf46781a6e94230c518f3&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-06T16:17:00】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486477&idx=1&sn=b961d12199e5e7894efad771b1068143&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2025-05-29T08:30:16】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247495815&idx=1&sn=9469e6d8c261974ef212e70f53930b05&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-06T08:30:30】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247495907&idx=1&sn=58769bd095680fe2b37819ec869d60c4&scene=27#wechat_redirect)
 
 东北大学“谛听”网络安全团队
 
