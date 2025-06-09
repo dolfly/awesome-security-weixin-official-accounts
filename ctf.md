@@ -1,9 +1,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【9/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-06-07T15:04:07】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485445&idx=1&sn=972422bdd22d68bbf2962e1a2c3d9ff4&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-08T10:26:06】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485454&idx=1&sn=51e9adeb0daa6bb31261999555eeb174&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -38,19 +38,6 @@ PTE小技巧
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2025-06-04T20:25:22】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501586&idx=1&sn=275efa7f893cb3066b8c28b4f3558c45&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
@@ -60,6 +47,19 @@ PTE小技巧
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2025-06-04T20:25:22】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501586&idx=1&sn=275efa7f893cb3066b8c28b4f3558c45&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
@@ -99,19 +99,6 @@ PTE小技巧
 关注网络安全，和你一起分享安全技术。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
-
----
-
-
-### [HelloCaptureTheFlag](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzE2Nzc2OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzE2Nzc2OA==)
-
-[:camera_flash:【2025-05-09T15:21:54】](https://mp.weixin.qq.com/s?__biz=MzkyNzE2Nzc2OA==&mid=2247483843&idx=1&sn=2321ebebf5e56bffd4d483064c9ce7ba&scene=27#wechat_redirect)
-
-做最棒的CTF教程！Hello CTF 官方公众号~
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_508c7bf9a103" alt="" />
 
 ---
 
@@ -320,6 +307,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
+
+---
+
+
+### [HelloCaptureTheFlag](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzE2Nzc2OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzE2Nzc2OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+做最棒的CTF教程！Hello CTF 官方公众号~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_508c7bf9a103" alt="" />
 
 ---
 
