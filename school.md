@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2025-06-04T15:29:15】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247494901&idx=1&sn=7cef2f63596f7c5e4a437a63942eb936&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-09T20:31:09】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247494910&idx=1&sn=93127a3eb77008417bcfab01fee3ac6e&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -64,6 +64,19 @@
 ---
 
 
+### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2025-06-09T14:39:29】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484296&idx=1&sn=f8917f5433104d9b0c2f968a17f24545&scene=27#wechat_redirect)
+
+原名为网络安全学生社团，现名为网络攻防创新实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
+
+---
+
+
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
@@ -86,19 +99,6 @@
 为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
-
----
-
-
-### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2025-05-26T10:29:35】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484288&idx=1&sn=9dcb14326b8eba0bb6cb04144ed3b918&scene=27#wechat_redirect)
-
-原名为网络安全学生社团，现名为网络攻防创新实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 

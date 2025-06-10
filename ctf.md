@@ -14,9 +14,9 @@ PTE小技巧
 
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:camera_flash:【2025-06-08T00:29:48】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484624&idx=1&sn=8e7c1a8151274af64236433c49b8947d&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-09T15:40:05】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484633&idx=1&sn=7537e024671b509af415ac50de57ffcb&scene=27#wechat_redirect)
 
 本公众号为PolarD&amp;N实验室的唯一公众号。
 
@@ -27,9 +27,9 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-06-06T09:01:30】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515608&idx=1&sn=fdeaa68079bbe71315f75536ea51c1cc&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-09T17:59:33】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515618&idx=1&sn=4cf8143184902631f3f3137df6953195&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
