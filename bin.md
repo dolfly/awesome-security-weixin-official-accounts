@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/78/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-06-12T18:00:20】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595569&idx=2&sn=cd2a5a09f48882da5a2676ca47bf8e9a&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T18:04:39】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595726&idx=4&sn=1b339478ee96c8b393a24c6194dc1a18&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【3/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2025-06-13T00:00:28】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039250&idx=1&sn=ac23ff7b30b82f4172bfe694beae01bc&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-14T00:00:20】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652039275&idx=1&sn=909582285932123e28bda3e727a208ff&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
-
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
-
-[:camera_flash:【2025-06-11T23:02:28】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520129&idx=1&sn=63410369f5e183d08a0850525de6e334&scene=27#wechat_redirect)
-
-本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
-
----
-
-
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
@@ -60,6 +47,19 @@
 吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
+
+---
+
+
+### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+
+[:camera_flash:【2025-06-11T23:02:28】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520129&idx=1&sn=63410369f5e183d08a0850525de6e334&scene=27#wechat_redirect)
+
+本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
 
 ---
 

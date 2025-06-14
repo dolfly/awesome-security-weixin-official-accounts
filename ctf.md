@@ -14,9 +14,9 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-06-12T18:01:09】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515631&idx=1&sn=50cd43cc2923c8492b7cc6100dde291c&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T14:02:56】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515646&idx=1&sn=88828c72e10e08716386851d2fd3e8c0&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
@@ -86,19 +86,6 @@ PTE小技巧
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
-
-[:camera_flash:【2025-05-14T13:35:22】](https://mp.weixin.qq.com/s?__biz=MzU3ODQ2MDMxMg==&mid=2247486802&idx=1&sn=20930e04d268e4529fab994ca5b3782d&scene=27#wechat_redirect)
-
-关注网络安全，和你一起分享安全技术。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 
@@ -307,6 +294,19 @@ X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗�
 CTF协会
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
+
+---
+
+
+### [BugKu](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODQ2MDMxMg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+关注网络安全，和你一起分享安全技术。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【7/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【7/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2025-06-12T15:35:57】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514851&idx=1&sn=da2bcb1b0d0c4e969e8e9ea3cbf12161&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【18/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【19/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-06-12T18:31:16】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492512&idx=1&sn=217c1fcb0e03fe9791ca1f07d19433d1&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T12:30:27】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492521&idx=1&sn=7a633d33506506dd5d0c7a0c4d5db16e&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-06-09T17:30:36】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793733&idx=1&sn=db8fa9236c3c3e4f88d62d1789f376d0&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T17:36:47】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649793919&idx=1&sn=37dc1c9803f02e8b727d51788c32e33c&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -92,9 +92,9 @@
 
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:camera_flash:【2025-06-06T19:28:22】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484764&idx=1&sn=7efc8b5d0c1063cefaa1611ea7d165fa&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T09:08:13】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484765&idx=1&sn=2f59f19bcc640912aedd0d2320804300&scene=27#wechat_redirect)
 
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
@@ -105,9 +105,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2025-06-06T12:03:27】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502970&idx=1&sn=45b18216bb813a17258af46923b861fb&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T12:04:04】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247502999&idx=1&sn=9213bf3505748c329053a5b583450a18&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
