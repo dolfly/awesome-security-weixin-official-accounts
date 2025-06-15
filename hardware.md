@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/94/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-06-13T10:24:55】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625038&idx=3&sn=72a95cc60cfd37c315b7b841cfe7156d&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-14T14:22:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625052&idx=2&sn=e0d7ecb8597bc7589f6f9749634d37c9&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【8/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【9/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-06-13T19:17:15】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454938613&idx=1&sn=29d283806488462ef3168ebadd0ed607&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-14T19:27:55】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454938623&idx=1&sn=8bd628148e4f34e7008a2dcc6e14c327&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2025-06-13T00:01:07】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048478&idx=2&sn=1d4e61548085b2ae8a467730b557f5ec&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-13T00:01:07】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048478&idx=1&sn=dbb631a18e709dd566c5baebdedbb610&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -53,9 +53,9 @@
 
 ### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+[:chart_with_upwards_trend:【1/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:camera_flash:【2025-06-07T10:35:56】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484524&idx=1&sn=b4d4d6333054a3068182d6e0484322fe&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-11T20:34:33】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484526&idx=1&sn=1f6aa50bf33e082b78c42c1cf71bb74d&scene=27#wechat_redirect)
 
 电子数据取证与应急响应从业者交流平台
 

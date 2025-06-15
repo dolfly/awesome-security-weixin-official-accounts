@@ -181,6 +181,19 @@
 ---
 
 
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【2025-06-14T16:26:24】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247488784&idx=1&sn=5878d5e7e677aab0c0dc17b955b026cf&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
+
+---
+
+
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -528,19 +541,6 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 安全技术研究及安全技术分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f5f71c9883af" alt="" />
-
----
-
-
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-河北网络安全高校联盟
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 
