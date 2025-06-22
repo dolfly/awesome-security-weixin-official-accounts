@@ -1,9 +1,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/66/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2025-06-20T22:38:55】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636294&idx=4&sn=21290f124cc398b299281753dcb1d904&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-20T22:38:55】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636294&idx=2&sn=c42ddbbf57cca557886a7560d53ea887&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -14,9 +14,9 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/65/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:camera_flash:【2025-06-18T19:16:33】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247553338&idx=2&sn=dbc0e401726bc5b0fae0287f6bf82b58&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-21T19:00:40】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247553407&idx=2&sn=07c53374e0fcc12fa83998ca3c8e594c&scene=27#wechat_redirect)
 
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
@@ -27,7 +27,7 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【18/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【17/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
 [:camera_flash:【2025-06-20T15:31:05】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550514&idx=1&sn=a50178efb4db03285564b300f3453ec2&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【5/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2025-06-20T16:00:21】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539219&idx=1&sn=6986090eead55d72112b9aacaabb142c&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【2/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【1/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2025-06-20T15:17:45】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522123&idx=1&sn=51472aabb44cc876d7ed35942dd81b7e&scene=27#wechat_redirect)
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
 
-[:camera_flash:【2025-06-20T14:00:44】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247496772&idx=2&sn=92d3b896f00c25a2cd2a57a10d57033b&scene=27#wechat_redirect)
+[:camera_flash:【2025-06-20T14:00:44】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247496772&idx=1&sn=0b27a0aaed283f8c7820ecff3af633be&scene=27#wechat_redirect)
 
 关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
 
@@ -242,6 +242,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 生活工作上努力成为最好自己的各类感想；企业信息安全建设的趋势和方向随笔。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ff60192713b6" alt="" />
+
+---
+
+
+### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:camera_flash:【2025-06-22T08:01:20】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056375&idx=1&sn=fba2e3a305fcb2d4f6dae1c93911f47b&scene=27#wechat_redirect)
+
+安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 
@@ -476,19 +489,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 信息安全运营原创实践分享等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66b42f2c03d3" alt="" />
-
----
-
-
-### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 

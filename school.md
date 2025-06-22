@@ -27,26 +27,13 @@
 
 ### [TJ网络安全与电子数据取证实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTY2MDAyMw==)
 
 [:camera_flash:【2025-05-29T21:36:01】](https://mp.weixin.qq.com/s?__biz=MzU2NTY2MDAyMw==&mid=2247485391&idx=1&sn=352af07323d0db90a3c3be329186e9ef&scene=27#wechat_redirect)
 
 彩虹七号网络安全与电子数据取证实验室成立于2017年5月20日。主要研究方向有网络攻防、电子数据取证、大数据等模块。团队致力于提供更好的学习交流平台，几年来培养出一大批网络安全专业技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fe60a47fe531" alt="" />
-
----
-
-
-### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2025-06-11T10:01:16】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510889&idx=1&sn=e0e9c0e3fc4e23c92d1e25accd084180&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
@@ -60,19 +47,6 @@
 为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
-
----
-
-
-### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2025-06-09T14:39:29】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484296&idx=1&sn=f8917f5433104d9b0c2f968a17f24545&scene=27#wechat_redirect)
-
-原名为网络安全学生社团，现名为网络攻防创新实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -99,6 +73,32 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【2025-06-11T10:01:16】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510889&idx=1&sn=e0e9c0e3fc4e23c92d1e25accd084180&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
+### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2025-06-09T14:39:29】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484296&idx=1&sn=f8917f5433104d9b0c2f968a17f24545&scene=27#wechat_redirect)
+
+原名为网络安全学生社团，现名为网络攻防创新实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -164,19 +164,6 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
-### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
-
-[:camera_flash:【2025-05-22T09:26:20】](https://mp.weixin.qq.com/s?__biz=MzIyNzU3Mzg2NQ==&mid=2247487166&idx=1&sn=226e2f5d9a6ff789b522a4d5ca6fd223&scene=27#wechat_redirect)
-
-网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
 
 ---
 
@@ -489,6 +476,19 @@
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
+
+---
+
+
+### [合天网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyNzU3Mzg2NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+网安学院拥有专业教学服务、就业指导，课程配套靶场实战平台（www.hetianlab.com），学员学完就练，切实提升实践动手能力；课程涵盖Web安全、软件安全、网络安全等网安各个相关方面。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6ba8f92d07d" alt="" />
 
 ---
 
