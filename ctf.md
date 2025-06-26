@@ -14,7 +14,7 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2025-06-19T11:38:36】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515657&idx=1&sn=fe788af0ee73ace852df737fa4173f3a&scene=27#wechat_redirect)
 
