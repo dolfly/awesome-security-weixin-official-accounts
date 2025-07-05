@@ -14,7 +14,7 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2025-06-19T11:38:36】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515657&idx=1&sn=fe788af0ee73ace852df737fa4173f3a&scene=27#wechat_redirect)
 
@@ -38,19 +38,6 @@ power by r3kapig team
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2025-06-20T10:01:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501796&idx=1&sn=a24bcf61a993050ceae6f4dec6eaabaa&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
@@ -60,6 +47,19 @@ power by r3kapig team
 本公众号为PolarD&amp;N实验室的唯一公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2025-06-20T10:01:07】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501796&idx=1&sn=a24bcf61a993050ceae6f4dec6eaabaa&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
