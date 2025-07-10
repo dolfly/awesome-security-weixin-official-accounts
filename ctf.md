@@ -1,9 +1,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【9/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【10/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-07-08T07:13:02】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485691&idx=1&sn=3e02f2bbb3563332faeaa9e2a8c0dca3&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-10T08:03:22】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -25,19 +25,6 @@ power by r3kapig team
 ---
 
 
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2025-06-19T11:38:36】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515657&idx=1&sn=fe788af0ee73ace852df737fa4173f3a&scene=27#wechat_redirect)
-
-发现和培养网络安全技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
@@ -51,6 +38,19 @@ power by r3kapig team
 ---
 
 
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2025-06-19T11:38:36】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515657&idx=1&sn=fe788af0ee73ace852df737fa4173f3a&scene=27#wechat_redirect)
+
+发现和培养网络安全技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
@@ -60,19 +60,6 @@ power by r3kapig team
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
-
-[:camera_flash:【2025-06-09T15:40:05】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484633&idx=1&sn=7537e024671b509af415ac50de57ffcb&scene=27#wechat_redirect)
-
-本公众号为PolarD&amp;N实验室的唯一公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
 
 ---
 
@@ -333,6 +320,19 @@ CTF协会
 “知识面决定攻击面”，靶场、靶机、漏洞复盘及分析，本号主要发长内容，中短篇内容都在@天禧信安
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b01702ed9a29" alt="" />
+
+---
+
+
+### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+本公众号为PolarD&amp;N实验室的唯一公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
 
 ---
 
