@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/108/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-07-10T07:57:08】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625771&idx=1&sn=c40909983d75a0893ba82368de923060&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-10T07:57:08】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625771&idx=2&sn=ba0a03b19037d139cd104618c05a0486&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-07-10T08:02:34】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489970&idx=1&sn=2422fe4eb62073ff217025916a663210&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-11T08:04:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489972&idx=1&sn=c3295bc4c016ce50089b276e601961b1&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【11/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-07-08T19:09:52】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454938870&idx=1&sn=4e2cfedaa2e4d8f63edf1f8e4b88b61a&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-10T13:08:40】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454938890&idx=1&sn=1da81f2dc80bfba4debe4415f13bbc50&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -79,9 +79,9 @@
 
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:camera_flash:【2025-06-12T19:50:00】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958633&idx=1&sn=8628d67af1370a871736640f6963fba5&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-10T10:15:14】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958668&idx=1&sn=9e4d6784df4b1dd91a083f6f2a0a961e&scene=27#wechat_redirect)
 
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 

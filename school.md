@@ -1,7 +1,7 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:camera_flash:【2025-07-02T17:02:16】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486533&idx=1&sn=c12ce87b5ee795214c8ac3bb8fa0043a&scene=27#wechat_redirect)
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
-
-[:camera_flash:【2025-07-03T17:56:17】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247488875&idx=1&sn=091f8816d649fffe7b75b89bdb50e2b9&scene=27#wechat_redirect)
-
-连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
-
----
-
-
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -60,6 +47,19 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+
+[:camera_flash:【2025-07-03T17:56:17】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247488875&idx=1&sn=091f8816d649fffe7b75b89bdb50e2b9&scene=27#wechat_redirect)
+
+连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
 
 ---
 

@@ -1,7 +1,7 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【10/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【10/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
 [:camera_flash:【2025-07-10T08:03:22】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479&scene=27#wechat_redirect)
 
@@ -25,28 +25,28 @@ power by r3kapig team
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2025-07-03T20:13:32】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501804&idx=1&sn=f27c1bf86d02aaae4768d1f8ce057b89&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-06-19T11:38:36】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515657&idx=1&sn=fe788af0ee73ace852df737fa4173f3a&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-09T09:01:13】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515671&idx=1&sn=9e67194fd10c501c7983fe4cbba0fa34&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2025-07-10T10:20:52】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501862&idx=1&sn=854574ddfdade7809dc6bd1852d52429&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
