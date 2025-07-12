@@ -1,13 +1,26 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【10/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【9/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
 [:camera_flash:【2025-07-10T08:03:22】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479&scene=27#wechat_redirect)
 
 PTE小技巧
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2025-07-11T09:00:39】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515679&idx=1&sn=b7074e00ece0dfa2db30f303583e3807&scene=27#wechat_redirect)
+
+发现和培养网络安全技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -21,19 +34,6 @@ PTE小技巧
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2025-07-09T09:01:13】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515671&idx=1&sn=9e67194fd10c501c7983fe4cbba0fa34&scene=27#wechat_redirect)
-
-发现和培养网络安全技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
