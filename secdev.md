@@ -14,9 +14,9 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:camera_flash:【2025-07-14T18:04:49】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247554129&idx=2&sn=672d3d434b837507753baf5aafc36220&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-14T18:04:49】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247554129&idx=3&sn=25eb946cf111a3dda70bff36290e9c02&scene=27#wechat_redirect)
 
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
@@ -27,9 +27,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【5/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【6/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2025-07-11T16:00:37】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539557&idx=1&sn=648655a10bf7fe6053ada20f3ef26f58&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-15T16:01:16】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539573&idx=1&sn=a721e2933ad640a3a4b3c72f74d76685&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -40,9 +40,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【24/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【25/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-07-14T12:01:33】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550972&idx=1&sn=b7a0e17d48eaf0fc1488c978e12d26df&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-15T12:02:16】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550983&idx=2&sn=3d5af3e998793f96a7fc70793a91744b&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2025-07-14T19:33:39】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522265&idx=1&sn=baf983ff8ba7278cd3c32e6d8dc78e88&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-15T14:35:31】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522273&idx=1&sn=942729004a2eddab1c011c0490e80cdb&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
