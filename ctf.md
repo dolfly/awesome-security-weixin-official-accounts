@@ -1,9 +1,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【7/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【8/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-07-13T14:47:05】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485749&idx=1&sn=0d6377cea58c8b3422305de9a4fa9c19&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-16T11:50:50】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485803&idx=1&sn=08d1333e3013ec932d6baf1e0e30ba0e&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -64,6 +64,19 @@ power by r3kapig team
 ---
 
 
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2025-07-17T17:57:00】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489339&idx=1&sn=0d12b66b785b62e832ed01f290a23f38&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
 ### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
@@ -86,19 +99,6 @@ power by r3kapig team
 赛博随笔，CTF，红蓝对抗，记录学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2025-07-07T15:07:30】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489335&idx=1&sn=12f0765ef0360d690f385fb1914e5814&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 

@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【18/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【19/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-07-15T12:30:15】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492956&idx=1&sn=f7c347506bfa13d920d68a596451e7e0&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-17T21:30:32】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492975&idx=1&sn=c996829b40a6da032f1e5170ffe5f873&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -12,24 +12,11 @@
 ---
 
 
-### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:camera_flash:【2025-07-14T11:26:17】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247515130&idx=1&sn=6a807d1e3f82c99b249d129d20f6b3aa&scene=27#wechat_redirect)
-
-字节跳动的技术实践分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-07-14T17:37:06】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794538&idx=1&sn=125717403a03f5e524053bde97c589f9&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-16T17:38:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794584&idx=1&sn=d817a98d879aa44874df5df692435332&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -38,11 +25,24 @@
 ---
 
 
+### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+
+[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+
+[:camera_flash:【2025-07-16T12:09:57】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247515187&idx=1&sn=92c81050723c949c500a02e46f6277fe&scene=27#wechat_redirect)
+
+字节跳动的技术实践分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
+
+---
+
+
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【4/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-07-10T19:59:29】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781123&idx=1&sn=3062a551cfdfc651ecd048a4378ca61a&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-17T19:58:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781207&idx=2&sn=786d6f4c489fe1d41a87043633ffc327&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -53,9 +53,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-06-29T23:03:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486763&idx=1&sn=5cacd04f1bb090fac17b7e9a6b01e661&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-17T23:20:51】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486768&idx=1&sn=5c9186ea43737d6108779abe4c171cfe&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -68,11 +68,24 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-07-10T10:54:20】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492600&idx=1&sn=0bbebef4b6cf9f5a5efc84744689c770&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-16T10:10:36】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492601&idx=1&sn=056d86052d821b4c0b83509c4f3dc488&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:camera_flash:【2025-07-17T15:48:43】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491761&idx=1&sn=46f12bd41c5d24e588b74d328f0986eb&scene=27#wechat_redirect)
+
+基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 
@@ -86,19 +99,6 @@
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
-### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:camera_flash:【2025-07-10T17:16:18】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491673&idx=1&sn=f72b035fb33486ae841cea0cc311659b&scene=27#wechat_redirect)
-
-基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 
@@ -129,6 +129,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【2025-07-17T12:00:33】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498893&idx=1&sn=af4aa9ed969c5961a3a00ad21006ef45&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
@@ -138,19 +151,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
-
----
-
-
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2025-07-03T12:02:02】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498874&idx=1&sn=84917a3dc2e73a4bdb441ffb668eccfa&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
