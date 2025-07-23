@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-07-21T10:13:54】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626137&idx=3&sn=f6cc641c0b308bfdbfa64e8623eb4c05&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-22T09:19:38】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626152&idx=2&sn=0a19b31615d8fe05a5a03b41b2808b43&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【13/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【14/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-07-21T08:16:38】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939032&idx=1&sn=5679fa0132dd03f96b7854e02250f5bb&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-22T19:17:21】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939036&idx=1&sn=6b3fee5aa8133a4a275d352e3dfd8411&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -86,19 +86,6 @@
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
-
----
-
-
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【2025-06-22T19:37:18】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484094&idx=1&sn=79893139de3e73c056837fa77731f364&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
@@ -320,6 +307,19 @@ IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息
 关注汽车网络安全，定期发布最专业的汽车网络安全攻防实验室相关实验结果，公开一些汽车网络攻防实验的细节，公布发现的汽车安全漏洞以帮助生产厂家认识到安全隐患！针对联网化的汽车网络安全性提供研究测试和公开报告！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_85e019862246" alt="" />
+
+---
+
+
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
