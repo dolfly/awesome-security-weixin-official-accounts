@@ -1,26 +1,26 @@
 
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2025-07-23T12:00:59】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247495529&idx=1&sn=ad8ba4352d730aec95441a61a53c644b&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
+
+---
+
+
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:camera_flash:【2025-07-22T15:04:46】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486551&idx=1&sn=789bf3529bcc6e890a9cc5146ba4a9d3&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2025-07-22T15:49:00】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247495505&idx=1&sn=098b4dcf46e48506fc2a20fcea92b2e0&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
@@ -51,15 +51,15 @@
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
-[:camera_flash:【2025-07-05T08:30:55】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247495991&idx=1&sn=7685152ac25a3478ce4655bad16a0d4d&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-23T12:45:27】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484309&idx=1&sn=e64602bc6decb963c18f07317376edf2&scene=27#wechat_redirect)
 
-东北大学“谛听”网络安全团队
+原名为网络安全学生社团，现名为网络攻防创新实验室
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -103,15 +103,15 @@
 ---
 
 
-### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2025-07-02T15:09:17】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484301&idx=1&sn=64070e36b0c62c6df4fd3f94b6565970&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-05T08:30:55】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247495991&idx=1&sn=7685152ac25a3478ce4655bad16a0d4d&scene=27#wechat_redirect)
 
-原名为网络安全学生社团，现名为网络攻防创新实验室
+东北大学“谛听”网络安全团队
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
