@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/94/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/93/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-07-26T11:31:17】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626269&idx=3&sn=ae40140a358d8a8e4311b90c3a8d8591&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-27T09:38:42】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626321&idx=2&sn=27c9a4d94788f0e09d194a29bcfdd4a9&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,7 +14,7 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2025-07-26T09:01:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247489998&idx=1&sn=c6341118b2d18a37931e27f146684eb1&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【13/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【14/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-07-26T19:08:37】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939096&idx=1&sn=26f44f1807ee5b4d03d2f5baffbd5376&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-27T12:35:48】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939112&idx=1&sn=8e8ae24bc0680ee0c6daffa4de05a1d7&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -86,6 +86,19 @@
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
+
+---
+
+
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2025-07-27T23:26:38】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484102&idx=1&sn=4ca7abdddf44976d336dd059fe915792&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
@@ -307,19 +320,6 @@ IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息
 关注汽车网络安全，定期发布最专业的汽车网络安全攻防实验室相关实验结果，公开一些汽车网络攻防实验的细节，公布发现的汽车安全漏洞以帮助生产厂家认识到安全隐患！针对联网化的汽车网络安全性提供研究测试和公开报告！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_85e019862246" alt="" />
-
----
-
-
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
