@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【16/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-07-30T17:24:12】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493144&idx=1&sn=d790aeb30bb923d930b00702e907f70a&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-31T21:30:49】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493145&idx=1&sn=9da53cb59ec1ddb5f67804b3908408b9&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,9 +14,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-07-29T15:58:42】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247515706&idx=1&sn=09f2741d65ec38e6cc55a9a9f1ed7313&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-31T18:05:16】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247515738&idx=1&sn=908b3881f8b9144b1f7b4bb05da8a117&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -27,7 +27,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2025-07-30T18:29:45】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794941&idx=1&sn=7efa044a3cce43f11273fe6b18607380&scene=27#wechat_redirect)
 
@@ -51,24 +51,11 @@
 ---
 
 
-### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:camera_flash:【2025-07-30T14:20:20】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492837&idx=1&sn=df51188bcc899b75759ea8c5e67bc4ad&scene=27#wechat_redirect)
-
-北邮图数据挖掘与机器学习实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
-
----
-
-
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-07-17T19:58:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781207&idx=1&sn=f29517c919d679e6b8dc617ea8dd5165&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-31T19:58:46】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781233&idx=1&sn=056c3896d154daf03bc5b173b03e43b0&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -77,9 +64,22 @@
 ---
 
 
+### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+
+[:camera_flash:【2025-07-31T17:22:37】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492840&idx=1&sn=03e4b10b3c9d2baac23e7a39f94ab0a7&scene=27#wechat_redirect)
+
+北邮图数据挖掘与机器学习实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
 ### [RapidDNS](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
 
 [:camera_flash:【2025-07-28T08:45:19】](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485809&idx=1&sn=4e197606c59c5e7bd4abddad2065549a&scene=27#wechat_redirect)
 
@@ -90,15 +90,15 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2025-07-21T17:17:42】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945629&idx=1&sn=0bab7c1e231a7349a15634e93e03a031&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-31T17:15:07】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491875&idx=1&sn=3e35af2dd7544e5c736e96213b99cfb4&scene=27#wechat_redirect)
 
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
+基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 
@@ -116,15 +116,15 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
-[:camera_flash:【2025-07-17T15:48:43】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491761&idx=1&sn=46f12bd41c5d24e588b74d328f0986eb&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-21T17:17:42】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945629&idx=1&sn=0bab7c1e231a7349a15634e93e03a031&scene=27#wechat_redirect)
 
-基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 

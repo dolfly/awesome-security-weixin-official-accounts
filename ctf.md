@@ -14,9 +14,9 @@ PTE小技巧
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【4/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:camera_flash:【2025-07-28T17:40:04】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508005&idx=1&sn=614f5148548a07c77c7d309661ba9e72&scene=27#wechat_redirect)
+[:camera_flash:【2025-07-31T11:15:10】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508007&idx=1&sn=5565cf8a518ac460d22d6a14bd223071&scene=27#wechat_redirect)
 
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
@@ -64,6 +64,19 @@ power by r3kapig team
 ---
 
 
+### [DefiniteR3dBlue](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
+
+[:camera_flash:【2025-07-31T21:17:49】](https://mp.weixin.qq.com/s?__biz=Mzg4NzU4MDE5NQ==&mid=2247484515&idx=1&sn=d3f09c4a6eb9b516e66d28af3ca35dff&scene=27#wechat_redirect)
+
+赛博随笔，CTF，红蓝对抗，记录学习
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
+
+---
+
+
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
@@ -86,19 +99,6 @@ power by r3kapig team
 山海关安全团队公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
-
----
-
-
-### [DefiniteR3dBlue](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
-
-[:camera_flash:【2025-07-12T18:26:39】](https://mp.weixin.qq.com/s?__biz=Mzg4NzU4MDE5NQ==&mid=2247484447&idx=1&sn=32426d6ed9ec408c0ef8bba0d53a93e2&scene=27#wechat_redirect)
-
-赛博随笔，CTF，红蓝对抗，记录学习
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
 
 ---
 

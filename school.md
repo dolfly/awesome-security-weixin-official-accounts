@@ -38,19 +38,6 @@
 ---
 
 
-### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2025-07-03T14:47:54】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510983&idx=1&sn=debeb719aaff1da4b4671f8657800449&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
-
----
-
-
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
@@ -125,6 +112,19 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
+
+---
+
+
+### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【2025-07-03T14:47:54】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510983&idx=1&sn=debeb719aaff1da4b4671f8657800449&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
