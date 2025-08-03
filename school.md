@@ -27,7 +27,7 @@
 
 ### [连天教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
 [:camera_flash:【2025-07-21T10:20:19】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247489015&idx=1&sn=4e4270c6c45c3b11fb3c9589776ceee6&scene=27#wechat_redirect)
 
@@ -99,19 +99,6 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2025-07-03T14:47:54】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247510983&idx=1&sn=debeb719aaff1da4b4671f8657800449&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
@@ -450,6 +437,19 @@
 绿盟科技网络安全学院（别名：猎鹰学院）秉承”卓尔不凡，极致专业”（The few The professional）的校训精神，依托集团安全研究院、五大安全实验室和四大战队的强大师资力量，提供网络安全人才培养、认证培训以及技术能力提升服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c887198c61eb" alt="" />
+
+---
+
+
+### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 

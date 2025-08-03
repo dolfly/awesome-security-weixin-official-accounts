@@ -25,19 +25,6 @@ PTE小技巧
 ---
 
 
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2025-07-25T10:23:38】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501910&idx=1&sn=f833ecc7b2d71346fd4e0c2388f83b3d&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
@@ -47,6 +34,19 @@ PTE小技巧
 发现和培养网络安全技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【2025-07-25T10:23:38】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247501910&idx=1&sn=f833ecc7b2d71346fd4e0c2388f83b3d&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
@@ -77,19 +77,6 @@ PTE小技巧
 ---
 
 
-### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:camera_flash:【2025-07-04T15:33:52】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247484750&idx=1&sn=53b460d3595fe887e2241cd4050b2b4a&scene=27#wechat_redirect)
-
-power by r3kapig team
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
-
----
-
-
 ### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
@@ -99,6 +86,19 @@ power by r3kapig team
 山海关安全团队公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
+
+---
+
+
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:camera_flash:【2025-07-04T15:33:52】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247484750&idx=1&sn=53b460d3595fe887e2241cd4050b2b4a&scene=27#wechat_redirect)
+
+power by r3kapig team
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 

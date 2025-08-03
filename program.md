@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【17/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【18/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-08-01T21:30:48】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493166&idx=1&sn=23e116437009e837af2faf226a070c90&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-02T21:30:38】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493202&idx=1&sn=df0d88fc643d18245afe3912d14df514&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -27,7 +27,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【5/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2025-08-01T17:37:17】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795009&idx=1&sn=7b5fdb783cd7fbf55ce5adecdf1c3c3d&scene=27#wechat_redirect)
 
@@ -40,26 +40,13 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【12/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-07-30T20:29:58】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486833&idx=1&sn=04e094a489a81a55451a241626fb9a2b&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-02T15:12:56】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486860&idx=1&sn=b5ca7c10f187959fff18e9b6a2f47445&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
-
----
-
-
-### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:camera_flash:【2025-07-31T19:58:46】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781233&idx=2&sn=2103d87df9984465dd2d34b8770299e0&scene=27#wechat_redirect)
-
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 
@@ -73,6 +60,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:camera_flash:【2025-07-31T19:58:46】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781233&idx=2&sn=2103d87df9984465dd2d34b8770299e0&scene=27#wechat_redirect)
+
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 
@@ -103,19 +103,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:camera_flash:【2025-07-31T17:15:07】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491875&idx=1&sn=3e35af2dd7544e5c736e96213b99cfb4&scene=27#wechat_redirect)
-
-基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
-
----
-
-
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
@@ -125,6 +112,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
+
+---
+
+
+### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:camera_flash:【2025-07-31T17:15:07】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247491875&idx=1&sn=3e35af2dd7544e5c736e96213b99cfb4&scene=27#wechat_redirect)
+
+基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 
@@ -155,19 +155,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2025-07-17T12:00:33】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498893&idx=1&sn=af4aa9ed969c5961a3a00ad21006ef45&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
-
----
-
-
 ### [逆向OneByOne](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
@@ -190,6 +177,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 一个产品设计师，打造了很多好玩有趣的产品
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5390c88db07d" alt="" />
+
+---
+
+
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【2025-07-17T12:00:33】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498893&idx=1&sn=af4aa9ed969c5961a3a00ad21006ef45&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
