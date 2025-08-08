@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-08-06T10:41:55】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626512&idx=2&sn=41207ef0a45a7a80636cdbca6671df96&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-07T09:23:25】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626526&idx=1&sn=b6a16c80fd46b2c9446e7364285785a2&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-08-07T08:00:27】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490026&idx=1&sn=ddca961439c4ead7856ee3e31bf6e3e9&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-08T08:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490030&idx=1&sn=684677a4a0918518a31c060ac3994669&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -27,9 +27,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【16/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【17/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-08-06T08:21:21】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939256&idx=1&sn=4d669a2c683516a1a43dbad8e35aed55&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-07T19:09:08】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939278&idx=1&sn=ecf3a628e3bd5ca9be29d3fa96c3e2b7&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -92,13 +92,26 @@
 
 ### [电子取证及可信应用协创中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
 
-[:camera_flash:【2025-07-17T12:04:10】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485602&idx=1&sn=d72a15eeebfe6852780056da7a714225&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-07T21:27:58】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485626&idx=1&sn=62844f4c379d383d3f8ec4042aa6b1b8&scene=27#wechat_redirect)
 
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
+
+---
+
+
+### [TahirSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
+
+[:camera_flash:【2025-08-07T20:35:20】](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247489956&idx=1&sn=4f944001f858889da22864f17a5b8459&scene=27#wechat_redirect)
+
+未知攻，焉知防，专注于高级威胁研究与数字调查取证。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea4772086043" alt="" />
 
 ---
 
@@ -255,19 +268,6 @@
 一群想胖的猴子
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1623eeae8094" alt="" />
-
----
-
-
-### [TahirSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-未知攻，焉知防，专注于高级威胁研究与数字调查取证。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ea4772086043" alt="" />
 
 ---
 
