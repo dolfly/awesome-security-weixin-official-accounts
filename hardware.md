@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-08-08T15:06:21】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626545&idx=1&sn=8fe64b2dcc5f8948cfe8f32a3cb2fd9f&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-09T12:04:08】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626565&idx=1&sn=ea1f8c7ebb94a123d535d18854b6fca3&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【17/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【18/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-08-08T20:20:01】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939379&idx=1&sn=619e0a062c78985d0559bb2d7fd0fa12&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-09T19:18:15】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939383&idx=1&sn=69824942d974cebc67b714edd9bbd60b&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-08-08T08:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490030&idx=1&sn=684677a4a0918518a31c060ac3994669&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-09T09:01:36】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490034&idx=1&sn=e3ee84ecdead31e94b0a5bed6dc9d586&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -40,7 +40,7 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 [:camera_flash:【2025-08-04T07:39:53】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048564&idx=2&sn=829af408c4f12e4323719e53dc4dbfe8&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:camera_flash:【2025-08-05T11:47:24】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958724&idx=1&sn=19fcaf3e08e16e3b1e598f05019f40eb&scene=27#wechat_redirect)
 
