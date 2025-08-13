@@ -14,9 +14,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-08-04T08:02:49】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485872&idx=1&sn=007ccef71fa2a175022218b98228b3af&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-12T13:18:32】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485878&idx=1&sn=5651d8512ddf8b314b6a71e9c6ba347a&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -64,6 +64,19 @@ PTE小技巧
 ---
 
 
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2025-08-12T10:14:08】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489343&idx=1&sn=9e944f6f6818ace552f058c59a1f5921&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
+
+---
+
+
 ### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
@@ -73,19 +86,6 @@ PTE小技巧
 山海关安全团队公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2025-07-17T17:57:00】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489339&idx=1&sn=0d12b66b785b62e832ed01f290a23f38&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
