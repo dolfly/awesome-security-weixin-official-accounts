@@ -1,7 +1,7 @@
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:camera_flash:【2025-08-06T14:29:14】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508034&idx=1&sn=aae7eeacbb8aa653619d02c1dca8577a&scene=27#wechat_redirect)
 
@@ -42,7 +42,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-08-07T10:22:08】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515705&idx=1&sn=3c70e179caf610eec0612e95993bc912&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-13T16:32:00】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515722&idx=1&sn=92398ccccf4684a867492d9102c0ec4e&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
