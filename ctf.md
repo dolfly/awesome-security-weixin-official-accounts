@@ -1,7 +1,7 @@
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【2/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:camera_flash:【2025-08-06T14:29:14】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508034&idx=1&sn=aae7eeacbb8aa653619d02c1dca8577a&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:camera_flash:【2025-08-12T13:18:32】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485878&idx=1&sn=5651d8512ddf8b314b6a71e9c6ba347a&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-14T20:34:59】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485890&idx=1&sn=0e07e3a842e81adcf0321546772ad291&scene=27#wechat_redirect)
 
 PTE小技巧
 
@@ -40,9 +40,9 @@ PTE小技巧
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-08-13T16:32:00】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515722&idx=1&sn=92398ccccf4684a867492d9102c0ec4e&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-14T09:00:13】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515723&idx=1&sn=c64e7c3b1b0c90be6f33d5f34bb32321&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
@@ -73,19 +73,6 @@ PTE小技巧
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
-
----
-
-
-### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:camera_flash:【2025-07-15T09:02:51】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247488803&idx=1&sn=514967aebf60bae5220aacb3f37d458d&scene=27#wechat_redirect)
-
-山海关安全团队公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
 
 ---
 
@@ -294,6 +281,19 @@ CTF协会
 关注网络安全，和你一起分享安全技术。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d10dfd684f1b" alt="" />
+
+---
+
+
+### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+山海关安全团队公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
 
 ---
 

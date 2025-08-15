@@ -1,7 +1,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【18/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【17/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2025-08-12T21:30:49】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493334&idx=1&sn=a1167c0755240478bcd2536d47d94113&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-08-11T17:36:44】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795087&idx=1&sn=2b36718af933bbf34abd8640c0662f23&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-14T17:37:32】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795117&idx=1&sn=675deee5152be251d0531015725c6aa0&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -53,9 +53,9 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-08-07T19:59:35】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781259&idx=2&sn=27e94307832c8f620ecb70152417639d&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-14T19:58:46】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781314&idx=2&sn=910e17e7548f0a612ed62714d30aeffc&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -103,6 +103,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【2025-08-14T13:31:06】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498918&idx=1&sn=413c0df35ba68561b41f75fb411595f5&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
@@ -125,32 +138,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
-
----
-
-
-### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:camera_flash:【2025-07-28T09:07:09】](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247492182&idx=1&sn=3b1b8ee3184acace17c36dfbb01e9424&scene=27#wechat_redirect)
-
-北京张量无限科技有限公司官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
-
----
-
-
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2025-08-07T12:01:03】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247498917&idx=1&sn=6cb602e59e754ba05ab79e3d6e69f6bb&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 一个产品设计师，打造了很多好玩有趣的产品
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5390c88db07d" alt="" />
+
+---
+
+
+### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:camera_flash:【2025-07-28T09:07:09】](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247492182&idx=1&sn=3b1b8ee3184acace17c36dfbb01e9424&scene=27#wechat_redirect)
+
+北京张量无限科技有限公司官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
 
 ---
 
