@@ -66,7 +66,7 @@ PTE小技巧
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:camera_flash:【2025-08-12T10:14:08】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489343&idx=1&sn=9e944f6f6818ace552f058c59a1f5921&scene=27#wechat_redirect)
 
