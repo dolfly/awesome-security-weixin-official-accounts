@@ -14,7 +14,7 @@
 
 ### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
-[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
 
 [:camera_flash:【2025-08-14T20:34:59】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485890&idx=1&sn=0e07e3a842e81adcf0321546772ad291&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@ PTE小技巧
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2025-08-11T18:20:05】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502084&idx=1&sn=d8fdf2360340fbb90249f0516e0368ed&scene=27#wechat_redirect)
 
