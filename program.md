@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【16/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【17/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-08-15T21:30:53】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493397&idx=1&sn=f54c13084bc0d57de5e70ccfb671b57f&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-18T21:30:37】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493404&idx=1&sn=8c104a45e3d2a3d53c2176780344c7d0&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【18/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-08-17T20:17:18】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486925&idx=1&sn=628673a169eb465daf0580072a5e2514&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-18T18:06:20】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486929&idx=1&sn=e91471d095908c324ae16a2dd3e2c4dd&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-08-14T17:37:32】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795117&idx=1&sn=675deee5152be251d0531015725c6aa0&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-18T17:37:20】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795157&idx=1&sn=54302d60fa92b035d4cd1eda11f56a08&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -40,9 +40,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【4/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【4/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-08-15T18:10:26】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516359&idx=1&sn=7328bfa8ceaea4ecf18693fb6d1fbf5e&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-18T11:28:54】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516373&idx=1&sn=3b82782dd2eca76bca008422322077eb&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -53,9 +53,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-08-13T20:45:41】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492957&idx=1&sn=ec9801c5334fec1ff6a785ea3d52ab7e&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-18T16:44:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492958&idx=1&sn=9d79c25141abbcbfeecc4704d5b0e20c&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -103,9 +103,35 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [huasec](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
+
+[:camera_flash:【2025-08-18T20:04:50】](https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485278&idx=1&sn=803363b39ca90d36ca37c4a08f9285b7&scene=27#wechat_redirect)
+
+分享一些平时所学，励志成为一名安全研发。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d9544647f40b" alt="" />
+
+---
+
+
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:camera_flash:【2025-08-18T15:15:48】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945660&idx=1&sn=15def756381e977558ef5cb768e68351&scene=27#wechat_redirect)
+
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
+
+---
+
+
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
 [:camera_flash:【2025-08-15T12:25:18】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484896&idx=1&sn=cc147f8943aab6a157b2cd153ee870f2&scene=27#wechat_redirect)
 
@@ -125,19 +151,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 爱奇艺的技术产品团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
-
----
-
-
-### [huasec](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
-
-[:camera_flash:【2025-08-12T20:28:35】](https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485230&idx=1&sn=652eabea2d81cfe8ee50b09b3379e962&scene=27#wechat_redirect)
-
-分享一些平时所学，励志成为一名安全研发。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d9544647f40b" alt="" />
 
 ---
 
@@ -190,19 +203,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 北京张量无限科技有限公司官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
-
----
-
-
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:camera_flash:【2025-08-01T09:00:46】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945645&idx=1&sn=4d86bf5d392540d7d24dfc990abef158&scene=27#wechat_redirect)
-
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 
