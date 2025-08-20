@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/78/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-08-18T13:50:13】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626734&idx=2&sn=fd35b3bec665071d8b4dd6c5290131d0&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-19T14:24:44】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626767&idx=1&sn=b6c7de758de6f021ddc0c02ee3ae7aa8&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【18/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【19/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-08-18T19:11:36】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939446&idx=1&sn=733c54a5965b14f8b16a9d6c22570ab1&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-19T20:24:47】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939470&idx=1&sn=0c5377f06ad904e07c3fd4c255ddb54c&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-08-18T08:01:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490050&idx=1&sn=889852018c94efbaa5729aed5771620b&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-19T09:00:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490052&idx=1&sn=d8b2c7a7fe70b689f881b1021011a713&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2025-08-12T00:00:45】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048567&idx=1&sn=f89cc985e22797068cb866b660138f5a&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-12T00:00:45】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048567&idx=2&sn=3831b86d2aeef6af7a4b3376b895396f&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:camera_flash:【2025-08-18T22:03:03】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484547&idx=1&sn=f5babddfd2a49cae75e32d6c5d77d702&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-19T11:33:00】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484549&idx=1&sn=053b76902e6ea92f799c300bbd7db616&scene=27#wechat_redirect)
 
 电子数据取证与应急响应从业者交流平台
 
@@ -138,19 +138,6 @@
 我们专注于电子取证技术的分享及司法鉴定实践的交流，涵盖了计算机取证、手机取证、电子物证、司法鉴定等众多领域，是电子取证公司与电子取证从业者交流学习的首选平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_336d761a246b" alt="" />
-
----
-
-
-### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
-
-[:camera_flash:【2025-07-20T14:25:32】](https://mp.weixin.qq.com/s?__biz=Mzg4MDA2NjExMA==&mid=2247490220&idx=1&sn=5d4e9585bb8780e15851f0ed3070cf91&scene=27#wechat_redirect)
-
-吉林省信睿网络官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
@@ -307,6 +294,19 @@
 关注汽车网络安全，定期发布最专业的汽车网络安全攻防实验室相关实验结果，公开一些汽车网络攻防实验的细节，公布发现的汽车安全漏洞以帮助生产厂家认识到安全隐患！针对联网化的汽车网络安全性提供研究测试和公开报告！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_85e019862246" alt="" />
+
+---
+
+
+### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+吉林省信睿网络官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
 
 ---
 
