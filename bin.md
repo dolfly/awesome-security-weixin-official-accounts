@@ -1,7 +1,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/71/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 [:camera_flash:【2025-08-21T17:59:56】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598771&idx=3&sn=d1865bd7060e2c54791d43d9cbe6887b&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2025-08-21T22:25:51】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520385&idx=1&sn=ee12cfb978d376869a4a76ae46d0874b&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-22T11:35:50】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520386&idx=1&sn=ed0dc0986d67747be54127c0f3a7bc68&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
