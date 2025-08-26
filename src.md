@@ -53,9 +53,9 @@
 
 ### [CNVD漏洞平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:camera_flash:【2025-08-18T18:09:39】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496231&idx=1&sn=82c462da1da9c2618d21e0b001a18086&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-25T18:17:28】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=2&sn=01ce63ed042a94bde7e31b9ca7ce7873&scene=27#wechat_redirect)
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
@@ -66,7 +66,7 @@
 
 ### [京东安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk2MTMxOQ==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk2MTMxOQ==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk2MTMxOQ==)
 
 [:camera_flash:【2025-08-14T10:08:19】](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727849847&idx=1&sn=94343eb72f698d9b57c579a9779c3707&scene=27#wechat_redirect)
 
