@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【16/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【16/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-08-25T21:30:51】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493536&idx=1&sn=f92ee56a79e0998b0c6f08ee79631f52&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-26T11:23:17】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493543&idx=1&sn=74bde7232c463d0cf7b6fa0c8e8f50aa&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-08-23T17:55:53】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486959&idx=1&sn=43ddf81c62e87a4e9cc5e1a41856d8e0&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【4/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【4/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-08-20T17:38:19】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516432&idx=1&sn=11e3a7cb9743fd99f244cb164a473e33&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-26T18:08:19】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516461&idx=1&sn=ce4917a4ab56c2c136290e20c5ba79f5&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -40,7 +40,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2025-08-25T20:51:16】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795329&idx=1&sn=a80fda52be23f780c0e77179c03d636c&scene=27#wechat_redirect)
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-08-21T19:58:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=2&sn=87cd6b63fbf0aebfbdbe64c481979c7c&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-21T19:58:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781337&idx=3&sn=d6e62d0e95e8cbe5cbc6da719090ad63&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -79,9 +79,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2025-08-19T12:01:21】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503384&idx=1&sn=fc5ff5bc5e96000686132fe18e70b245&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-26T12:02:38】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503399&idx=1&sn=486abeda98f6d2faf2150b006ff6b94b&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -103,19 +103,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:camera_flash:【2025-08-22T22:11:01】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484897&idx=1&sn=fc220d583100bccdd5aa653d9f74b0f2&scene=27#wechat_redirect)
-
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
-
----
-
-
 ### [huasec](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyOTY1NDE5Mg==)
@@ -129,6 +116,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【2025-08-22T22:11:01】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484897&idx=1&sn=fc220d583100bccdd5aa653d9f74b0f2&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
+
+---
+
+
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
@@ -138,19 +138,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 爱奇艺的技术产品团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
-
----
-
-
-### [逆向OneByOne](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
-
-[:camera_flash:【2025-07-29T09:16:02】](https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494064&idx=1&sn=2605de67dfc046e356d922e2a2c2b47c&scene=27#wechat_redirect)
-
-逆向案例小笔记
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
 
 ---
 
@@ -181,6 +168,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [逆向OneByOne](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
+
+[:camera_flash:【2025-07-29T09:16:02】](https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494064&idx=1&sn=2605de67dfc046e356d922e2a2c2b47c&scene=27#wechat_redirect)
+
+逆向案例小笔记
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
+
+---
+
+
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
@@ -190,6 +190,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
+
+---
+
+
+### [360Quake空间测绘](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
+
+[:camera_flash:【2025-08-26T14:42:53】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE4MDE2NA==&mid=2247487962&idx=1&sn=970656dfbebe521ec43b1034866f6698&scene=27#wechat_redirect)
+
+360 网络空间测绘系统（QUAKE) 是 360 网络安全响应中心（360-CERT）自主设计研发的全球网络空间测绘系统，能够对全球 IPv4、IPv6 地址进行持续性探测，实时感知全球网络空间中各类资产并发现其安全风险。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0284fd4851e7" alt="" />
 
 ---
 
@@ -372,19 +385,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 / 黑客语言
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f52cadd4bf58" alt="" />
-
----
-
-
-### [360Quake空间测绘](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE4MDE2NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-360 网络空间测绘系统（QUAKE) 是 360 网络安全响应中心（360-CERT）自主设计研发的全球网络空间测绘系统，能够对全球 IPv4、IPv6 地址进行持续性探测，实时感知全球网络空间中各类资产并发现其安全风险。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0284fd4851e7" alt="" />
 
 ---
 
