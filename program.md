@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【16/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【17/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-08-26T11:23:17】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493543&idx=1&sn=74bde7232c463d0cf7b6fa0c8e8f50aa&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-27T21:30:36】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493597&idx=1&sn=45c8d52a4b9f8e73c4ab92f100ff3b14&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【14/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-08-23T17:55:53】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486959&idx=1&sn=43ddf81c62e87a4e9cc5e1a41856d8e0&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-27T21:13:24】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247486968&idx=1&sn=6edbcbd58be11049593729495c056f1c&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -25,28 +25,28 @@
 ---
 
 
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:camera_flash:【2025-08-27T17:46:56】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795537&idx=1&sn=fd99f498a1b5ef21e2728af342feb968&scene=27#wechat_redirect)
+
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【4/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2025-08-26T18:08:19】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516461&idx=1&sn=ce4917a4ab56c2c136290e20c5ba79f5&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:camera_flash:【2025-08-25T20:51:16】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795329&idx=1&sn=a80fda52be23f780c0e77179c03d636c&scene=27#wechat_redirect)
-
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
 
 ---
 
@@ -64,19 +64,6 @@
 ---
 
 
-### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
-
-[:camera_flash:【2025-08-18T16:44:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492958&idx=1&sn=9d79c25141abbcbfeecc4704d5b0e20c&scene=27#wechat_redirect)
-
-北邮图数据挖掘与机器学习实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
-
----
-
-
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
@@ -90,15 +77,15 @@
 ---
 
 
-### [RapidDNS](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-08-13T08:45:11】](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485825&idx=1&sn=7c5c7f4c96e7ce3332e9544276dd8025&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-18T16:44:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492958&idx=1&sn=9d79c25141abbcbfeecc4704d5b0e20c&scene=27#wechat_redirect)
 
-RapidDNS.io 是一个免费开放的DNS在线查询平台。
+北邮图数据挖掘与机器学习实验室
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6327c9075859" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
 
 ---
 
@@ -112,6 +99,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 分享一些平时所学，励志成为一名安全研发。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d9544647f40b" alt="" />
+
+---
+
+
+### [RapidDNS](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+
+[:camera_flash:【2025-08-13T08:45:11】](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485825&idx=1&sn=7c5c7f4c96e7ce3332e9544276dd8025&scene=27#wechat_redirect)
+
+RapidDNS.io 是一个免费开放的DNS在线查询平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6327c9075859" alt="" />
 
 ---
 
@@ -151,19 +151,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
-
----
-
-
-### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:camera_flash:【2025-07-28T09:07:09】](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247492182&idx=1&sn=3b1b8ee3184acace17c36dfbb01e9424&scene=27#wechat_redirect)
-
-北京张量无限科技有限公司官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
 
 ---
 
@@ -242,6 +229,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 专注Python、爬虫、后端、Poc、Exp及各种骚操作。各位如有什么想法，请私信我~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3093cf54140f" alt="" />
+
+---
+
+
+### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+北京张量无限科技有限公司官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
 
 ---
 
