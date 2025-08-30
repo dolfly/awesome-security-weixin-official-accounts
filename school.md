@@ -14,13 +14,26 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:camera_flash:【2025-08-26T10:40:29】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247511043&idx=1&sn=ecbea93c0490c5bcdaae3160bd3b92ed&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-29T11:00:23】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247511057&idx=1&sn=f0c09bb083ede818724c216611ca2091&scene=27#wechat_redirect)
 
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
+### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:camera_flash:【2025-08-29T19:26:55】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487223&idx=1&sn=67ba19babfffa050183056508d84a5b5&scene=27#wechat_redirect)
+
+奇安信高校合作中心，架起高校和安全产业的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 
@@ -34,19 +47,6 @@
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:camera_flash:【2025-08-15T19:00:52】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487210&idx=1&sn=8970f240984ecf3a532d6fe07ea1c440&scene=27#wechat_redirect)
-
-奇安信高校合作中心，架起高校和安全产业的桥梁。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 
