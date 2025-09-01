@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【1/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-08-30T17:35:45】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=1&sn=a6f2d7fb68a406ad8971e5ff230d371e&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-31T17:59:53】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599164&idx=1&sn=9162619590f3ea341f67c2c66e80c5ce&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2025-08-30T22:35:36】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520437&idx=1&sn=a32c64576249809d3c5184cdc92d64f8&scene=27#wechat_redirect)
+[:camera_flash:【2025-08-31T11:01:36】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520441&idx=1&sn=159f929ede07df7046b97032272e3290&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
