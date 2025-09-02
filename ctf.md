@@ -40,9 +40,9 @@ PTE小技巧
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2025-08-30T13:17:43】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502151&idx=1&sn=b5346e5e845c1248b4b5da3db13c3bbf&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-01T18:18:48】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502165&idx=1&sn=482ba41d388fea6898853576822f9b52&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
