@@ -27,9 +27,9 @@
 
 ### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
 
-[:camera_flash:【2025-08-29T19:26:55】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487223&idx=1&sn=67ba19babfffa050183056508d84a5b5&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-03T16:24:27】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487241&idx=1&sn=4e3610134a83e7ce5bf27c192c751be0&scene=27#wechat_redirect)
 
 奇安信高校合作中心，架起高校和安全产业的桥梁。
 
