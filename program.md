@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【15/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【14/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-09-03T17:57:34】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T19:03:29】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493718&idx=1&sn=06d6fc754c9afc29bbc8e17c8416e6cb&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【9/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【8/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-09-03T08:26:46】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487006&idx=1&sn=55f836ed2e5c42480ce6ff0180369d68&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-05T06:41:18】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487017&idx=1&sn=6e0c3a4aadc930f067bd42951e2bc860&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-09-01T17:36:01】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795616&idx=1&sn=8e3c7b038e2567ceaf4149c541c0c120&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T17:28:52】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795637&idx=1&sn=5fddb7e18ac14e45ef1f2e56db38fa67&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -40,9 +40,9 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【4/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-09-01T10:23:57】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781364&idx=1&sn=fcfad8ea94c40ccf9b14cf840fbc8e78&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T19:59:10】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781386&idx=1&sn=f5c9294a9c6da17b46a786d1723efabd&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -53,9 +53,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【2/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-09-01T17:34:31】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516505&idx=1&sn=e60a4e138aa3a17c822202d612a63069&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T18:03:45】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516514&idx=1&sn=7d72f64b15055ccafeb7feba85da4b55&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2025-08-26T12:02:38】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503399&idx=1&sn=486abeda98f6d2faf2150b006ff6b94b&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T12:04:55】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503446&idx=1&sn=05fba9a60da1133bf0e82aeeb1a06d1d&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -79,9 +79,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-09-01T12:38:47】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247492983&idx=1&sn=46117217507877ba1c2d5b77c848a553&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T10:05:25】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493003&idx=1&sn=4fe5a0a05e1a1f1abb73232cc71cafb6&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 

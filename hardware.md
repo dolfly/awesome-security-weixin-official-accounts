@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-09-03T08:40:31】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627099&idx=2&sn=526d580dafa513b906a35e63c852f955&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T09:14:08】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627116&idx=2&sn=2c1a3eca8e7441949fb199a8d914caf5&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-09-03T09:01:37】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490078&idx=1&sn=7aaf383c10bf8c8200cca546581afc9a&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-04T09:00:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490080&idx=1&sn=d82e5b702ec36b306651d15ab076bdc5&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2025-09-01T00:01:44】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048599&idx=2&sn=bcc8988698a266e9dcca6b8f369099b9&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-01T00:01:44】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048599&idx=1&sn=9b068ed352db61a2ae77d72c3a7534a9&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
@@ -53,9 +53,9 @@
 
 ### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2025-09-03T08:08:19】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889695&idx=1&sn=fb8496136805efc3a66f78acae006d9a&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-05T08:08:49】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889718&idx=1&sn=d1c396b07f48804c5d598a1b8a0099b0&scene=27#wechat_redirect)
 
 关注电子数据取证与网络犯罪调查
 
@@ -116,19 +116,6 @@
 ---
 
 
-### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
-
-[:camera_flash:【2025-08-05T11:47:24】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648958724&idx=1&sn=19fcaf3e08e16e3b1e598f05019f40eb&scene=27#wechat_redirect)
-
-坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
-
----
-
-
 ### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
@@ -138,6 +125,19 @@
 网络安全自学交流，提高效率，少走弯路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
+### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
 
 ---
 

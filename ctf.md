@@ -27,7 +27,7 @@ PTE小技巧
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:camera_flash:【2025-09-01T18:18:48】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502165&idx=1&sn=482ba41d388fea6898853576822f9b52&scene=27#wechat_redirect)
 

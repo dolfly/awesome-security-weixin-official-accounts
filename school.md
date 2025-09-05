@@ -1,17 +1,4 @@
 
-### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
-
-[:camera_flash:【2025-08-21T17:00:17】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247495822&idx=1&sn=74b4e61b671f2b2a918865e79d2861c0&scene=27#wechat_redirect)
-
-以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
-
----
-
-
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
@@ -34,6 +21,19 @@
 奇安信高校合作中心，架起高校和安全产业的桥梁。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
+
+---
+
+
+### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+
+[:camera_flash:【2025-08-21T17:00:17】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247495822&idx=1&sn=74b4e61b671f2b2a918865e79d2861c0&scene=27#wechat_redirect)
+
+以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f1bf07da06d8" alt="" />
 
 ---
 
