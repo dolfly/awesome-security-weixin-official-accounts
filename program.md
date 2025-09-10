@@ -1,7 +1,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【14/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【14/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2025-09-08T22:15:57】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493725&idx=1&sn=d502a6829cc12e0fb29e00ec06dfe3ba&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【8/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【9/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-09-08T18:31:07】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487061&idx=1&sn=3dee3377a1225605170b20cdd5d9f8cb&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-10T06:55:40】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487066&idx=1&sn=a478812c5b11500bcef574b64562f8fe&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -40,9 +40,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【3/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-09-04T18:03:45】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516514&idx=1&sn=7d72f64b15055ccafeb7feba85da4b55&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-09T17:04:56】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516579&idx=1&sn=75a399e74cab85aa2c162537cd4d16e9&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -86,6 +86,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:camera_flash:【2025-09-04T18:11:48】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492109&idx=1&sn=8244a5b12df081f8e7d170e7d7e81cc7&scene=27#wechat_redirect)
+
+基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 
@@ -177,19 +190,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
-
----
-
-
-### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:camera_flash:【2025-08-28T18:00:34】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492082&idx=1&sn=ccc5ae1409c3471cb4fd62409c6c36b4&scene=27#wechat_redirect)
-
-基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 

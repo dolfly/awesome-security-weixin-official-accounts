@@ -38,6 +38,32 @@
 ---
 
 
+### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:camera_flash:【2025-09-06T13:37:19】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247486311&idx=1&sn=ecd8bf05125e1b7f8b451a5bf50b0245&scene=27#wechat_redirect)
+
+杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2025-08-21T15:00:21】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496020&idx=1&sn=8f5c6208279fa40a440462d10ecea419&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
@@ -51,15 +77,28 @@
 ---
 
 
-### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+### [御林安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
 
-[:camera_flash:【2025-09-06T13:37:19】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247486311&idx=1&sn=ecd8bf05125e1b7f8b451a5bf50b0245&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-09T12:05:30】](https://mp.weixin.qq.com/s?__biz=MzU2NTExMDQxOQ==&mid=2247486869&idx=1&sn=409e0f1590c408019922adc9bdfa0185&scene=27#wechat_redirect)
 
-杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
+电子科技大学御林安全工作室官方公众号
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
+
+---
+
+
+### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
+
+[:camera_flash:【2025-09-09T23:59:58】](https://mp.weixin.qq.com/s?__biz=MzU2MTI2NDA5MA==&mid=2247483935&idx=1&sn=c26ece2041005cdfc67924bc52faccf2&scene=27#wechat_redirect)
+
+广东外语外贸大学网络安全实验室信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
 
 ---
 
@@ -73,19 +112,6 @@
 湖南农业大学蝰蛇安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2025-08-21T15:00:21】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496020&idx=1&sn=8f5c6208279fa40a440462d10ecea419&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -125,19 +151,6 @@
 清华大学学生网络安全技术协会信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
-### [广外网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTI2NDA5MA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-广东外语外贸大学网络安全实验室信息推送和资源平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
 
 ---
 
@@ -697,19 +710,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 江西理工大学信息安全工作室——Stalker战队公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ef9d824452a5" alt="" />
-
----
-
-
-### [御林安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-电子科技大学御林安全工作室官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
 
 ---
 

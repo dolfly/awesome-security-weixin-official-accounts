@@ -1,7 +1,7 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/68/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
 [:camera_flash:【2025-09-07T20:33:31】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247555650&idx=5&sn=989052d99b91cace86c7378729607f02&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【0/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2025-09-07T19:30:35】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637219&idx=4&sn=224e7e67f8e66d729e749f26d452d5a9&scene=27#wechat_redirect)
 
@@ -27,13 +27,26 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【24/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【24/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-09-08T14:53:36】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551881&idx=1&sn=b65b49575c793013a09b2cb588ec3161&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-09T12:02:34】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551904&idx=1&sn=8afcd41d2eb1f791bbd0a67f8b8a779f&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
+
+---
+
+
+### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+
+[:chart_with_upwards_trend:【1/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+
+[:camera_flash:【2025-09-08T16:01:26】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540223&idx=1&sn=787e4d4e95ee9d914a9f1db76d60c57c&scene=27#wechat_redirect)
+
+中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
 
 ---
 
@@ -51,24 +64,11 @@
 ---
 
 
-### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
-
-[:chart_with_upwards_trend:【1/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
-
-[:camera_flash:【2025-09-08T16:01:26】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540223&idx=1&sn=787e4d4e95ee9d914a9f1db76d60c57c&scene=27#wechat_redirect)
-
-中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bacd64503774" alt="" />
-
----
-
-
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【16/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【18/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2025-08-30T00:00:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516206&idx=1&sn=5cf05a43fdefeecd8c93114ba8f6eba3&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-10T00:00:42】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516356&idx=3&sn=c899b7a43390bf48f9e6fb5423f1be95&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -92,13 +92,26 @@
 
 ### [爱加密](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
-[:chart_with_upwards_trend:【3/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
+[:chart_with_upwards_trend:【3/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzU4NjkyMw==)
 
 [:camera_flash:【2025-09-02T16:02:32】](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650748816&idx=1&sn=c27a29c4dd18ddd91de377701bbf152a&scene=27#wechat_redirect)
 
 爱加密是全球专业的移动信息安全服务提供商,专注于移动应用安全、大数据及物联网安全。品牌官网：www.ijiami.cn；服务电话： 4000-618-110
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0e28cef7681c" alt="" />
+
+---
+
+
+### [企业安全实践](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
+
+[:camera_flash:【2025-09-04T15:45:43】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db&scene=27#wechat_redirect)
+
+企业安全实践经验分享，包括安全运营、应急响应、安全平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8883bbfe64e0" alt="" />
 
 ---
 
@@ -138,19 +151,6 @@
 持续关注企业与信息安全建设，分享精选干货。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
-
----
-
-
-### [企业安全实践](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NjU0OTQyMg==)
-
-[:camera_flash:【2025-09-04T15:45:43】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db&scene=27#wechat_redirect)
-
-企业安全实践经验分享，包括安全运营、应急响应、安全平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8883bbfe64e0" alt="" />
 
 ---
 
@@ -216,6 +216,19 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 信息安全体系建设相关内容分享…不定时更新，可随时取关…
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
+
+---
+
+
+### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:camera_flash:【2025-09-08T07:00:15】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056394&idx=1&sn=5353eeb76091e39242cf6c80ebb6d663&scene=27#wechat_redirect)
+
+安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 
@@ -463,19 +476,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 信息安全运营原创实践分享等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66b42f2c03d3" alt="" />
-
----
-
-
-### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 
