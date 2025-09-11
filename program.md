@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【14/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【15/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-09-08T22:15:57】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493725&idx=1&sn=d502a6829cc12e0fb29e00ec06dfe3ba&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-10T23:02:27】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493726&idx=1&sn=3d3a2e1a23b20c9a5917381ba601763b&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【9/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【8/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-09-10T06:55:40】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487066&idx=1&sn=a478812c5b11500bcef574b64562f8fe&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-09-08T17:36:59】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795667&idx=1&sn=d035910e8516e889efac55f95217bdd4&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-10T22:59:14】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795670&idx=1&sn=6282ee9ac2c63ebbaa972e43c7e7ef6c&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-09-09T17:04:56】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516579&idx=1&sn=75a399e74cab85aa2c162537cd4d16e9&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-10T17:03:47】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516613&idx=1&sn=e6bc1d99e2493b870da2494bd04645ef&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -66,9 +66,9 @@
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2025-09-05T14:01:38】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503453&idx=1&sn=e9291bc42387253f8973463fc0d2da15&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-10T12:05:15】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503460&idx=1&sn=a713aab98de7bc6333e095baa41dad27&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
@@ -129,19 +129,6 @@
 ---
 
 
-### [RapidDNS](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
-
-[:camera_flash:【2025-08-13T08:45:11】](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485825&idx=1&sn=7c5c7f4c96e7ce3332e9544276dd8025&scene=27#wechat_redirect)
-
-RapidDNS.io 是一个免费开放的DNS在线查询平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6327c9075859" alt="" />
-
----
-
-
 ### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
@@ -177,6 +164,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
+
+---
+
+
+### [RapidDNS](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NDU0ODMxOQ==)
+
+[:camera_flash:【2025-08-13T08:45:11】](https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485825&idx=1&sn=7c5c7f4c96e7ce3332e9544276dd8025&scene=27#wechat_redirect)
+
+RapidDNS.io 是一个免费开放的DNS在线查询平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6327c9075859" alt="" />
 
 ---
 
