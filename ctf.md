@@ -1,7 +1,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2025-08-24T20:10:31】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515784&idx=1&sn=50f089ec9666ec92f7e8acd458b33d19&scene=27#wechat_redirect)
 
@@ -38,6 +38,19 @@ PTE小技巧
 ---
 
 
+### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+
+[:camera_flash:【2025-09-14T09:00:25】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484682&idx=1&sn=b4824d6a290a899af4167d8983e89faf&scene=27#wechat_redirect)
+
+本公众号为PolarD&amp;N实验室的唯一公众号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
+
+---
+
+
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
@@ -60,19 +73,6 @@ PTE小技巧
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
-
-[:camera_flash:【2025-09-13T09:01:16】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247484661&idx=1&sn=afb7c1aab3c2214b0bd3004040aab6d5&scene=27#wechat_redirect)
-
-本公众号为PolarD&amp;N实验室的唯一公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
 
 ---
 

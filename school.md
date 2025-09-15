@@ -12,19 +12,6 @@
 ---
 
 
-### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:camera_flash:【2025-09-05T13:49:17】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487245&idx=1&sn=f086a778903fde8a09b8a1b092329932&scene=27#wechat_redirect)
-
-奇安信高校合作中心，架起高校和安全产业的桥梁。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
-
----
-
-
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
@@ -34,6 +21,19 @@
 启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
+
+---
+
+
+### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:camera_flash:【2025-09-05T13:49:17】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487245&idx=1&sn=f086a778903fde8a09b8a1b092329932&scene=27#wechat_redirect)
+
+奇安信高校合作中心，架起高校和安全产业的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 

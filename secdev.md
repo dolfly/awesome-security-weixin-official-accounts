@@ -1,7 +1,7 @@
 
 ### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
-[:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+[:chart_with_upwards_trend:【0/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
 
 [:camera_flash:【2025-09-12T19:46:05】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247555862&idx=2&sn=df3018284bf1f28d6ff3d664da636d16&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【1/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2025-09-12T19:30:46】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637284&idx=1&sn=d96a97d7bd185ae34e02e3a5f1a17c44&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-12T19:30:46】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637284&idx=3&sn=3eaaa845e4cf7d966b4da8cc15ae18d5&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【25/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-09-13T12:00:41】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-14T12:02:04】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552036&idx=2&sn=2006ccb8d49232c7150228c2e449b122&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2025-09-12T11:02:44】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522635&idx=1&sn=bf66e106cab38ea645f8f3d2e0325ef7&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【2/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2025-09-12T16:03:04】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540258&idx=1&sn=19f046c3d0a331cb67451cb19528a559&scene=27#wechat_redirect)
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【19/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2025-09-13T00:00:22】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516380&idx=1&sn=0a22cad540008d4d5e8bbb42b55df3e4&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-15T00:00:32】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516374&idx=1&sn=d98084b27aa9e4a7778d4110bc2629e0&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -103,6 +103,19 @@
 ---
 
 
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2025-09-14T09:01:24】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492215&idx=1&sn=42732e5a4e4e00fa3dd00503e53f1c15&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+
+---
+
+
 ### [表图](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzOTI4NDQ3NA==)
@@ -112,19 +125,6 @@
 坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
-
----
-
-
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
-
-[:camera_flash:【2025-08-28T08:00:52】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492207&idx=1&sn=8404e6f4afdbe5ece4743662d227f58a&scene=27#wechat_redirect)
-
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
 
 ---
 
