@@ -1,7 +1,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2025-08-24T20:10:31】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515784&idx=1&sn=50f089ec9666ec92f7e8acd458b33d19&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2025-09-09T17:21:26】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502179&idx=1&sn=63a75f50e1252970c4b0411000277055&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-15T11:40:57】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502263&idx=1&sn=8a74ff799795a353369afccf6e1a70ce&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
