@@ -129,6 +129,19 @@
 ---
 
 
+### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+
+[:camera_flash:【2025-09-16T09:05:21】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450788347&idx=1&sn=a0fa81ba15903a4b068e42d9388f4851&scene=27#wechat_redirect)
+
+山警网络空间安全实验室（简称：网安社）
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
+
+---
+
+
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
@@ -229,19 +242,6 @@
 青岛科技大学信息安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
-
----
-
-
-### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-山警网络空间安全实验室（简称：网安社）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
 
 ---
 
