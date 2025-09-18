@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-09-16T13:59:49】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627397&idx=2&sn=ed84ce7af1964948023096035cb6b005&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-17T16:47:14】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627420&idx=2&sn=981e984172621bbd1b84a80158a23967&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【9/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【8/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-09-16T19:16:28】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939915&idx=1&sn=3704519ba74549da424145b34cd33975&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-17T08:21:30】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454939938&idx=1&sn=b9ccb075950de30f8f5b8a5563f635f4&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,7 +27,7 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2025-09-17T08:00:34】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490116&idx=1&sn=a2456a0f9486b421398fd195dddb25b1&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 [:camera_flash:【2025-09-16T00:01:51】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048616&idx=2&sn=df2e46ba378a5bca043521ee1850dd96&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
 [:camera_flash:【2025-09-15T23:35:26】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484557&idx=1&sn=1c2fbad4ef077f4e563d491dcb8f5ba1&scene=27#wechat_redirect)
 
@@ -105,9 +105,9 @@
 
 ### [电子取证及可信应用协创中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
 
-[:camera_flash:【2025-09-10T20:35:51】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485668&idx=1&sn=d09b16a26ea84931fe79c5eb2125b431&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-17T21:27:27】](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485673&idx=1&sn=63dc21675352d6cdbddc47b399c96ab3&scene=27#wechat_redirect)
 
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
@@ -118,9 +118,9 @@
 
 ### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
 
-[:camera_flash:【2025-09-14T15:26:38】](https://mp.weixin.qq.com/s?__biz=MzIxMjExNDMzNw==&mid=2247484695&idx=1&sn=9bda826b1268c22c4286729d1da677f2&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-17T10:14:05】](https://mp.weixin.qq.com/s?__biz=MzIxMjExNDMzNw==&mid=2247484707&idx=1&sn=4957ee185b0b534fbdc76d1bbb9d8350&scene=27#wechat_redirect)
 
 中国卫星黑客
 
