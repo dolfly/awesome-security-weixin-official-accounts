@@ -1,7 +1,7 @@
 
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
 [:camera_flash:【2025-09-19T08:02:40】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505377&idx=1&sn=96d87b6590dda5f1e282bc337af2ab48&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 
 ### [泷羽Sec-静安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
 [:camera_flash:【2025-09-16T11:30:37】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488245&idx=1&sn=d4476f70b755074b9a1fda831baf0649&scene=27#wechat_redirect)
 
@@ -60,19 +60,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 //网络安全领域知识分享;更新网络安全领域各种资源;分享学习文档及前沿信息，思路;
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_449cf93d76cd" alt="" />
-
----
-
-
-### [泷羽Sec-Ceo](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
-
-[:camera_flash:【2025-08-20T17:12:21】](https://mp.weixin.qq.com/s?__biz=Mzk0Mjg4MTQxMw==&mid=2247486968&idx=1&sn=b8fe775d64ec0ebd610ed69a9ea77e29&scene=27#wechat_redirect)
-
-如泷水般深邃的网络安全知识，与羽翼般广阔的防护能力。我们致力于成为每一位网络安全探索者的灯塔，不仅提供最新的网络安全资讯、深度技术解析，还助力您构建坚不可摧的网络安全防线，让您在数字世界的航行中，无忧前行。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a3d2b208075" alt="" />
 
 ---
 
@@ -177,6 +164,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 展示并学习技术的平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f649c0a8a79c" alt="" />
+
+---
+
+
+### [泷羽Sec-Ceo](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+如泷水般深邃的网络安全知识，与羽翼般广阔的防护能力。我们致力于成为每一位网络安全探索者的灯塔，不仅提供最新的网络安全资讯、深度技术解析，还助力您构建坚不可摧的网络安全防线，让您在数字世界的航行中，无忧前行。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a3d2b208075" alt="" />
 
 ---
 

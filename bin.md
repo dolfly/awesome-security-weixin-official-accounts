@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【0/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【0/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-09-18T18:00:02】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600186&idx=3&sn=ade35c8895c4fc58f73df7938ecd9826&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-19T17:59:55】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458600281&idx=3&sn=8a70c9dafcb5b4fc1bc7eb8165188bb6&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2025-09-18T10:09:53】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520525&idx=1&sn=cd651515b59a2a8bd8982e6362dcd6f1&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-19T09:10:50】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520529&idx=1&sn=4a93c9b10e5a3265cfb9da772b2e9875&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
@@ -27,7 +27,7 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
 [:camera_flash:【2025-09-17T15:24:17】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040189&idx=1&sn=e93c7b0bc7ed45dcd28983c61686e1d0&scene=27#wechat_redirect)
 
@@ -99,6 +99,19 @@
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
+
+---
+
+
+### [中机博也汽车技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
+
+[:camera_flash:【2025-09-19T16:46:59】](https://mp.weixin.qq.com/s?__biz=Mzg3OTU3Mjg0Nw==&mid=2247485603&idx=1&sn=555f9a9f994e51b8c02c51ecb508deaf&scene=27#wechat_redirect)
+
+中机博也（宁波）汽车技术为主机厂在车型开发中提供造型/模型设计、车身内外饰、总布置、电器、底盘协同、CAE仿真及Benchmark等专业领域的研发服务。依托母公司中机认检在实验、检测、认证上的综合优势为客户提供从研发到认证的一站式服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_086e3eb2dd2b" alt="" />
 
 ---
 
@@ -346,19 +359,6 @@ good good study, day day pwn
 IT知识、技术、素养分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e35cb74d67d" alt="" />
-
----
-
-
-### [中机博也汽车技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-中机博也（宁波）汽车技术为主机厂在车型开发中提供造型/模型设计、车身内外饰、总布置、电器、底盘协同、CAE仿真及Benchmark等专业领域的研发服务。依托母公司中机认检在实验、检测、认证上的综合优势为客户提供从研发到认证的一站式服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_086e3eb2dd2b" alt="" />
 
 ---
 

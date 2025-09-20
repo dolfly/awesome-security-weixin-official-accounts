@@ -14,7 +14,7 @@
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
 [:camera_flash:【2025-09-05T08:00:44】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247499080&idx=1&sn=b0b9d8090c7f95b74bce28cffe9f44f1&scene=27#wechat_redirect)
 
