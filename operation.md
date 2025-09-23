@@ -1,9 +1,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【10/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2025-09-19T08:03:29】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514063&idx=1&sn=8494f5cff3e709278f65b4a66bfc8fc9&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-23T08:02:36】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514097&idx=1&sn=58e078be843abfbf5853dd6b5dc399bf&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
@@ -14,9 +14,9 @@
 
 ### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
 
-[:camera_flash:【2025-09-19T08:01:16】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247499128&idx=1&sn=b8e79c9df6e3e3f23eba6e1ed06219fb&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-22T08:00:39】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247499135&idx=1&sn=e2554693521e574cfbb92318951bb2f3&scene=27#wechat_redirect)
 
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
 
