@@ -1,7 +1,7 @@
 
 ### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
 
 [:camera_flash:【2025-09-25T14:00:36】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247511105&idx=1&sn=3bdb26d395e52587703eba30a6a00b36&scene=27#wechat_redirect)
 
