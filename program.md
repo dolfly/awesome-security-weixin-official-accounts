@@ -155,19 +155,6 @@
 ---
 
 
-### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:camera_flash:【2025-09-02T09:30:53】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247490052&idx=1&sn=85e2ff73713570cc89a584932b31b08c&scene=27#wechat_redirect)
-
-FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
-
----
-
-
 ### [进击的Coder](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNzA4NDk3Nw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNzA4NDk3Nw==)
@@ -463,6 +450,19 @@ Pinpoint，专业代码审计团队。感谢您的关注！
 关注我，及时收取你遇到的问题
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c29b8eca5b6e" alt="" />
+
+---
+
+
+### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
 
 ---
 
