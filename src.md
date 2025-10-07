@@ -376,19 +376,6 @@ WiFi万能钥匙安全应急响应中心，隶属南京尚网网络科技有限�
 ---
 
 
-### [小米安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
-
-[:camera_flash:【2025-09-06T10:30:52】](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247518285&idx=1&sn=3328644c6906446357f485f6aeb38a29&scene=27#wechat_redirect)
-
-小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2718d08f5227" alt="" />
-
----
-
-
 ### [唯品会安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODE0ODA5MQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5ODE0ODA5MQ==)
@@ -450,6 +437,19 @@ WiFi万能钥匙安全应急响应中心，隶属南京尚网网络科技有限�
 此为东方财富安全响应中心 （简称EMSRC）官方订阅号，欢迎到security.eastmoney.com平台反馈安全漏洞或威胁情报，奖励多多!
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9bdc974aca3e" alt="" />
+
+---
+
+
+### [度小满安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
+
+[:camera_flash:【2025-10-06T09:56:36】](https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493068&idx=1&sn=a8db483515acd15c09c46e95640d209a&scene=27#wechat_redirect)
+
+度小满金融安全部官方账号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8689df50ad99" alt="" />
 
 ---
 
@@ -541,6 +541,19 @@ vivo安全应急响应中心（vivoSRC）官方
 由响应云安全团队创建，会发布渗透的各种教程
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9ff6c4716faf" alt="" />
+
+---
+
+
+### [小米安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzI2OTExNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+小米安全中心（MiSRC）是致力于保障小米产品、业务线、用户信息等安全，促进与安全专家的合作与交流，而建立的漏洞收集及响应平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2718d08f5227" alt="" />
 
 ---
 
@@ -879,19 +892,6 @@ https://security.kuaishou.com
 T3出行安全应急响应中心，欢迎提交安全漏洞
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bf6fa1687a7" alt="" />
-
----
-
-
-### [度小满安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-度小满金融安全部官方账号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8689df50ad99" alt="" />
 
 ---
 

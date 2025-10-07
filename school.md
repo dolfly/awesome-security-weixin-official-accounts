@@ -14,7 +14,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2025-10-01T16:00:47】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496049&idx=1&sn=07f7bcc328237f81a929b02ac79941b1&scene=27#wechat_redirect)
 
@@ -38,19 +38,6 @@
 ---
 
 
-### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
-
-[:camera_flash:【2025-09-22T18:37:42】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247486339&idx=1&sn=e0d8b3819089248e3b3fa3e83e9502bd&scene=27#wechat_redirect)
-
-杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
-
----
-
-
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -60,6 +47,19 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:camera_flash:【2025-09-22T18:37:42】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247486339&idx=1&sn=e0d8b3819089248e3b3fa3e83e9502bd&scene=27#wechat_redirect)
+
+杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
 
 ---
 
@@ -112,19 +112,6 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:camera_flash:【2025-09-06T16:25:11】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247492651&idx=1&sn=335d808913d413cd85991f2b0e079872&scene=27#wechat_redirect)
-
-湖南农业大学蝰蛇安全实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@
 中原工学院（ZUT）攻防技术团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
+
+---
+
+
+### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+湖南农业大学蝰蛇安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
