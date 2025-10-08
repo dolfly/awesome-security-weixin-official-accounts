@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2025-10-06T11:58:05】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489385&idx=1&sn=3bb329f091c84d771b3186980502c9b5&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-06T11:58:05】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489385&idx=2&sn=0017d1808cbe61fda1b9caeef977a672&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 

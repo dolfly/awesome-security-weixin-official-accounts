@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-09-28T08:07:02】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487162&idx=1&sn=f8c304021ff944b133f4215a89cc6991&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-07T11:39:28】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487176&idx=1&sn=6c856f3d5cf9a8028868797a983d5021&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-09-22T19:59:26】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781450&idx=1&sn=ab3787213afdbdd8fc68257e87343332&scene=27#wechat_redirect)
+[:camera_flash:【2025-09-22T19:59:26】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781450&idx=2&sn=84d6041c857d96313634a145bcae0ac3&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
