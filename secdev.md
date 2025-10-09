@@ -1,9 +1,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【31/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【32/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2025-10-08T00:01:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516491&idx=1&sn=eb7f4aa17ad36a5dae93e6bbccaf15d0&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-09T00:00:34】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516492&idx=1&sn=ef3a8394e62172f2caf507face81fac0&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【21/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【20/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-10-05T12:00:24】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552680&idx=1&sn=ef42334ee4b48e2bd850753784b7c2fa&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-08T12:01:08】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552682&idx=1&sn=472b96a91eadd005638b2049a5ae8a78&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -40,7 +40,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【4/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【4/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2025-09-30T16:00:33】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540444&idx=1&sn=1a28f50974d134cbddeda6aafc8e5cee&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【2/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【2/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:camera_flash:【2025-10-07T23:35:58】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637536&idx=1&sn=c480986a736138a6ff42f584f2db3910&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-08T18:30:27】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637542&idx=1&sn=4b6d62ba2c6ead2a8be335f989395e27&scene=27#wechat_redirect)
 
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
@@ -79,7 +79,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【1/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【1/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2025-09-25T17:53:08】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522718&idx=2&sn=c94785da8152b5fa20d7b831076deecd&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+[:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
 [:camera_flash:【2025-10-06T08:00:43】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247513792&idx=1&sn=80c0d48255fd2fea85fbb3d513be910a&scene=27#wechat_redirect)
 
@@ -155,19 +155,6 @@
 ---
 
 
-### [阿肯的不惑之年](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
-
-[:camera_flash:【2025-09-08T07:30:49】](https://mp.weixin.qq.com/s?__biz=MzIyMjUzNzYyNA==&mid=2247484679&idx=1&sn=79a61dbd9837f01f2768da6150f1e583&scene=27#wechat_redirect)
-
-生活工作上努力成为最好自己的各类感想；企业信息安全建设的趋势和方向随笔。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ff60192713b6" alt="" />
-
----
-
-
 ### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
@@ -190,19 +177,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
-
----
-
-
-### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
-
-[:camera_flash:【2025-09-08T07:00:15】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc5MDQ3NA==&mid=2652056394&idx=1&sn=5353eeb76091e39242cf6c80ebb6d663&scene=27#wechat_redirect)
-
-安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 
@@ -450,6 +424,32 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 信息安全运营原创实践分享等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66b42f2c03d3" alt="" />
+
+---
+
+
+### [阿肯的不惑之年](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyMjUzNzYyNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+生活工作上努力成为最好自己的各类感想；企业信息安全建设的趋势和方向随笔。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ff60192713b6" alt="" />
+
+---
+
+
+### [SecOps急行军](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc5MDQ3NA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+安全和运维不分家，要两手抓，两手硬。Security：安全建设哪有什么圣杯，无非是日拱一卒的心态和对解决问题的执拗。Operation：只要不断地解决根源问题，服务质量就一定会得到提升。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_390493bef72f" alt="" />
 
 ---
 

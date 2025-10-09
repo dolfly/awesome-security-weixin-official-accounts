@@ -38,6 +38,19 @@
 ---
 
 
+### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
+
+[:camera_flash:【2025-10-08T11:12:55】](https://mp.weixin.qq.com/s?__biz=Mzg4MzU3MTcwNg==&mid=2247486189&idx=1&sn=dc204d59d37e16306c35cdbfc1fe4b6c&scene=27#wechat_redirect)
+
+本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
+
+---
+
+
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -710,19 +723,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 奇安信高校合作中心，架起高校和安全产业的桥梁。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
-
----
-
-
-### [青春计协](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzU3MTcwNg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
 
 ---
 
