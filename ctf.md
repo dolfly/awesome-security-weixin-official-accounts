@@ -64,6 +64,19 @@
 ---
 
 
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【2025-10-11T12:30:19】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485933&idx=1&sn=64e6f1232808d94fbd88d5249e69f8ba&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
+
+---
+
+
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
@@ -73,19 +86,6 @@
 发现和培养网络安全技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2025-09-25T18:01:32】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485926&idx=1&sn=f9c4aefd68bbad6f1b845f4135a28779&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
