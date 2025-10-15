@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【10/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-10-13T12:31:01】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493924&idx=1&sn=6adeaaf50167c3c1a9b90a384e36b136&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-14T18:30:40】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493958&idx=1&sn=1401c0597f3c6c0bcfae5bd663c7e3e7&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【3/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-10-13T18:58:23】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487215&idx=1&sn=45df9c96f771d12da6e4462c51839d97&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-10-13T17:36:57】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796130&idx=1&sn=374bd0d6901ae1971b36dc106b4903e5&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-13T17:36:57】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796130&idx=2&sn=a16d5ea3c16157d41710a3f793b07b4a&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
