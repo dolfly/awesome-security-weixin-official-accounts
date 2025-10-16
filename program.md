@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-10-14T18:30:40】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493958&idx=1&sn=1401c0597f3c6c0bcfae5bd663c7e3e7&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-15T18:40:50】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493978&idx=1&sn=d2a1092be057531f98753c0f46fe4a4d&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-10-13T18:58:23】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487215&idx=1&sn=45df9c96f771d12da6e4462c51839d97&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-10-13T17:36:57】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796130&idx=2&sn=a16d5ea3c16157d41710a3f793b07b4a&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-15T17:51:36】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796156&idx=1&sn=345ccdc94fb0228a1d892ca9daad0a7b&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-10-13T17:02:49】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516896&idx=1&sn=36bc793e8b7da00db3cf01c7cb14eb73&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-15T18:04:40】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516911&idx=1&sn=b30bd074ef49035c2b9b235ba58e67e3&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-09-29T17:32:03】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493070&idx=1&sn=840c16f75da167cd7927d3eb68415122&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-15T13:21:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493089&idx=1&sn=ef27beb6bace597b1aeb9483b0e9941f&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
