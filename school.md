@@ -14,9 +14,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2025-10-18T21:02:37】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496399&idx=1&sn=be5b83dbdd510b6356d3d5560e2a7c47&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-20T20:01:06】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496404&idx=1&sn=8391312d24fccc38892f521ba17a0907&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -77,6 +77,19 @@
 ---
 
 
+### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
+
+[:camera_flash:【2025-10-20T11:30:46】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491253&idx=2&sn=3afd77fb1520b60f0ff0b35d14ae7f91&scene=27#wechat_redirect)
+
+一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
 ### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
@@ -99,6 +112,19 @@
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
+### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
+
+[:camera_flash:【2025-10-20T17:16:40】](https://mp.weixin.qq.com/s?__biz=MzkwMTM1MTA4MQ==&mid=2247487303&idx=1&sn=43d934ddf737e9fe9e3babd11f32615c&scene=27#wechat_redirect)
+
+奇安信高校合作中心，架起高校和安全产业的桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 
@@ -138,19 +164,6 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
-### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
-
-[:camera_flash:【2025-09-23T18:30:52】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491181&idx=1&sn=4ced798985a217d53a0ee2a170cbf287&scene=27#wechat_redirect)
-
-一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
 
 ---
 
@@ -736,19 +749,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 电子科技大学御林安全工作室官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
-
----
-
-
-### [奇安信高校合作中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTM1MTA4MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-奇安信高校合作中心，架起高校和安全产业的桥梁。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
 
 ---
 

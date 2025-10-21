@@ -38,6 +38,19 @@
 ---
 
 
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2025-10-20T16:01:05】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515828&idx=1&sn=20c84c013edb2ef7e21c2add00a3f015&scene=27#wechat_redirect)
+
+发现和培养网络安全技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
 ### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
@@ -47,19 +60,6 @@
 北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0cb5220f7012" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2025-10-16T11:01:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515823&idx=1&sn=714ee406cb2330aa067d608a1434b49f&scene=27#wechat_redirect)
-
-发现和培养网络安全技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
