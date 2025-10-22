@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【30/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2025-10-21T00:01:11】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-22T00:00:33】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516560&idx=1&sn=a3c912cd2d26e1f47c76901ea8bb8f3f&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -27,9 +27,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【19/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【18/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-10-20T12:00:43】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552982&idx=1&sn=5ca622d2b100e26221c8d8087747a7a7&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-21T12:01:54】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552999&idx=1&sn=823a2e114cd6b10a863e574a3601d524&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -53,9 +53,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2025-10-20T10:45:31】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522764&idx=1&sn=dcfcc48252b2a4c2b580b620372a8053&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-21T18:16:22】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522768&idx=1&sn=6662e64726b86de16eff044c4af888f2&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -92,9 +92,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2025-10-16T11:24:10】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649402914&idx=2&sn=651e4b24a0c55811c32dde973ab2553c&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-21T18:49:35】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649402931&idx=1&sn=c857fa1e950456415bc3573ed15ad31a&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
