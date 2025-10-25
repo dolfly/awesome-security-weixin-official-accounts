@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【11/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-10-23T12:31:02】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494098&idx=1&sn=25f370fedf5a609aa9d4a67495124f52&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-24T18:30:17】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494106&idx=1&sn=e1f6ac25b7d6d2e39614405f45b905c1&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -14,7 +14,7 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【10/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2025-10-24T08:14:37】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487248&idx=1&sn=7fdce48de829473c45afdebc549c331c&scene=27#wechat_redirect)
 
@@ -25,9 +25,22 @@
 ---
 
 
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:camera_flash:【2025-10-24T09:07:40】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796239&idx=1&sn=24551083cc76fc67157083d2f5819f32&scene=27#wechat_redirect)
+
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2025-10-23T17:03:07】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247516949&idx=1&sn=7520fb1b4eb8eccdfac9c031076293ee&scene=27#wechat_redirect)
 
@@ -38,41 +51,28 @@
 ---
 
 
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-10-22T17:56:31】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796217&idx=1&sn=eedf30296c542ca1cfa50d36c55cbc2c&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-24T10:24:30】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781635&idx=3&sn=39c9d2736ff0c91b786689db30deb4dc&scene=27#wechat_redirect)
 
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 
 
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
-[:camera_flash:【2025-10-17T12:02:49】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503602&idx=1&sn=259fb935b60caf9cdd93b299ef1e79ff&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-24T21:00:44】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247503649&idx=1&sn=6f72386b455385893fd2be2f57734980&scene=27#wechat_redirect)
 
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
-### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
-
-[:camera_flash:【2025-10-16T19:58:44】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781533&idx=1&sn=71babe1f54b374eabea1f3791261cd83&scene=27#wechat_redirect)
-
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 
@@ -129,6 +129,19 @@
 ---
 
 
+### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:camera_flash:【2025-10-24T09:35:09】](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247492192&idx=1&sn=23ce104719060e7ce9435b01dbe01c76&scene=27#wechat_redirect)
+
+北京张量无限科技有限公司官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
+
+---
+
+
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
@@ -151,19 +164,6 @@
 分享一些平时所学，励志成为一名安全研发。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d9544647f40b" alt="" />
-
----
-
-
-### [路多辛](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDI1NDM0NA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDI1NDM0NA==)
-
-[:camera_flash:【2025-09-24T22:27:49】](https://mp.weixin.qq.com/s?__biz=MzA5MDI1NDM0NA==&mid=2247484426&idx=1&sn=91986eb140064f6da840cbb8034743f9&scene=27#wechat_redirect)
-
-分享编程知识及经验，偏重Golang、云原生、微服务、Web安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e517f23c2781" alt="" />
 
 ---
 
@@ -203,19 +203,6 @@
 专注Python、爬虫、后端、Poc、Exp及各种骚操作。各位如有什么想法，请私信我~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3093cf54140f" alt="" />
-
----
-
-
-### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-北京张量无限科技有限公司官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
 
 ---
 
@@ -554,6 +541,19 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 一个产品设计师，打造了很多好玩有趣的产品
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5390c88db07d" alt="" />
+
+---
+
+
+### [路多辛](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDI1NDM0NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MDI1NDM0NA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+分享编程知识及经验，偏重Golang、云原生、微服务、Web安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e517f23c2781" alt="" />
 
 ---
 

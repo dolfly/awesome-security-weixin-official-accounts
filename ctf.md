@@ -14,26 +14,13 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2025-10-23T09:31:22】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515854&idx=1&sn=566c649c28f0c0457ae7a284d3eafa42&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
-### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
-
-[:camera_flash:【2025-10-17T17:39:06】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489408&idx=1&sn=2e80834a926fda2e2e0c4c5dcfc524ad&scene=27#wechat_redirect)
-
-由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 赛博随笔，CTF，红蓝对抗，记录学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
+
+---
+
+
+### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+
+[:camera_flash:【2025-10-17T17:39:06】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489408&idx=1&sn=2e80834a926fda2e2e0c4c5dcfc524ad&scene=27#wechat_redirect)
+
+由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
 
 ---
 
@@ -81,7 +81,7 @@ PTE小技巧
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
-[:camera_flash:【2025-10-09T10:01:59】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502347&idx=1&sn=0524c0555c71518dccf0e3af0caa0138&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-24T15:40:23】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502363&idx=1&sn=944f0b559b23ae73193ad97a70234e0f&scene=27#wechat_redirect)
 
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
