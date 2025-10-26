@@ -38,15 +38,15 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
-### [泷羽Sec-夜风](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk3MjA5Ng==)
+### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk3MjA5Ng==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
 
-[:camera_flash:【2025-09-25T23:58:10】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk3MjA5Ng==&mid=2247486558&idx=1&sn=19e6cb36ec11cec5f3e9df90ac99480c&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-25T16:23:34】](https://mp.weixin.qq.com/s?__biz=Mzk1NzI0MzI5NQ==&mid=2247484500&idx=1&sn=a6718a8a5d1f571eb446a03aae9d4148&scene=27#wechat_redirect)
 
-记录，学习分享
+励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5d8dab6f58db" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
 
 ---
 
@@ -125,19 +125,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 关山难越，谁悲失路之人？萍水相逢，尽是他乡之客。作为一名学习者，很幸运能成为一名分享者，立志成为一名开拓者。 目前作为泷羽Sec核心成员，致力于网络安全领域的内容分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7cf195376483" alt="" />
-
----
-
-
-### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
 
 ---
 
@@ -463,6 +450,19 @@ B站up:泷羽Sec，专注于网络安全领域的内容创作与分享，为网�
 致力于网络安全研究！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d70242ca5e7d" alt="" />
+
+---
+
+
+### [泷羽Sec-夜风](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk3MjA5Ng==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk3MjA5Ng==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+记录，学习分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5d8dab6f58db" alt="" />
 
 ---
 
