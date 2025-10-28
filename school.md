@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2025-10-24T17:51:52】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496439&idx=1&sn=6881f08b4110e57f6588a128aa82e2cb&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-27T21:06:01】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496465&idx=1&sn=b858c2bc72aabea9c8ac2e1d17258b42&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -64,11 +64,24 @@
 ---
 
 
+### [XatuSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
+
+[:camera_flash:【2025-10-27T16:16:39】](https://mp.weixin.qq.com/s?__biz=MzUzMjkyMTU1OQ==&mid=2247483992&idx=1&sn=6e3519c6caff7db06251102a868b8f3f&scene=27#wechat_redirect)
+
+西安工业大学网络空间安全协会（XATUSEC）
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6496a1081802" alt="" />
+
+---
+
+
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
-[:camera_flash:【2025-10-20T11:30:46】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491253&idx=1&sn=3739f7e047b2700902b1d0a040858ab6&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-20T11:30:46】](https://mp.weixin.qq.com/s?__biz=MzIzOTg0NjYzNg==&mid=2247491253&idx=2&sn=3afd77fb1520b60f0ff0b35d14ae7f91&scene=27#wechat_redirect)
 
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
@@ -99,19 +112,6 @@
 奇安信高校合作中心，架起高校和安全产业的桥梁。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6cdcd4028542" alt="" />
-
----
-
-
-### [XatuSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
-
-[:camera_flash:【2025-09-30T17:37:52】](https://mp.weixin.qq.com/s?__biz=MzUzMjkyMTU1OQ==&mid=2247483985&idx=1&sn=ba7bb8008d32e0b5a67bf13fad1a6440&scene=27#wechat_redirect)
-
-西安工业大学网络空间安全协会（XATUSEC）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6496a1081802" alt="" />
 
 ---
 

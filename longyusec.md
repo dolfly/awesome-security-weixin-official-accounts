@@ -1,9 +1,9 @@
 
 ### [泷羽Sec-静安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
-[:camera_flash:【2025-10-27T06:00:30】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488641&idx=1&sn=2bb806401104ec498185a8f272f0beb6&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-28T06:00:17】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488642&idx=1&sn=25fc0ce2abec0b13df5a3e3269638659&scene=27#wechat_redirect)
 
 专注网络安全与编程技术的学习与分享，探索技术细节与实际应用。声明：本公众号所分享的工具与资源，仅供学习与研究使用，严禁用于任何非法活动。
 
@@ -14,9 +14,9 @@
 
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【4/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【2025-10-23T11:55:33】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247506221&idx=1&sn=7f04d4d5b645e30b5b7327546712a087&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-27T11:55:36】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508595&idx=1&sn=d4d90bf92ee0d97fc376c1b2d9d09400&scene=27#wechat_redirect)
 
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
@@ -34,6 +34,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享网络安，渗透测试，红蓝攻防全相关经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
+
+---
+
+
+### [泷羽Sec-土狗](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk2NDAzNzI5NQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk2NDAzNzI5NQ==)
+
+[:camera_flash:【2025-10-27T16:59:51】](https://mp.weixin.qq.com/s?__biz=Mzk2NDAzNzI5NQ==&mid=2247484166&idx=1&sn=ffd016c5604402b676ba516aad3598ab&scene=27#wechat_redirect)
+
+//网络安全领域知识分享;更新网络安全领域各种资源;分享学习文档及前沿信息，思路;
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_449cf93d76cd" alt="" />
 
 ---
 
@@ -77,19 +90,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
-### [泷羽Sec-土狗](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk2NDAzNzI5NQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk2NDAzNzI5NQ==)
-
-[:camera_flash:【2025-10-20T10:45:58】](https://mp.weixin.qq.com/s?__biz=Mzk2NDAzNzI5NQ==&mid=2247484147&idx=1&sn=773a5893efc8de79ffcc1013db6a128e&scene=27#wechat_redirect)
-
-//网络安全领域知识分享;更新网络安全领域各种资源;分享学习文档及前沿信息，思路;
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_449cf93d76cd" alt="" />
-
----
-
-
 ### [泷羽Sec-尘宇安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzE0ODk3Nw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzE0ODk3Nw==)
@@ -99,6 +99,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享挖洞技巧和实战，收集和开发各种渗透工具及其使用，泷羽Sec团队核心成员。 声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_114fb1ee20f2" alt="" />
+
+---
+
+
+### [泷羽Sec-Norsea](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
+
+[:camera_flash:【2025-10-27T13:21:23】](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247492668&idx=1&sn=e95795944bf44a30ad9d363b37b1cfe3&scene=27#wechat_redirect)
+
+归去来兮，应归何处。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3198017bed01" alt="" />
 
 ---
 
@@ -203,19 +216,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 专注于网络空间安全的技术分享，包含渗透测试，安全攻防等学习笔记
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6446b10f2986" alt="" />
-
----
-
-
-### [泷羽Sec-Norsea](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-归去来兮，应归何处。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3198017bed01" alt="" />
 
 ---
 
