@@ -14,9 +14,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【10/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2025-10-24T08:14:37】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487248&idx=1&sn=7fdce48de829473c45afdebc549c331c&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T11:52:49】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487252&idx=1&sn=b069bac5a5820e79b482174c3d0fcfa6&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -27,9 +27,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【10/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-10-28T17:03:55】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517155&idx=1&sn=d735ebf8bddda4047ac322a514c6d965&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T17:03:10】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517270&idx=1&sn=cf2cbf25c44d4dc400847cd149dfb4db&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-10-27T17:37:20】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796296&idx=1&sn=4b74759f507c184f7d371a1c9bad588b&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T18:12:17】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649796333&idx=1&sn=d92b8d786aecd491c53bda4e98138c47&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2025-10-21T16:07:40】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493134&idx=1&sn=62a9eb9d81be6fcd5cfe1198084b1255&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T11:25:04】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493135&idx=1&sn=bfbc900c5565fb95aea531aabfcb6f0f&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -103,6 +103,19 @@
 ---
 
 
+### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
+
+[:camera_flash:【2025-10-29T19:06:10】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945721&idx=1&sn=9e1b44a4703cf0647ba2b56e58a79503&scene=27#wechat_redirect)
+
+主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
+
+---
+
+
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
@@ -112,19 +125,6 @@
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
-
----
-
-
-### [四维创智](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMzI1MDg2Mg==)
-
-[:camera_flash:【2025-10-21T19:34:45】](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649945712&idx=1&sn=046bd6c473ff5faf53b0ba99447652a6&scene=27#wechat_redirect)
-
-主营业务涵盖应用安全、系统安全、运维安全等，包括IT资产管理、智能攻击机器人、智能防御机器人、攻防实战演练支持、安全培训、课题和安全技术研究、产品研发及服务综合解决方案提供；其中，行业解决方案又包括电力行业、金融行业、军工行业、公检法等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_10621ea3bed3" alt="" />
 
 ---
 

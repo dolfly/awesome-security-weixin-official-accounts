@@ -14,9 +14,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-10-28T21:46:04】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515996&idx=1&sn=70125047458a5d3dfb46bf36d99d7825&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T17:01:26】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516034&idx=1&sn=20e5018a19b4d75815775091c7a84b8f&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
@@ -27,9 +27,9 @@
 
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
-[:camera_flash:【2025-10-28T15:18:11】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489430&idx=1&sn=3f8b6a4791ea1966b8ec050019b3a617&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T10:35:57】](https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247489431&idx=1&sn=b4cd7f69cd3e205cb2f58528a5584fc2&scene=27#wechat_redirect)
 
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
@@ -53,7 +53,7 @@
 
 ### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
-[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
 [:camera_flash:【2025-10-15T16:57:40】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485168&idx=1&sn=5954080bbb545f7287148b9283231f70&scene=27#wechat_redirect)
 
