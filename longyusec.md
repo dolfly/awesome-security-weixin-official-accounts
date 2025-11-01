@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【2025-10-28T17:15:59】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508623&idx=1&sn=0ff92d1ef5a24230284685b240cfe942&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-31T07:52:43】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508656&idx=1&sn=7fed7b1aa5a8b0592d1238f0dad14ac8&scene=27#wechat_redirect)
 
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
@@ -25,6 +25,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
+### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+
+[:camera_flash:【2025-10-31T17:52:56】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488390&idx=1&sn=d1192c4b038c66688464055a41053c69&scene=27#wechat_redirect)
+
+泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0efd834741a9" alt="" />
+
+---
+
+
 ### [泷羽Sec-醉陌离](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
 
 [:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
@@ -34,19 +47,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享网络安，渗透测试，红蓝攻防全相关经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
-
----
-
-
-### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
-
-[:camera_flash:【2025-10-30T18:09:26】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488341&idx=1&sn=5d44bce58381c782e1768dadb57f66c2&scene=27#wechat_redirect)
-
-泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0efd834741a9" alt="" />
 
 ---
 
