@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:camera_flash:【2025-11-02T07:01:14】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492155&idx=1&sn=32d3d979fa880427282ccd3b07205133&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-03T07:04:21】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492161&idx=1&sn=e95bb1387c5e3db74dc7f91c17a43bdd&scene=27#wechat_redirect)
 
 安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
 
@@ -103,19 +103,6 @@
 ---
 
 
-### [交大捷普](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
-
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
-
-[:camera_flash:【2025-10-29T18:28:16】](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507244&idx=1&sn=515734ecab21d8263eb34b214b6d2469&scene=27#wechat_redirect)
-
-交大捷普网络科技有限公司，是国内一流的网络信息安全产品和技术领导者，1999年成立以来，持续专注网络安全，坚持自主研发和技术原创，始终致力于站在安全产品链高端位置，全方位为政府、企业、开发者和消费者打造安全、可信的信息安全生态环境。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a00781b9311" alt="" />
-
----
-
-
 ### [中资网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzAzMjU0OA==)
 
 [:chart_with_upwards_trend:【6/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzAzMjU0OA==)
@@ -125,6 +112,19 @@
 中资网络信息安全科技有限公司成立于2019年12月，是国资委主导成立的国内专业从事国资国企网络信息安全的公司。公司定位于“国资国企在线监管安全守护者、国有企业网络安全信息大数据运营者和国有网信企业体制机制创新领航者”。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1aa5cd35ad15" alt="" />
+
+---
+
+
+### [交大捷普](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
+
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
+
+[:camera_flash:【2025-10-29T18:28:16】](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507244&idx=1&sn=515734ecab21d8263eb34b214b6d2469&scene=27#wechat_redirect)
+
+交大捷普网络科技有限公司，是国内一流的网络信息安全产品和技术领导者，1999年成立以来，持续专注网络安全，坚持自主研发和技术原创，始终致力于站在安全产品链高端位置，全方位为政府、企业、开发者和消费者打造安全、可信的信息安全生态环境。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a00781b9311" alt="" />
 
 ---
 
@@ -211,7 +211,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjAyMjU4MA==)
 
-[:camera_flash:【2025-10-29T17:57:10】](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597698&idx=2&sn=4eea7a22072e7d7a35987ea3e3ce2588&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T17:57:10】](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597698&idx=1&sn=c6d8bdf79a072f611fb646cf075837da&scene=27#wechat_redirect)
 
 任子行网络技术股份有限公司官方账号。关注任子行，了解网络安全与应用审计领域动态！
 
@@ -224,7 +224,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
 
-[:camera_flash:【2025-10-30T14:15:35】](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509509&idx=2&sn=aa2e8fef6bce8ac43d3a66ebc6cd698b&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-30T14:15:35】](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509509&idx=1&sn=507bac9a77ef0ec0b88a4eb6f160869f&scene=27#wechat_redirect)
 
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业更安全，让白帽子获益。
 
@@ -242,19 +242,6 @@
 关注“赛宁网安”公众号，及时获取赛宁网安最新的产品信息、技术分享、企业动态。赛宁网安，聚焦攻防实战，专注数字化靶场的攻防专家。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_512990c97e33" alt="" />
-
----
-
-
-### [河北镌远网络科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
-
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
-
-[:camera_flash:【2025-10-31T19:16:56】](https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517862&idx=1&sn=a3e187e207cd5d56365a0a7fc8eb6296&scene=27#wechat_redirect)
-
-河北镌远网络科技有限公司是一家集人才、经验、技术于一体的，提供全面系统集成解决方案的专业IT服务商。公司致力于为各个行业的业务信息化提供软件和通用解决方案、系统架构，系统管理和数据安全服务、以及IT咨询规划、系统集成与系统服务等专业化服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6df987a291" alt="" />
 
 ---
 
@@ -311,6 +298,19 @@
 ---
 
 
+### [河北镌远网络科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzU4NjI4OQ==)
+
+[:camera_flash:【2025-10-31T19:16:56】](https://mp.weixin.qq.com/s?__biz=MzU3MzU4NjI4OQ==&mid=2247517862&idx=1&sn=a3e187e207cd5d56365a0a7fc8eb6296&scene=27#wechat_redirect)
+
+河北镌远网络科技有限公司是一家集人才、经验、技术于一体的，提供全面系统集成解决方案的专业IT服务商。公司致力于为各个行业的业务信息化提供软件和通用解决方案、系统架构，系统管理和数据安全服务、以及IT咨询规划、系统集成与系统服务等专业化服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6df987a291" alt="" />
+
+---
+
+
 ### [四叶草安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTI2NDQzNg==)
 
 [:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTI2NDQzNg==)
@@ -354,7 +354,7 @@
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NDUyNA==)
 
-[:camera_flash:【2025-10-30T08:30:57】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650818466&idx=1&sn=64c7cc463561c85a8d16941af61d3e5f&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-30T08:30:57】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650818466&idx=2&sn=ec7fe8329979c4ecf2ef588dc10c3d16&scene=27#wechat_redirect)
 
 美创科技，专注数据安全领域近20年，以数据为中心，围绕数据安全、运行安全、安全运维服务三大业务，为政企用户提供专业领先的产品、服务与解决方案。
 
@@ -406,7 +406,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
 
-[:camera_flash:【2025-10-27T16:00:25】](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389840&idx=1&sn=fa65ff85f994035e94e6e7d2e5f695c2&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-27T16:00:25】](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389840&idx=2&sn=3aced095060714b77e4f106ba2c8be86&scene=27#wechat_redirect)
 
 长亭科技，专注为企业级用户提供专业的应用安全解决方案。更多信息请访问：https://www.chaitin.cn
 
@@ -536,7 +536,7 @@
 
 [:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
 
-[:camera_flash:【2025-10-28T16:34:38】](https://mp.weixin.qq.com/s?__biz=MzkwNDcyODgwOQ==&mid=2247487806&idx=2&sn=fc6465f7377d17e52d4a8ae33f35c8f0&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-28T16:34:38】](https://mp.weixin.qq.com/s?__biz=MzkwNDcyODgwOQ==&mid=2247487806&idx=1&sn=1b09829f96a8a61816062ed64411316c&scene=27#wechat_redirect)
 
 新潮信息作为国内最早提供信息安全服务的高新技术企业，我们始终站在网络安全技术的最前沿，致力于为企业提供全方位、高效、专业的网络安全解决方案。
 

@@ -27,9 +27,9 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 
 ### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
 
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
 
-[:camera_flash:【2025-11-01T13:08:18】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488416&idx=1&sn=a5df782402a8a36df21105054fc4f9e9&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-02T22:39:54】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488436&idx=1&sn=659520bf69ece7c64b8ce4259177b7c2&scene=27#wechat_redirect)
 
 泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
 
@@ -64,6 +64,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
+### [泷羽Sec-临观](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
+
+[:camera_flash:【2025-11-02T19:50:53】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzc0MzY3NA==&mid=2247487955&idx=1&sn=539dab8ce42e2150fe5509265638a741&scene=27#wechat_redirect)
+
+专注于网络安全领域的内容创作与分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97068f9aa7b7" alt="" />
+
+---
+
+
 ### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
@@ -73,19 +86,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
-
----
-
-
-### [泷羽Sec-临观](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
-
-[:camera_flash:【2025-10-15T15:16:02】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzc0MzY3NA==&mid=2247487879&idx=1&sn=f147450af9a36c489e79fada79be85d9&scene=27#wechat_redirect)
-
-专注于网络安全领域的内容创作与分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97068f9aa7b7" alt="" />
 
 ---
 

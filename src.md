@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDcwMTAwNw==)
 
-[:camera_flash:【2025-10-31T11:40:50】](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537333&idx=1&sn=fb6c893169b62b578ea232f5e8c41c71&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-31T11:40:50】](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537333&idx=2&sn=fb4038f03df2c5c46c167170037e6064&scene=27#wechat_redirect)
 
 易云科技安全应急响应中心致力于为客户提供及时、专业、高效的威胁情报与应急服务，针对高危漏洞与安全事件进行快速响应，提供可落地的解决方案和安全攻防技术分享。持续专注于源头技术创新、实验室成果实战化、应用技术开发升级，构建新型应急响应创新生态。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2025-10-31T17:02:04】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504088&idx=1&sn=c4df39ae84146f5570d503993192341b&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-31T17:02:04】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504088&idx=2&sn=aa72ad42af540628fbb216b15bbe3962&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
 
-[:camera_flash:【2025-10-29T16:48:07】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463797&idx=2&sn=62fb6b10d22b92c9e338cdba3268d1bb&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T16:48:07】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463797&idx=1&sn=22fe0712d6495c717076bb3623ec9f6b&scene=27#wechat_redirect)
 
 国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:camera_flash:【2025-10-27T16:58:40】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496443&idx=2&sn=3d0eeedba3f78ad71a508a6347a50d2a&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-27T16:58:40】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496443&idx=1&sn=dde031f4c23e22aefa2f922cd60d1c11&scene=27#wechat_redirect)
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
