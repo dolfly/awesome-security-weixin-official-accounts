@@ -1,13 +1,13 @@
 
-### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
 
-[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
 
-[:camera_flash:【2025-11-04T11:45:57】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508701&idx=1&sn=69b6c5958d5c8899b5178561fa6d9b49&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-05T19:27:25】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488528&idx=1&sn=d03183a139f69651fd1d0776c05de802&scene=27#wechat_redirect)
 
-B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
+泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0efd834741a9" alt="" />
 
 ---
 
@@ -25,15 +25,15 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
-### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【2025-11-04T17:18:48】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488494&idx=1&sn=f1a2b5c79f354e6c0ecc9d09023f052f&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-04T11:45:57】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508701&idx=1&sn=69b6c5958d5c8899b5178561fa6d9b49&scene=27#wechat_redirect)
 
-泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
+B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0efd834741a9" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
 
 ---
 

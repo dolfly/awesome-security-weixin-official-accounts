@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-11-04T17:59:55】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603127&idx=2&sn=8b141a0efdc02f454aaea9156bd738f0&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-05T18:07:18】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603265&idx=3&sn=e6576c3dfd7b2ef0e1aa066a64add6c0&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -14,9 +14,9 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2025-11-05T07:31:03】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247521354&idx=1&sn=6e1f6b528e5016b07fb35a5afd7c029d&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T08:16:05】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247521390&idx=1&sn=13817c441a945362c57086955ded99e7&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
@@ -27,9 +27,9 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2025-11-04T11:22:12】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040683&idx=1&sn=62da19b7abda8bb536b07837df4fb244&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-05T16:27:31】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040689&idx=1&sn=9fed295a809594db10f9ed3363230815&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
@@ -40,9 +40,9 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2025-11-04T08:00:53】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143144&idx=1&sn=eff4690876ae5e80f67d67b6ab0aab35&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T08:04:50】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143154&idx=1&sn=ac4bfa90325ec43b6f0244ad18b39ea6&scene=27#wechat_redirect)
 
 吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。
 
