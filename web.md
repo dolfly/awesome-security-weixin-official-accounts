@@ -1,9 +1,9 @@
 
 ### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:chart_with_upwards_trend:【0/85/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+[:chart_with_upwards_trend:【0/86/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:camera_flash:【2025-11-05T17:59:35】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247562151&idx=2&sn=f00e9734e68e136295e6c71a91d97529&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T17:59:36】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247562399&idx=1&sn=a32b9c96da556bc095bd1756b404abc0&scene=27#wechat_redirect)
 
 深入专注智能汽车网络安全与数据安全技术，专属汽车网络安全圈的头部学习交流平台和社区。平台定期会通过线上线下等形式进行一手干货内容输出，并依托丰富产业及专家资源，深化上下游供需对接，逐步壮大我国汽车安全文化及产业生态圈。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【1/60/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2025-11-05T08:32:39】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247502436&idx=1&sn=c4ebf57f8e9bec1c7985e1694a98d50b&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T08:50:06】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247502515&idx=2&sn=c1c6d94d1bdfdf66ab145d1a32112258&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -27,9 +27,9 @@
 
 ### [内生安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:chart_with_upwards_trend:【0/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
+[:chart_with_upwards_trend:【0/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:camera_flash:【2025-11-05T15:04:05】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534510&idx=1&sn=f455f4b74fb847906a447563fcfc1e3c&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T20:29:14】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534553&idx=2&sn=7fe518848b1ed3b355059d501b421c5e&scene=27#wechat_redirect)
 
 中国网络空间内生安全技术与产业联盟，简称“CCESS联盟”。CCESS联盟是在自愿、平等、互利、合作的基础上，由国内网络空间内生安全领域的相关企事业单位、社团组织、科研院所、高等院校等自愿结成的开放性行业合作组织。
 
@@ -40,9 +40,9 @@
 
 ### [火绒安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjYzMDM1Mg==)
 
-[:chart_with_upwards_trend:【10/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjYzMDM1Mg==)
+[:chart_with_upwards_trend:【12/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjYzMDM1Mg==)
 
-[:camera_flash:【2025-11-05T16:00:56】](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247527111&idx=1&sn=99e4c3d40526e1e766e067edb59cd21d&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T16:21:21】](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247527156&idx=1&sn=47db7c928125216cae4c78846e519601&scene=27#wechat_redirect)
 
 火绒是一家专注、纯粹的安全公司，致力于在终端安全领域，为用户提供专业的产品和专注的服务，并持续对外赋能反病毒引擎等相关自主研发技术。
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【17/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MjkzMTcxMg==)
 
-[:camera_flash:【2025-11-05T08:11:04】](https://mp.weixin.qq.com/s?__biz=MzA4MjkzMTcxMg==&mid=2449048216&idx=1&sn=c81a9f729063b7bcbd779d6652b90a8c&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T08:10:50】](https://mp.weixin.qq.com/s?__biz=MzA4MjkzMTcxMg==&mid=2449048225&idx=1&sn=5906ce84b6faad9454691d0896997dc1&scene=27#wechat_redirect)
 
 高等精灵实验室（LHE）
 
@@ -129,6 +129,19 @@
 ---
 
 
+### [白泽安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE4ODY3Nw==)
+
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE4ODY3Nw==)
+
+[:camera_flash:【2025-11-06T16:31:57】](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492819&idx=1&sn=b02f2023f735a7accf948e26a70dce9b&scene=27#wechat_redirect)
+
+专注APT发现、检测、取证、溯源相关网络安全技术研究。发布APT相关威胁情报、分享最新研究成果。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb1defa4e211" alt="" />
+
+---
+
+
 ### [泰阿安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
@@ -138,19 +151,6 @@
 泰阿安全实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d80f12be026a" alt="" />
-
----
-
-
-### [白泽安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE4ODY3Nw==)
-
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MTE4ODY3Nw==)
-
-[:camera_flash:【2025-10-31T09:02:28】](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492816&idx=1&sn=a5d9bf84cd8a4b306fc66e8d8dccfca3&scene=27#wechat_redirect)
-
-专注APT发现、检测、取证、溯源相关网络安全技术研究。发布APT相关威胁情报、分享最新研究成果。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb1defa4e211" alt="" />
 
 ---
 
@@ -385,19 +385,6 @@ R10Laboratory是一个网络安全的实验室，致力于研究、测试和验�
 学海浩茫，予以风动，必降弥天之润！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_41292c8e5379" alt="" />
-
----
-
-
-### [零丁洋实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNzAzNzUzMA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNzAzNzUzMA==)
-
-[:camera_flash:【2025-10-07T10:00:26】](https://mp.weixin.qq.com/s?__biz=MzUzNzAzNzUzMA==&mid=2247484217&idx=1&sn=7f6f7b666ed211db63549f48e0f5474c&scene=27#wechat_redirect)
-
-零丁洋实验室创立于2020年，主要致力于网络空间安全技术研究与成果输出，同时着眼于网络攻防技术、安全产品设计研发、移动安全、物联网安全、数据安全、APT、红蓝对抗等领域的技术研究与安全服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a9324b015bb4" alt="" />
 
 ---
 
@@ -1295,6 +1282,19 @@ Torchwood火炬木攻防实验室公众号
 久安攻防实验室于2018年成立，是一群热爱网络安全的年轻人组建，我们的目的只有一件事，就是给这片互联网带来一份长久的安全！请敬请期待我们的精彩表演！蓄势待发，敬请期待。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_90d8f801a44b" alt="" />
+
+---
+
+
+### [零丁洋实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNzAzNzUzMA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNzAzNzUzMA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+零丁洋实验室创立于2020年，主要致力于网络空间安全技术研究与成果输出，同时着眼于网络攻防技术、安全产品设计研发、移动安全、物联网安全、数据安全、APT、红蓝对抗等领域的技术研究与安全服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a9324b015bb4" alt="" />
 
 ---
 

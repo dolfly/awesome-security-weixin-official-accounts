@@ -27,9 +27,9 @@
 
 ### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+[:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:camera_flash:【2025-11-05T15:02:54】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505230&idx=1&sn=f36dde4b8e06a6b3c187965482d9441e&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T14:30:51】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505231&idx=1&sn=020319ba3731a795b57eb9a8bc8dbe80&scene=27#wechat_redirect)
 
 7×24小时在线服务，国企背景资质保证。专业安全团队，十余年来专注数据恢复，漏洞修补，安全加固。当天完成评估、修复，不成功不收费。同时完成攻击溯源、漏洞排查、漏洞修补，保障您的服务器安全！
 
@@ -53,9 +53,9 @@
 
 ### [CNNVD安全动态](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
 
-[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
 
-[:camera_flash:【2025-11-05T14:09:39】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-06T14:22:11】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463827&idx=1&sn=8c36b0ccdd5b178162d06ba80297656c&scene=27#wechat_redirect)
 
 国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3ODM2NTg2Mg==)
 
-[:camera_flash:【2025-11-03T15:29:11】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496464&idx=2&sn=41f254ee0dadde457d733b7b815fc85a&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-03T15:29:11】](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496464&idx=1&sn=4ae989f66cbc49dad8bf3659e733c8ec&scene=27#wechat_redirect)
 
 国家信息安全漏洞共享平台（China National Vulnerability Database）是由国家计算机网络应急技术处理协调中心联合重要信息系统单位、基础电信运营商、网络安全厂商、软件厂商和互联网企业建立的国家网络安全漏洞库。
 
