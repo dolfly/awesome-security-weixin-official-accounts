@@ -1,9 +1,9 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【40/73/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【41/75/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2025-11-06T14:09:03】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503990&idx=2&sn=4acb4d0b84e1ef8e58ff06f7f8d08b24&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T12:00:01】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504004&idx=1&sn=e2c3c9c7062b6cb4f7e9151c4d49258d&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
@@ -14,9 +14,9 @@
 
 ### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:chart_with_upwards_trend:【60/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+[:chart_with_upwards_trend:【62/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:camera_flash:【2025-11-06T06:00:07】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247497228&idx=2&sn=856bbbf48d42e4746e3b6a71acc32c6e&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T08:31:18】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247497244&idx=3&sn=486bd54811e2773beccdf218bfbc0c7a&scene=27#wechat_redirect)
 
 蓝军开源情报大百科数据库。
 
@@ -27,7 +27,7 @@
 
 ### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
-[:chart_with_upwards_trend:【19/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+[:chart_with_upwards_trend:【18/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
 [:camera_flash:【2025-11-06T23:45:52】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183463&idx=1&sn=2cc21ec5bd60a98290bc54220c32cafe&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【20/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
 [:camera_flash:【2025-11-06T19:04:50】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152846&idx=1&sn=5bb6010045331a19053f02d60bca270b&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+[:chart_with_upwards_trend:【0/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
 [:camera_flash:【2025-11-07T08:04:46】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495599&idx=1&sn=0a04825b1a3cc6431e6ee5b8e4701766&scene=27#wechat_redirect)
 
@@ -79,9 +79,9 @@
 
 ### [奇安网情局](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
 
-[:chart_with_upwards_trend:【14/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
+[:chart_with_upwards_trend:【15/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
 
-[:camera_flash:【2025-11-05T11:47:22】](https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247490865&idx=1&sn=173c05a44d82f8ad59e6bb83f911f065&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T15:43:40】](https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247490880&idx=1&sn=50d33117a87125d47e312e343ca53807&scene=27#wechat_redirect)
 
 网络国防知识库，产业发展前哨站，开源情报信息源。
 
@@ -92,9 +92,9 @@
 
 ### [奇安信威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
+[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:camera_flash:【2025-11-04T10:00:56】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516542&idx=1&sn=55df9e8ef778a5aee6bd099276a381b2&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T10:02:34】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516573&idx=1&sn=41e4287a07c23e992b7a7d5f13ebc09a&scene=27#wechat_redirect)
 
 威胁情报信息共享，事件预警通报，攻击事件分析报告，恶意软件分析报告
 
@@ -105,9 +105,9 @@
 
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+[:chart_with_upwards_trend:【2/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:camera_flash:【2025-11-06T18:30:59】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185058&idx=1&sn=df47dd740a936dac817a89ba9b384eb1&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T11:03:10】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185072&idx=1&sn=af167239aba5027423cfec264d104a64&scene=27#wechat_redirect)
 
 数字时代网络威胁应对专家
 
@@ -142,19 +142,6 @@
 ---
 
 
-### [黑鸟略略略](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
-
-[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
-
-[:camera_flash:【2025-11-03T23:59:21】](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484411&idx=1&sn=7652c782e6892c35dc4ede58a61382d8&scene=27#wechat_redirect)
-
-AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
-
----
-
-
 ### [二道情报贩子](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
 
 [:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTA3MTk5Ng==)
@@ -164,6 +151,19 @@ AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/�
 二道情报贩子，专注任何情报领域。上知天文,下知地理,中晓人和,明阴阳,懂八卦,晓奇门,知遁甲,运筹帷幄之中,决胜千里之外,自比管仲乐毅之贤,抱膝危坐,笑傲风月,未出茅庐,先定三分天下。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f0f88d5b70e3" alt="" />
+
+---
+
+
+### [黑鸟略略略](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
+
+[:camera_flash:【2025-11-03T23:59:21】](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484411&idx=1&sn=7652c782e6892c35dc4ede58a61382d8&scene=27#wechat_redirect)
+
+AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
 
 ---
 
