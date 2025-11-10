@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-11-08T11:02:19】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628374&idx=1&sn=ca1f65ec583724b3ee0ed440fc4bccfd&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-09T17:02:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628432&idx=2&sn=f3cfa59e488c7c2e8369dbf14e95cd0d&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【17/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【18/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-11-08T19:12:59】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454941422&idx=1&sn=91048480571d3d494c626502cf3c7308&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-09T19:11:52】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454941458&idx=1&sn=41124ef63aa19e975587666a587d97fd&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,26 +27,13 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2025-11-07T08:02:02】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490554&idx=1&sn=d8cc879101d34222914f53fbd1021a69&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0aa8f6bfaffd" alt="" />
-
----
-
-
-### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
-
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
-
-[:camera_flash:【2025-11-06T10:15:09】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484953&idx=1&sn=1617a1ca1e7f95fc13377b7edf18377d&scene=27#wechat_redirect)
-
-电子数据取证与应急响应从业者交流平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
 
 ---
 
@@ -64,9 +51,22 @@
 ---
 
 
+### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+
+[:camera_flash:【2025-11-06T10:15:09】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484953&idx=1&sn=1617a1ca1e7f95fc13377b7edf18377d&scene=27#wechat_redirect)
+
+电子数据取证与应急响应从业者交流平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e0f7dbe22a1d" alt="" />
+
+---
+
+
 ### [TahirSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
 
-[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjIwMzM5Nw==)
 
 [:camera_flash:【2025-11-01T14:00:36】](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490382&idx=1&sn=bf339eccbdebb33a562c3d2c7bd09a88&scene=27#wechat_redirect)
 
@@ -90,19 +90,6 @@
 ---
 
 
-### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
-
-[:camera_flash:【2025-11-06T16:48:49】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889814&idx=1&sn=2900e94a67722c18d8ca7ab166ac85ef&scene=27#wechat_redirect)
-
-关注电子数据取证与网络犯罪调查
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
-
----
-
-
 ### [电子取证及可信应用协创中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODA3NDc3NA==)
@@ -112,6 +99,19 @@
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
+
+---
+
+
+### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
+
+[:camera_flash:【2025-11-06T16:48:49】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889814&idx=1&sn=2900e94a67722c18d8ca7ab166ac85ef&scene=27#wechat_redirect)
+
+关注电子数据取证与网络犯罪调查
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
 
 ---
 

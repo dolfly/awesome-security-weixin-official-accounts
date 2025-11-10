@@ -1,9 +1,9 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【42/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【41/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2025-11-08T16:09:14】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504013&idx=2&sn=5aac81509e84f37d3b1a83b0f9701cef&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-08T16:09:14】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504013&idx=1&sn=c2156850439406031b98d90e52e15374&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
@@ -14,7 +14,7 @@
 
 ### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:chart_with_upwards_trend:【61/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+[:chart_with_upwards_trend:【58/59/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
 [:camera_flash:【2025-11-07T08:31:18】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247497244&idx=3&sn=486bd54811e2773beccdf218bfbc0c7a&scene=27#wechat_redirect)
 
@@ -27,9 +27,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【14/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【13/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2025-11-07T21:51:27】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562957&idx=2&sn=9b0a25781269d52eb6d2e3092d8108a7&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-07T21:51:27】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562957&idx=1&sn=880f0abd4aa7096425ab72ada777bffb&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -38,9 +38,22 @@
 ---
 
 
+### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+
+[:chart_with_upwards_trend:【19/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+
+[:camera_flash:【2025-11-09T14:58:05】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152899&idx=1&sn=fdc9bae66b78a80bda0afcf0e1863c4d&scene=27#wechat_redirect)
+
+每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
+
+---
+
+
 ### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
-[:chart_with_upwards_trend:【18/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+[:chart_with_upwards_trend:【18/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
 [:camera_flash:【2025-11-06T23:45:52】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183463&idx=1&sn=2cc21ec5bd60a98290bc54220c32cafe&scene=27#wechat_redirect)
 
@@ -51,22 +64,9 @@
 ---
 
 
-### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
-
-[:chart_with_upwards_trend:【19/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
-
-[:camera_flash:【2025-11-08T12:20:43】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152879&idx=1&sn=99cdba6a4ea9c63d7061e2e29e95cfe9&scene=27#wechat_redirect)
-
-每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5331cb469b82" alt="" />
-
----
-
-
 ### [夜组安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
-[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODM0NDIxNQ==)
 
 [:camera_flash:【2025-11-07T08:04:46】](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495599&idx=1&sn=0a04825b1a3cc6431e6ee5b8e4701766&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@
 
 ### [奇安网情局](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
 
-[:chart_with_upwards_trend:【15/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
+[:chart_with_upwards_trend:【14/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4ODQzMzk3MA==)
 
 [:camera_flash:【2025-11-08T11:05:54】](https://mp.weixin.qq.com/s?__biz=MzI4ODQzMzk3MA==&mid=2247491174&idx=1&sn=34e1f1b41e078bcec4c428740c861798&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [奇安信威胁情报中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
+[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDc2MDA4OA==)
 
 [:camera_flash:【2025-11-07T10:02:34】](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516573&idx=1&sn=41e4287a07c23e992b7a7d5f13ebc09a&scene=27#wechat_redirect)
 
@@ -105,7 +105,7 @@
 
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:chart_with_upwards_trend:【2/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
 [:camera_flash:【2025-11-07T11:03:10】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185072&idx=1&sn=af167239aba5027423cfec264d104a64&scene=27#wechat_redirect)
 
@@ -118,7 +118,7 @@
 
 ### [百灵猫开源情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
 
-[:chart_with_upwards_trend:【9/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
 
 [:camera_flash:【2025-10-27T18:06:16】](https://mp.weixin.qq.com/s?__biz=MzkxMTA3MDk3NA==&mid=2247488128&idx=1&sn=d57ba50a61f0fc6c2cd39f04929e127e&scene=27#wechat_redirect)
 
@@ -146,7 +146,7 @@
 
 [:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMDIwMTMxMw==)
 
-[:camera_flash:【2025-11-03T11:45:24】](https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247495065&idx=1&sn=728a4239f61e45c65d8d38fd55e3e0ef&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-09T11:32:34】](https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247495075&idx=1&sn=a4db8ba2eeab7fb0ffde641bbb413a37&scene=27#wechat_redirect)
 
 情报知识交流，实用工具分享
 
