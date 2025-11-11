@@ -27,13 +27,26 @@
 
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【5/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【2025-11-07T07:50:30】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508747&idx=1&sn=a7ae6c6a68dbb8e6ef0e70bb16efe031&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-11T07:45:36】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247508774&idx=1&sn=a027d20a53a985b86e56fc6af30b1f22&scene=27#wechat_redirect)
 
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
+
+---
+
+
+### [泷羽Sec-临观](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
+
+[:camera_flash:【2025-11-10T23:47:25】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzc0MzY3NA==&mid=2247488013&idx=1&sn=a9f85fcb4c25607d48187a583892f366&scene=27#wechat_redirect)
+
+专注于网络安全领域的内容创作与分享
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97068f9aa7b7" alt="" />
 
 ---
 
@@ -47,19 +60,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 //网络安全领域知识分享;更新网络安全领域各种资源;分享学习文档及前沿信息，思路;
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_449cf93d76cd" alt="" />
-
----
-
-
-### [泷羽Sec-临观](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzc0MzY3NA==)
-
-[:camera_flash:【2025-11-02T19:50:53】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzc0MzY3NA==&mid=2247487955&idx=1&sn=539dab8ce42e2150fe5509265638a741&scene=27#wechat_redirect)
-
-专注于网络安全领域的内容创作与分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97068f9aa7b7" alt="" />
 
 ---
 
