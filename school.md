@@ -1,7 +1,7 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
 [:camera_flash:【2025-11-07T17:25:16】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496499&idx=1&sn=d6dcde468457c835229d2b83687fb0a5&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
 
 [:camera_flash:【2025-11-05T17:22:38】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485231&idx=1&sn=a8fd0826fec9cbc9fb7fddd383becd81&scene=27#wechat_redirect)
 
@@ -53,26 +53,13 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:camera_flash:【2025-11-07T16:48:29】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486610&idx=1&sn=30c0d426def9dbf8ab7acf71fa39b6dd&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
-
-[:camera_flash:【2025-10-24T16:09:28】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247511197&idx=1&sn=c73b2ed7e1b82d7812871a9ee84e1f28&scene=27#wechat_redirect)
-
-启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
@@ -90,6 +77,32 @@
 ---
 
 
+### [半亩塘的一棵树](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
+
+[:camera_flash:【2025-11-13T13:18:12】](https://mp.weixin.qq.com/s?__biz=MzkxMjc0NDg4NA==&mid=2247484121&idx=2&sn=d5b86be09498e9048a311424e35be424&scene=27#wechat_redirect)
+
+信阳师范大学“半亩塘的一棵树”网络安全战队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b086c0182d" alt="" />
+
+---
+
+
+### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:camera_flash:【2025-11-13T16:04:07】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487703&idx=1&sn=d1569473656d84dbc29593ba668bbb90&scene=27#wechat_redirect)
+
+广东工业大学A&amp;D（攻击与防御）工作室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
+
+---
+
+
 ### [三叶草小组Syclover](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTg0NjYzNg==)
@@ -99,6 +112,19 @@
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
+
+---
+
+
+### [启明星辰网络空间安全教育](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDg0NTc1NA==)
+
+[:camera_flash:【2025-10-24T16:09:28】](https://mp.weixin.qq.com/s?__biz=MzUzNDg0NTc1NA==&mid=2247511197&idx=1&sn=c73b2ed7e1b82d7812871a9ee84e1f28&scene=27#wechat_redirect)
+
+启明星辰网络空间安全学院以国家网络安全事业发展为使命，依托启明星辰集团多年的技术沉淀及实践积累，提供网络安全人才体系构建与信息安全技术及能力提升教育培训，为建设网络强国提供有力的人才支撑。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_310250868fd4" alt="" />
 
 ---
 
@@ -155,19 +181,6 @@
 ---
 
 
-### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
-
-[:camera_flash:【2025-10-14T14:21:39】](https://mp.weixin.qq.com/s?__biz=MzA5MjUwOTY4Ng==&mid=2651804905&idx=1&sn=47138a3dbe5ab5d2d1dfd239479406cc&scene=27#wechat_redirect)
-
-清华大学学生网络安全技术协会信息推送和资源平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -177,19 +190,6 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
-### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:camera_flash:【2025-10-24T19:37:16】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247487688&idx=1&sn=fa019b6b49f9f7e84ceeaec2722fa2c4&scene=27#wechat_redirect)
-
-广东工业大学A&amp;D（攻击与防御）工作室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
 
 ---
 
@@ -229,6 +229,19 @@
 中原工学院（ZUT）攻防技术团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
+
+---
+
+
+### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+清华大学学生网络安全技术协会信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
 
 ---
 
@@ -749,19 +762,6 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 电子科技大学御林安全工作室官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fcf969a27ef2" alt="" />
-
----
-
-
-### [半亩塘的一棵树](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-信阳师范大学“半亩塘的一棵树”网络安全战队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b086c0182d" alt="" />
 
 ---
 
