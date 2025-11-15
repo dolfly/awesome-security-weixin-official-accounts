@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2025-11-07T17:25:16】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496499&idx=1&sn=d6dcde468457c835229d2b83687fb0a5&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-14T19:10:04】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496517&idx=1&sn=462e2113e543e2c9ebe80ba46bc06509&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
