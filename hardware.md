@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/69/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-11-14T10:56:51】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=1&sn=373f2a8435e365412c2e73d50b4088c1&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-15T13:10:03】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628670&idx=2&sn=7f9a2058a96c76d9484bd07284911fcc&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【20/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-11-14T08:21:40】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454941592&idx=1&sn=ab4dc68f4166af7eb3a93eec36a72f47&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-15T19:19:10】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454941875&idx=1&sn=f577f3902417cdf7e8c5014fbc806c7a&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,7 +27,7 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
 [:camera_flash:【2025-11-11T20:00:29】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490627&idx=1&sn=32ae7a0979862fdc3ac2925346df2a60&scene=27#wechat_redirect)
 
@@ -112,19 +112,6 @@
 电子取证及可信应用湖北省协同创新中心（培育）的订阅号。介绍和宣传法庭科学中的电子数据取证（Digital Forensics）涉及的科学知识、技术实践和创新应用，推动电子数据取证的普及和发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_16885e328471" alt="" />
-
----
-
-
-### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:camera_flash:【2025-10-16T22:50:31】](https://mp.weixin.qq.com/s?__biz=MzIxMjExNDMzNw==&mid=2247484740&idx=1&sn=3d416bd06dc9b182a77e3b11d9382f66&scene=27#wechat_redirect)
-
-中国卫星黑客
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
@@ -229,6 +216,19 @@
 极客的专属潮酷聚集地，尽在iotsec-zone
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f7435f8d16d" alt="" />
+
+---
+
+
+### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+中国卫星黑客
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
