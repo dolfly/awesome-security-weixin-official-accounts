@@ -1,7 +1,7 @@
 
 ### [中国信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
-[:chart_with_upwards_trend:【22/146/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
+[:chart_with_upwards_trend:【21/136/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
 [:camera_flash:【2025-11-14T18:20:14】](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664253366&idx=1&sn=2fb3534dcdee118e3c77c2e439c0bf24&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/119/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:camera_flash:【2025-11-15T09:16:25】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=2&sn=25e5a6d53c1c0e6c442bcb1fe58b59fa&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-16T09:16:30】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613252&idx=3&sn=8c12be13b2612f660187da351a3edc46&scene=27#wechat_redirect)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
@@ -27,9 +27,9 @@
 
 ### [安全圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
-[:chart_with_upwards_trend:【0/113/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
+[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
 
-[:camera_flash:【2025-11-15T19:00:37】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072744&idx=1&sn=7ae5ccfa2dd7ed13f70d9e9703f59334&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-16T19:01:17】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=2&sn=d42f939d160e8838378791bef5a82bb6&scene=27#wechat_redirect)
 
 专注网络安全：网罗圈内热点事件，细说安全风云变幻！
 
@@ -40,9 +40,9 @@
 
 ### [FreeBuf](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:chart_with_upwards_trend:【0/112/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
+[:chart_with_upwards_trend:【0/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjA0NjgyMA==)
 
-[:camera_flash:【2025-11-15T18:01:51】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=1&sn=29a4031501c306fe0b16170d69c0943b&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-16T15:11:04】](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330476&idx=3&sn=4d477ea411b3aa4185a781f76ce992a7&scene=27#wechat_redirect)
 
 中国网络安全行业门户
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/101/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
 
-[:camera_flash:【2025-11-15T13:05:34】](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247569718&idx=1&sn=16db363862318ee8c4dad823b61d93f3&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-17T07:32:29】](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247569750&idx=1&sn=9b3c4eefb31d0a8b776cefacd2e40a14&scene=27#wechat_redirect)
 
 发布网安权威声音，展现各地网警风采
 
@@ -66,7 +66,7 @@
 
 ### [网络安全和信息化](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
-[:chart_with_upwards_trend:【4/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
+[:chart_with_upwards_trend:【3/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MzMwMDU5NQ==)
 
 [:camera_flash:【2025-11-14T17:44:54】](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175090&idx=3&sn=84e55bc9b98fce2ec03ffca360083303&scene=27#wechat_redirect)
 
@@ -79,7 +79,7 @@
 
 ### [代码卫士](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NTg4OTc5Nw==)
 
-[:chart_with_upwards_trend:【0/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NTg4OTc5Nw==)
+[:chart_with_upwards_trend:【0/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NTg4OTc5Nw==)
 
 [:camera_flash:【2025-11-14T18:20:22】](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524405&idx=2&sn=1197bb24d6f236ec11ca86c4a925fb9b&scene=27#wechat_redirect)
 
@@ -92,7 +92,7 @@
 
 ### [嘶吼专业版](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
-[:chart_with_upwards_trend:【1/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
+[:chart_with_upwards_trend:【1/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MDY1MDU4MQ==)
 
 [:camera_flash:【2025-11-14T14:00:47】](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585443&idx=2&sn=0bdc98d5b387e8b7054218e9de6b37cd&scene=27#wechat_redirect)
 
@@ -105,7 +105,7 @@
 
 ### [安全牛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
-[:chart_with_upwards_trend:【1/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
+[:chart_with_upwards_trend:【1/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc3NjM4MA==)
 
 [:camera_flash:【2025-11-14T14:58:05】](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139345&idx=2&sn=635574305d18f20acf0f45febeae7291&scene=27#wechat_redirect)
 
@@ -118,7 +118,7 @@
 
 ### [赛欧思安全研究实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
 
-[:chart_with_upwards_trend:【0/33/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
+[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjE2Mjk3Ng==)
 
 [:camera_flash:【2025-11-15T09:30:15】](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490311&idx=1&sn=9458ec884eb6d3ebddf8f9ad7c509466&scene=27#wechat_redirect)
 
@@ -131,7 +131,7 @@
 
 ### [赛博研究院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
 
-[:chart_with_upwards_trend:【3/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
+[:chart_with_upwards_trend:【3/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
 
 [:camera_flash:【2025-11-14T23:46:25】](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247521508&idx=1&sn=7e56fcb63a9383c6a8c7c9719f9532bf&scene=27#wechat_redirect)
 
@@ -170,7 +170,7 @@
 
 ### [CAICT可信安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjM1MDg2Mg==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjM1MDg2Mg==)
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjM1MDg2Mg==)
 
 [:camera_flash:【2025-11-13T14:01:00】](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247508255&idx=1&sn=e2b888e3380515e19b55863ea518e47c&scene=27#wechat_redirect)
 
@@ -196,26 +196,13 @@
 
 ### [一起聊安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjUzOTQ0NQ==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjUzOTQ0NQ==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NjUzOTQ0NQ==)
 
 [:camera_flash:【2025-11-13T17:50:05】](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521948&idx=1&sn=bd7c78521ec1b8a86ba4f4fc9f0f1d29&scene=27#wechat_redirect)
 
 致力于网络安全材料汇总与分享，且是FREEBUF【网安知识大陆】安全标准部落领主，内容包括安全标准、安全建设、安全事件、前沿技术（零信任、信创、新基建等）相关内容，并与安全培训机构有强合作，笔者主要是从事过网络安全及ICT厂商。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_589ffdaa31f9" alt="" />
-
----
-
-
-### [安全客](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
-
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
-
-[:camera_flash:【2025-11-14T14:44:41】](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789399&idx=1&sn=8553309f7842b4c888acd91efc342b1b&scene=27#wechat_redirect)
-
-安全KER致力于搭建国内安全人才学习、工具、淘金、资讯一体化开放平台，推动数字安全社区文化的普及推广与人才生态的链接融合。目前，安全KER已整合全国数千位白帽资源，与数个中大型品牌达成合作。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c844687d05d6" alt="" />
 
 ---
 
@@ -246,15 +233,15 @@ KK安全说
 ---
 
 
-### [广东网警](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NTk5NzgxOA==)
+### [安全客](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NTk5NzgxOA==)
+[:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5ODA0NDE2MA==)
 
-[:camera_flash:【2025-11-14T16:03:56】](https://mp.weixin.qq.com/s?__biz=MzA4NTk5NzgxOA==&mid=2657569129&idx=1&sn=e85b820b6cbb55d7c6dc68ed0d3965ed&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-14T14:44:41】](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789399&idx=1&sn=8553309f7842b4c888acd91efc342b1b&scene=27#wechat_redirect)
 
-宣传网络安全知识和有关法律法规，预防网络犯罪；发布有关网络病毒信息和治理情况，以及打击网络犯罪有关情况等；提供网警相关的便民服务等。
+安全KER致力于搭建国内安全人才学习、工具、淘金、资讯一体化开放平台，推动数字安全社区文化的普及推广与人才生态的链接融合。目前，安全KER已整合全国数千位白帽资源，与数个中大型品牌达成合作。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fafd8a3b1a2b" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c844687d05d6" alt="" />
 
 ---
 
@@ -268,6 +255,19 @@ KK安全说
 分享网络安全行业法律法规及政策要求，推动信息网络安全的共享和交流，搭建一个湖北省信息网络安全的互动平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0a832966e29e" alt="" />
+
+---
+
+
+### [广东网警](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NTk5NzgxOA==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4NTk5NzgxOA==)
+
+[:camera_flash:【2025-11-14T16:03:56】](https://mp.weixin.qq.com/s?__biz=MzA4NTk5NzgxOA==&mid=2657569129&idx=1&sn=e85b820b6cbb55d7c6dc68ed0d3965ed&scene=27#wechat_redirect)
+
+宣传网络安全知识和有关法律法规，预防网络犯罪；发布有关网络病毒信息和治理情况，以及打击网络犯罪有关情况等；提供网警相关的便民服务等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fafd8a3b1a2b" alt="" />
 
 ---
 
@@ -300,7 +300,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 ### [广州网警](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTU4ODM2Nw==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTU4ODM2Nw==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTU4ODM2Nw==)
 
 [:camera_flash:【2025-11-14T09:39:16】](https://mp.weixin.qq.com/s?__biz=MzAxOTU4ODM2Nw==&mid=2651179958&idx=1&sn=2f4834bf9e87147cba48cf7894bb463e&scene=27#wechat_redirect)
 
@@ -315,7 +315,7 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 
 [:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjU2NDMwNQ==)
 
-[:camera_flash:【2025-11-12T14:48:00】](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506153&idx=1&sn=fe0de4595587a73a02013cd68483c76f&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-12T14:48:00】](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247506153&idx=3&sn=0453660560f42793b5a10c789ea38298&scene=27#wechat_redirect)
 
 《网络空间安全科学学报》旨在搭建网络空间安全领域学术研究交流平台，传播学术思想与理论，展示科学研究、创新技术与应用成果，助力网络空间安全学科建设，为网络强国建设提供坚实支撑与服务。
 
@@ -324,15 +324,15 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 ---
 
 
-### [网安观察室XQ](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjM4ODc3OQ==)
+### [京数安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
 
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjM4ODc3OQ==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
 
-[:camera_flash:【2025-11-14T09:14:29】](https://mp.weixin.qq.com/s?__biz=MzkzNjM4ODc3OQ==&mid=2247486175&idx=2&sn=8703a850366213759ec98dc8aed56bec&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-16T12:18:09】](https://mp.weixin.qq.com/s?__biz=Mzg4OTY4MDA2MA==&mid=2247491727&idx=2&sn=98fdda3e9184b11dea7b9fc5004ea814&scene=27#wechat_redirect)
 
-专注于安全威胁监测与对抗技术研究，镇守网络安全阵地，助力营造清朗城市网络空间
+算法备案｜等保咨询｜渗透测试｜风险评估｜APP检测｜APP加固 【商务联系18001352578同微】
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6ecde505b9da" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d679863e0ce0" alt="" />
 
 ---
 
@@ -372,6 +372,19 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 湖南省网络空间安全协会是专注于信息网络安全的专业性社会团体，业务主管单位为湖南省公安厅。协会通过官方公众平台发布网络安全行业资讯及漏洞预警，为全省网络安全运营者提供服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24cb700b81c7" alt="" />
+
+---
+
+
+### [网安观察室XQ](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjM4ODc3OQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNjM4ODc3OQ==)
+
+[:camera_flash:【2025-11-14T09:14:29】](https://mp.weixin.qq.com/s?__biz=MzkzNjM4ODc3OQ==&mid=2247486175&idx=2&sn=8703a850366213759ec98dc8aed56bec&scene=27#wechat_redirect)
+
+专注于安全威胁监测与对抗技术研究，镇守网络安全阵地，助力营造清朗城市网络空间
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6ecde505b9da" alt="" />
 
 ---
 
@@ -424,19 +437,6 @@ V安全资讯是隶属于丝路安全团队（SRsec）旗下的一个以分享�
 漏洞盒子平台「官方服务号」中国安全众测模式创导者，链接全球白帽专家资源，为用户提供安全众测、安全运营与企业SRC服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d135c981be12" alt="" />
-
----
-
-
-### [京数安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
-
-[:camera_flash:【2025-11-05T08:25:57】](https://mp.weixin.qq.com/s?__biz=Mzg4OTY4MDA2MA==&mid=2247491707&idx=1&sn=87ed2a480614852633556cb946825ce1&scene=27#wechat_redirect)
-
-算法备案｜等保咨询｜渗透测试｜风险评估｜APP检测｜APP加固 【商务联系18001352578同微】
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d679863e0ce0" alt="" />
 
 ---
 
