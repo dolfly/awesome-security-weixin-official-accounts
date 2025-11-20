@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-11-18T16:57:27】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628726&idx=2&sn=3b712dbb17b2b350cd37a3cb2d8229e4&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-19T13:27:38】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628742&idx=2&sn=ed276c65491e9ee290794ee4ba821a89&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【20/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【19/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-11-18T08:21:37】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454941969&idx=1&sn=bd91e2bdae181e82774c394c0e709f4b&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-19T08:32:46】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454941995&idx=1&sn=e6544092867017ccb72967a5d498958c&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-11-11T20:00:29】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490627&idx=1&sn=32ae7a0979862fdc3ac2925346df2a60&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-19T10:00:44】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490657&idx=1&sn=df30fd1d0e199bf261573ad405ffff5b&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -40,7 +40,7 @@
 
 ### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
 [:camera_flash:【2025-11-17T00:01:37】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=2&sn=9762a4e519de6b5fcc57ddfbe662e46e&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:chart_with_upwards_trend:【1/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
 [:camera_flash:【2025-11-10T15:19:47】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485116&idx=1&sn=f182e533782ffae6e0c601738efd63d9&scene=27#wechat_redirect)
 
@@ -66,9 +66,9 @@
 
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2025-11-12T14:08:36】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500598&idx=1&sn=8bb40b7fa046da108d7ecb7342556585&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-20T08:01:11】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500606&idx=1&sn=0cb20a839c22ace56527bb79781e3aa0&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 
