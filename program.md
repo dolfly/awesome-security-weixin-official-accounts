@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【6/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-11-21T10:09:43】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494377&idx=1&sn=bf4d482392ddf6749d7d9d88cf66d276&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-22T15:05:09】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494392&idx=1&sn=e25111c61b5fce85f271d2c33f1ee580&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -27,7 +27,7 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【8/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【7/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2025-11-18T17:04:21】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517486&idx=1&sn=d23f31af222e0a45f7b303a400a4bb6e&scene=27#wechat_redirect)
 
@@ -64,19 +64,6 @@
 ---
 
 
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:chart_with_upwards_trend:【6/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:camera_flash:【2025-11-17T22:58:43】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487275&idx=1&sn=d0a02877d1102b905cede8561f6fe6a4&scene=27#wechat_redirect)
-
-读书，写诗，假装自己是黑客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
-
----
-
-
 ### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
 
 [:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
@@ -90,9 +77,22 @@
 ---
 
 
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2025-11-17T22:58:43】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487275&idx=1&sn=d0a02877d1102b905cede8561f6fe6a4&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
 [:camera_flash:【2025-11-20T18:01:10】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492428&idx=1&sn=0532b6bbb8577c0441373f1f40c4f43d&scene=27#wechat_redirect)
 
@@ -116,19 +116,6 @@
 ---
 
 
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:camera_flash:【2025-11-18T19:48:10】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484921&idx=1&sn=d5fa8af25ee0ae8cdfe83f0d52362815&scene=27#wechat_redirect)
-
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
-
----
-
-
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
@@ -138,6 +125,19 @@
 爱奇艺的技术产品团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【2025-11-18T19:48:10】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484921&idx=1&sn=d5fa8af25ee0ae8cdfe83f0d52362815&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
