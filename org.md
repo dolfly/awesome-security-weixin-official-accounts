@@ -1,9 +1,9 @@
 
 ### [奇安信集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:chart_with_upwards_trend:【0/49/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2025-11-23T10:24:43】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629884&idx=1&sn=b1bf7c602e8498332343daf2c22f024c&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T18:36:37】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629890&idx=1&sn=75c6f8642d3ca282b3b489d593ca0d38&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -14,9 +14,9 @@
 
 ### [安恒信息](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:chart_with_upwards_trend:【1/44/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
+[:chart_with_upwards_trend:【1/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTE0MjQyMg==)
 
-[:camera_flash:【2025-11-21T09:05:05】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650639334&idx=1&sn=7da028b0e713831dd1ce92e3178eb029&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T09:02:03】](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650639436&idx=2&sn=8665b3a47f6e4b4c50e0ef683f0c2053&scene=27#wechat_redirect)
 
 杭州安恒信息技术股份有限公司（DBAPPSecurity），科创板：688023，全球网络安全创新500强。以自主可控的专利技术，提供Web应用安全、数据库安全、网站安全监测产品与服务、态势感知大数据中心及智慧城市云安全运营整体解决方案。
 
@@ -27,9 +27,9 @@
 
 ### [谷安培训](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
 
-[:chart_with_upwards_trend:【1/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
+[:chart_with_upwards_trend:【1/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
 
-[:camera_flash:【2025-11-23T07:01:15】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525797&idx=1&sn=a42d5185a32133b05b3c3cebfd1831c8&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T20:03:27】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525811&idx=1&sn=ec303cc9d20eb49d72cec454be22f4d7&scene=27#wechat_redirect)
 
 谷安培训专注于中国信息安全人才培养，提供专业教育、认证培训、就业培训、安全意识教育、在线教育等服务。
 
@@ -40,9 +40,9 @@
 
 ### [360数字安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTg0MDQ4Nw==)
 
-[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTg0MDQ4Nw==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTg0MDQ4Nw==)
 
-[:camera_flash:【2025-11-21T18:19:54】](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247583051&idx=1&sn=c0c87f9cae304cf34618c9f588e45f2f&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T18:03:54】](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247583056&idx=1&sn=8bf220b50db69ccfc79ee57c325a718f&scene=27#wechat_redirect)
 
 数字安全的领导者
 
@@ -55,7 +55,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:camera_flash:【2025-11-24T07:00:18】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492318&idx=1&sn=c4bfae98a9fffb43d7c869ea89676b77&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T07:00:34】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492325&idx=1&sn=1ad3015a799bee8d0c490e7e6b2a061c&scene=27#wechat_redirect)
 
 安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
 
@@ -66,9 +66,9 @@
 
 ### [梆梆安全](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
 
-[:chart_with_upwards_trend:【5/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
+[:chart_with_upwards_trend:【5/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NzE0NTIxMg==)
 
-[:camera_flash:【2025-11-22T08:30:57】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136492&idx=1&sn=164b068afbdabb6bcce8227f5a9c0d80&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T17:38:13】](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136527&idx=1&sn=488acf04c0469dbb163ecda5b23bd27c&scene=27#wechat_redirect)
 
 全球软件安全领跑者，运用领先技术提供专业可靠的服务，为全球政府、企业、开发者和消费者打造安全、稳固、可信的安全生态环境。梆梆安全致力于保护您的软件，让每个人都能自由地创造、分享和使用信息。
 
@@ -77,24 +77,11 @@
 ---
 
 
-### [绿盟科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
-
-[:chart_with_upwards_trend:【3/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
-
-[:camera_flash:【2025-11-21T19:01:58】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474454&idx=1&sn=420686011a26f05ae8245d26e692451b&scene=27#wechat_redirect)
-
-绿盟科技 官方微信
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6e835eea3e1" alt="" />
-
----
-
-
 ### [观安信息](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
+[:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
 
-[:camera_flash:【2025-11-21T17:31:05】](https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247509951&idx=1&sn=046924fe0bea49a326df72d199675c18&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T17:30:26】](https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247509975&idx=1&sn=0f6695ce565958d716ef59fee18a86e3&scene=27#wechat_redirect)
 
 观安信息是一家提供大数据+ 泛安全产品与服务的高新技术企业。公司聚焦数据安全、网络空间安全、5G 安全、人工智能安全、工业互联网安全及公共安全等核心方向，为运营商、政府、金融、电力、公安、医疗等行业用户提供全面的信息安全解决方案。
 
@@ -103,11 +90,24 @@
 ---
 
 
+### [绿盟科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
+
+[:chart_with_upwards_trend:【5/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYyMTM4MA==)
+
+[:camera_flash:【2025-11-24T18:35:22】](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474506&idx=1&sn=ca4827f3dad2d98ae6a2b3713cc53017&scene=27#wechat_redirect)
+
+绿盟科技 官方微信
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a6e835eea3e1" alt="" />
+
+---
+
+
 ### [补天平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NzY5MDI3NQ==)
 
-[:camera_flash:【2025-11-20T16:32:53】](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509772&idx=1&sn=4d6406694f5eca622d5d74254e8cb1db&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T10:18:21】](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215&scene=27#wechat_redirect)
 
 补天漏洞响应平台旨在建立企业与白帽子之间的桥梁，帮助企业建立SRC（安全应急响应中心），让企业更安全，让白帽子获益。
 
@@ -116,11 +116,24 @@
 ---
 
 
+### [网御星云](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDUzMjc5Ng==)
+
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDUzMjc5Ng==)
+
+[:camera_flash:【2025-11-24T17:00:27】](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204359&idx=1&sn=47e9cf777ce8745b8d4aaa0a8d79eb41&scene=27#wechat_redirect)
+
+创新的、可信赖的网御星云
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_79917e2930f5" alt="" />
+
+---
+
+
 ### [盛邦安全WebRAY](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTAxMjUwNw==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTAxMjUwNw==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTAxMjUwNw==)
 
-[:camera_flash:【2025-11-17T17:31:32】](https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650279307&idx=1&sn=2f499d76844f3e92cffa22015b7703af&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-17T17:31:32】](https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650279307&idx=2&sn=04a1d99321168abf9abfb08dc252448b&scene=27#wechat_redirect)
 
 专注于网络空间安全领域，以“让网络空间更有序”为使命，为客户提供网络安全基础类、业务场景安全类、网络空间地图类安全产品及服务。
 
@@ -131,7 +144,7 @@
 
 ### [启明星辰集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDQ0MzkzMA==)
 
 [:camera_flash:【2025-11-21T18:47:30】](https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651734984&idx=1&sn=68141d404d069912d679e11f6e5b5882&scene=27#wechat_redirect)
 
@@ -142,24 +155,11 @@
 ---
 
 
-### [网御星云](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDUzMjc5Ng==)
-
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDUzMjc5Ng==)
-
-[:camera_flash:【2025-11-20T15:01:04】](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204353&idx=1&sn=d979ec68d7d5ad77f38db792a6ce6260&scene=27#wechat_redirect)
-
-创新的、可信赖的网御星云
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_79917e2930f5" alt="" />
-
----
-
-
 ### [聚铭网络](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDQwMjg5NA==)
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDQwMjg5NA==)
 
-[:camera_flash:【2025-11-22T11:01:34】](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508348&idx=1&sn=6f50ad8a0f5d548a8c2df2fa32c337b1&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T17:26:03】](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508361&idx=1&sn=4ac35feac3090b51dbee15d6bf30f9a0&scene=27#wechat_redirect)
 
 聚铭网络官方订阅号，洞察行业趋势，分享热点干货，提供专业解决方案，让安全更简单。
 
@@ -170,9 +170,9 @@
 
 ### [中资网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzAzMjU0OA==)
 
-[:chart_with_upwards_trend:【4/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzAzMjU0OA==)
+[:chart_with_upwards_trend:【4/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzAzMjU0OA==)
 
-[:camera_flash:【2025-11-17T17:50:58】](https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553555&idx=1&sn=e826ca1ed892a0f37f47d94cf6abbf35&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T17:50:40】](https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553561&idx=1&sn=dea4953a20edd7a077354aa9d857ada1&scene=27#wechat_redirect)
 
 中资网络信息安全科技有限公司成立于2019年12月，是国资委主导成立的国内专业从事国资国企网络信息安全的公司。公司定位于“国资国企在线监管安全守护者、国有企业网络安全信息大数据运营者和国有网信企业体制机制创新领航者”。
 
@@ -337,6 +337,19 @@
 ---
 
 
+### [交大捷普](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
+
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
+
+[:camera_flash:【2025-11-24T18:11:03】](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507266&idx=2&sn=f41d7eb0d3055fdd0d8d7e2dea7e82a3&scene=27#wechat_redirect)
+
+交大捷普网络科技有限公司，是国内一流的网络信息安全产品和技术领导者，1999年成立以来，持续专注网络安全，坚持自主研发和技术原创，始终致力于站在安全产品链高端位置，全方位为政府、企业、开发者和消费者打造安全、可信的信息安全生态环境。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a00781b9311" alt="" />
+
+---
+
+
 ### [深信服科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTAzNjYyMA==)
 
 [:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5MTAzNjYyMA==)
@@ -372,6 +385,19 @@
 一家云计算时代的新兴网络安全公司，提供的方案、产品与服务贯穿左移开发安全、智慧运营安全、云与云原生安全三大领域，帮助客户构建基于多种IT环境的下一代安全防护体系，实现安全风险的全生命周期管控。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f9bc09a5bd41" alt="" />
+
+---
+
+
+### [阿里云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTQ2MjI5OA==)
+
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTQ2MjI5OA==)
+
+[:camera_flash:【2025-11-24T17:00:34】](https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093456&idx=1&sn=cc2cba8d52b25c37eea2f01f16a74eef&scene=27#wechat_redirect)
+
+徜徉云上世界，仰望安全星空。 Welcome on board !
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0fd86a560f87" alt="" />
 
 ---
 
@@ -454,19 +480,6 @@
 ---
 
 
-### [阿里云安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTQ2MjI5OA==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MTQ2MjI5OA==)
-
-[:camera_flash:【2025-11-21T16:00:26】](https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093444&idx=1&sn=8318725109083f3bf0f5e256852ac5fe&scene=27#wechat_redirect)
-
-徜徉云上世界，仰望安全星空。 Welcome on board !
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0fd86a560f87" alt="" />
-
----
-
-
 ### [华为安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODU5NzYxOA==)
@@ -484,7 +497,7 @@
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mjk5NjU3MA==)
 
-[:camera_flash:【2025-11-23T09:00:42】](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5NjU3MA==&mid=2455490976&idx=1&sn=57496a6b5f96df7600ea71b74da9de81&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T15:00:52】](https://mp.weixin.qq.com/s?__biz=MzA4Mjk5NjU3MA==&mid=2455490999&idx=1&sn=9ca310e9536a7f539f3866430d99c8f1&scene=27#wechat_redirect)
 
 关注“赛宁网安”公众号，及时获取赛宁网安最新的产品信息、技术分享、企业动态。赛宁网安，聚焦攻防实战，专注数字化靶场的攻防专家。
 
@@ -636,11 +649,37 @@
 ---
 
 
+### [悬镜安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzE2ODk1Mg==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzE2ODk1Mg==)
+
+[:camera_flash:【2025-11-24T20:45:45】](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647797236&idx=1&sn=0c56db1e3e8a808f8bf288185d4731d1&scene=27#wechat_redirect)
+
+悬镜安全，DevSecOps敏捷安全领导者，新一代数字供应链安全开创者，创始人子芽。专注于以“代码疫苗”技术为内核，凭借原创专利级第三代DevSecOps智适应威胁管理体系，创新赋能众多行业标杆用户，构筑起共生积极防御体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29dde81f8a5b" alt="" />
+
+---
+
+
+### [安势信息](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDgyMzkwOA==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDgyMzkwOA==)
+
+[:camera_flash:【2025-11-24T18:00:15】](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492229&idx=1&sn=97ddc727784657f98ea44f6a0046653a&scene=27#wechat_redirect)
+
+安势信息是国内先进的软件供应链安全治理解决方案提供商，提供包括清源SCA（软件成分分析）、清本SAST（静态代码扫描）、清正CleanBinary (二进制代码扫描)、安全服务等解决方案，提供各行业的软件供应链安全治理最佳实践。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8dbe6320f19" alt="" />
+
+---
+
+
 ### [邑安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMzczNzUyNQ==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyMzczNzUyNQ==)
 
-[:camera_flash:【2025-11-17T13:01:21】](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247525017&idx=1&sn=dddfadd08592c4b112fa380d05dd09c4&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-17T13:01:21】](https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247525017&idx=4&sn=6195f3357715598ac8c1773964996350&scene=27#wechat_redirect)
 
 邑安全//江门邑安科技有限公司运营的订阅号。第一时间了解全球安全资讯、研讨最新信息安全技术和提供本地信息安全沙龙！
 
@@ -658,6 +697,19 @@
 广州锦行网络科技有限公司（简称“锦行科技”）成立于2014年3月，由国内多名顶尖信息安全专家联合创办，拥有数十名一线安全人才，致力于研究国内外最新核心攻防对抗技术及案例，提供基于攻击者视角的新型安全解决方案，帮助政府、企业保障信息资产安全。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aac76f4aca2e" alt="" />
+
+---
+
+
+### [VEDA卫达信息](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDY0NTM2Nw==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDY0NTM2Nw==)
+
+[:camera_flash:【2025-11-24T10:53:24】](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NTM2Nw==&mid=2247493000&idx=1&sn=1b69a3e3e32fc829a48855dd02649706&scene=27#wechat_redirect)
+
+北京卫达信息技术有限公司成立于2014年，获得国家高精尖产业基金、国电投产业基金、江苏省高科技产业基金等战略投资，是专注于网络安全的高科技企业。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8857c7c7f9ae" alt="" />
 
 ---
 
@@ -727,45 +779,6 @@
 ---
 
 
-### [佰倬信息科技有限责任公司](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODAyMjQxMg==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODAyMjQxMg==)
-
-[:camera_flash:【2025-11-07T14:21:41】](https://mp.weixin.qq.com/s?__biz=Mzg2ODAyMjQxMg==&mid=2247486438&idx=1&sn=013a1266332fe74b2a9ff7ca5339c33e&scene=27#wechat_redirect)
-
-实现数据自保 引领网络安全
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b91bbb3a1417" alt="" />
-
----
-
-
-### [悬镜安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzE2ODk1Mg==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzE2ODk1Mg==)
-
-[:camera_flash:【2025-11-21T14:21:04】](https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647797173&idx=1&sn=2bfdd9882b1f8ea4c51175edc63046a3&scene=27#wechat_redirect)
-
-悬镜安全，DevSecOps敏捷安全领导者，新一代数字供应链安全开创者，创始人子芽。专注于以“代码疫苗”技术为内核，凭借原创专利级第三代DevSecOps智适应威胁管理体系，创新赋能众多行业标杆用户，构筑起共生积极防御体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_29dde81f8a5b" alt="" />
-
----
-
-
-### [安势信息](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDgyMzkwOA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDgyMzkwOA==)
-
-[:camera_flash:【2025-11-11T12:01:08】](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492201&idx=1&sn=36cc8bacda1bc2b6e81b046e51839a8a&scene=27#wechat_redirect)
-
-安势信息是国内先进的软件供应链安全治理解决方案提供商，提供包括清源SCA（软件成分分析）、清本SAST（静态代码扫描）、清正CleanBinary (二进制代码扫描)、安全服务等解决方案，提供各行业的软件供应链安全治理最佳实践。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8dbe6320f19" alt="" />
-
----
-
-
 ### [成都链安](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzUxMTM0Nw==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NzUxMTM0Nw==)
@@ -792,28 +805,15 @@
 ---
 
 
-### [神州希望网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mzg1ODMwMg==)
+### [睿伟网络科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODE0Njk2Nw==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mzg1ODMwMg==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODE0Njk2Nw==)
 
-[:camera_flash:【2025-11-20T20:03:17】](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726186&idx=1&sn=90ef26c19cda97be711c78305eed8196&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T13:01:08】](https://mp.weixin.qq.com/s?__biz=MjM5ODE0Njk2Nw==&mid=2653021734&idx=1&sn=4e257b3a89cb61a63d83a2a925489da8&scene=27#wechat_redirect)
 
-传播网络安全产业的政策标准、前沿技术以及业界实践，由公安部认证的网络安全测评师团队、攻防技术团队共同维护，我们致力成为国家网络安全卓越服务提供商。
+企业宣传
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_db7fad251a59" alt="" />
-
----
-
-
-### [VEDA卫达信息](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDY0NTM2Nw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDY0NTM2Nw==)
-
-[:camera_flash:【2025-11-14T19:26:24】](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NTM2Nw==&mid=2247492996&idx=1&sn=e78fdaf57202f0312e143d7241d8baa4&scene=27#wechat_redirect)
-
-北京卫达信息技术有限公司成立于2014年，获得国家高精尖产业基金、国电投产业基金、江苏省高科技产业基金等战略投资，是专注于网络安全的高科技企业。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8857c7c7f9ae" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_da84229a9ddb" alt="" />
 
 ---
 
@@ -831,19 +831,6 @@
 ---
 
 
-### [交大捷普](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
-
-[:camera_flash:【2025-11-03T18:10:16】](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507246&idx=1&sn=4e55042d01cb4994c289438d02766976&scene=27#wechat_redirect)
-
-交大捷普网络科技有限公司，是国内一流的网络信息安全产品和技术领导者，1999年成立以来，持续专注网络安全，坚持自主研发和技术原创，始终致力于站在安全产品链高端位置，全方位为政府、企业、开发者和消费者打造安全、可信的信息安全生态环境。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2a00781b9311" alt="" />
-
----
-
-
 ### [深信达](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2ODQ5NTI5OA==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2ODQ5NTI5OA==)
@@ -853,6 +840,19 @@
 国内专业的技术型数据安全厂商，专注数据安全10年，提供从服务器、到研发终端、再到产品设备的一体化数据安全解决方案（防数据泄露，防毒防黑，防反编译）。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_571ca048f1f9" alt="" />
+
+---
+
+
+### [丈八网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI1NDk0MQ==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI1NDk0MQ==)
+
+[:camera_flash:【2025-11-24T10:36:28】](https://mp.weixin.qq.com/s?__biz=MzkwNzI1NDk0MQ==&mid=2247493014&idx=1&sn=e1224dd5b2f1cf61c939fccb066443e0&scene=27#wechat_redirect)
+
+丈八网安专注于网络安全领域相关技术研究、产品研发、人才培养及服务支撑。团队核心成员均来自于国内外知名的安全公司的专家组成；推出具备自主知识产权-新一代网络安全仿真及应用平台-“火天”系列产品，满足各行各业对网络安全模拟仿真的多样化需求；
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9ca0655a9a7" alt="" />
 
 ---
 
@@ -896,6 +896,19 @@
 ---
 
 
+### [海云安](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjY2NTM0MA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjY2NTM0MA==)
+
+[:camera_flash:【2025-11-24T17:30:22】](https://mp.weixin.qq.com/s?__biz=MzI2MjY2NTM0MA==&mid=2247492983&idx=1&sn=38329325c74c13ffddc56164798b118c&scene=27#wechat_redirect)
+
+深圳海云安网络安全技术有限公司成立于2015年，是一家专注于安全左移 (软件开发&amp;供应链安全左移，隐私合规&amp;数据安全左移)的国家高新技术企业。海云安公司长期为政府、金融、央国企、大型企业提供安全开发、APP安全、数据安全等全面解决方案。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f6268ed27e2" alt="" />
+
+---
+
+
 ### [慧盾安全SmartSecuri](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDcwOTgzOA==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2NDcwOTgzOA==)
@@ -909,6 +922,32 @@
 ---
 
 
+### [佰倬信息科技有限责任公司](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODAyMjQxMg==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2ODAyMjQxMg==)
+
+[:camera_flash:【2025-11-07T14:21:41】](https://mp.weixin.qq.com/s?__biz=Mzg2ODAyMjQxMg==&mid=2247486438&idx=1&sn=013a1266332fe74b2a9ff7ca5339c33e&scene=27#wechat_redirect)
+
+实现数据自保 引领网络安全
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b91bbb3a1417" alt="" />
+
+---
+
+
+### [神州希望网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mzg1ODMwMg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mzg1ODMwMg==)
+
+[:camera_flash:【2025-11-20T20:03:17】](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726186&idx=1&sn=90ef26c19cda97be711c78305eed8196&scene=27#wechat_redirect)
+
+传播网络安全产业的政策标准、前沿技术以及业界实践，由公安部认证的网络安全测评师团队、攻防技术团队共同维护，我们致力成为国家网络安全卓越服务提供商。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_db7fad251a59" alt="" />
+
+---
+
+
 ### [合合信息](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzg0NjY2NA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzg0NjY2NA==)
@@ -918,19 +957,6 @@
 合合信息成立于2006年，是一家以人工智能及商业大数据技术为核心的高新技术公司，为全球银行、保险、证券、物流、制造等30多个行业提供智能解决方案。旗下C端产品名片全能王、扫描全能王、启信宝全球下载量超过23亿。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ddf146673aa0" alt="" />
-
----
-
-
-### [睿伟网络科技](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODE0Njk2Nw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODE0Njk2Nw==)
-
-[:camera_flash:【2025-11-10T13:00:52】](https://mp.weixin.qq.com/s?__biz=MjM5ODE0Njk2Nw==&mid=2653021724&idx=1&sn=ac6b5298774737f384fee707f153650d&scene=27#wechat_redirect)
-
-企业宣传
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_da84229a9ddb" alt="" />
 
 ---
 
@@ -957,19 +983,6 @@
 慧安天下专注于网络安全服务。在等级保护测评、商用密码评估、渗透测试、应急服务、代码审计、安全培训等网络安全相关领域具备专业扎实的服务能力。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7c34a699b393" alt="" />
-
----
-
-
-### [丈八网安](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI1NDk0MQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNzI1NDk0MQ==)
-
-[:camera_flash:【2025-11-11T14:00:44】](https://mp.weixin.qq.com/s?__biz=MzkwNzI1NDk0MQ==&mid=2247493013&idx=1&sn=64a1205d825ed5a75bc7bb23555baf68&scene=27#wechat_redirect)
-
-丈八网安专注于网络安全领域相关技术研究、产品研发、人才培养及服务支撑。团队核心成员均来自于国内外知名的安全公司的专家组成；推出具备自主知识产权-新一代网络安全仿真及应用平台-“火天”系列产品，满足各行各业对网络安全模拟仿真的多样化需求；
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c9ca0655a9a7" alt="" />
 
 ---
 
@@ -1087,19 +1100,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 以“发现看不见的价值”为使命，通过人工智能与大数据技术，致力于成为中国信息科技风险治理的引领者，护航企业数字化业务连续、稳定、安全、合规运行。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_83d42f15fbb0" alt="" />
-
----
-
-
-### [海云安](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjY2NTM0MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjY2NTM0MA==)
-
-[:camera_flash:【2025-11-14T17:30:17】](https://mp.weixin.qq.com/s?__biz=MzI2MjY2NTM0MA==&mid=2247492972&idx=1&sn=f11f8a6117183a2bcd4492294152cc66&scene=27#wechat_redirect)
-
-深圳海云安网络安全技术有限公司成立于2015年，是一家专注于安全左移 (软件开发&amp;供应链安全左移，隐私合规&amp;数据安全左移)的国家高新技术企业。海云安公司长期为政府、金融、央国企、大型企业提供安全开发、APP安全、数据安全等全面解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2f6268ed27e2" alt="" />
 
 ---
 

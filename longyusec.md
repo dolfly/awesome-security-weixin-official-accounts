@@ -27,7 +27,7 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 
 ### [泷羽Sec-静安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
 [:camera_flash:【2025-11-07T12:02:18】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488680&idx=1&sn=90aa3a8ac0787bc8d3c91c6e9c4bcaec&scene=27#wechat_redirect)
 
@@ -73,19 +73,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 //网络安全领域知识分享;更新网络安全领域各种资源;分享学习文档及前沿信息，思路;
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_449cf93d76cd" alt="" />
-
----
-
-
-### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
-
-[:camera_flash:【2025-10-25T16:23:34】](https://mp.weixin.qq.com/s?__biz=Mzk1NzI0MzI5NQ==&mid=2247484500&idx=1&sn=a6718a8a5d1f571eb446a03aae9d4148&scene=27#wechat_redirect)
-
-励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
 
 ---
 
@@ -164,6 +151,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享挖洞技巧和实战，收集和开发各种渗透工具及其使用，泷羽Sec团队核心成员。 声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_114fb1ee20f2" alt="" />
+
+---
+
+
+### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
 
 ---
 
