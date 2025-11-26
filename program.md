@@ -14,9 +14,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【8/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-11-24T17:47:50】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517574&idx=1&sn=ab6e94ec1a131505920fe4c23e5184f3&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T17:02:35】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517592&idx=1&sn=5d0e53332bca103cbbf970cd504b76eb&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 

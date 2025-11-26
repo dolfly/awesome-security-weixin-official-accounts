@@ -1,7 +1,7 @@
 
 ### [商密君](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
-[:chart_with_upwards_trend:【1/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
+[:chart_with_upwards_trend:【1/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTM4OTQ5Mg==)
 
 [:camera_flash:【2025-11-15T21:30:23】](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247638010&idx=2&sn=56672bc938a977e0b6d75b067e285096&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【28/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2025-11-23T00:00:23】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516755&idx=1&sn=3a291c6a8208f72013e57929ab9cd95c&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T15:16:06】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516770&idx=1&sn=02ce4830bdd0d30cf9818c5890896336&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -27,9 +27,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【3/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【3/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2025-11-24T16:00:47】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=1&sn=cf2ff19755d30b74b861f09488bcc8bf&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T12:01:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540955&idx=1&sn=a0c16b9f725b0c2d36ef450c8b1098af&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -40,9 +40,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【23/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【24/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2025-11-22T14:24:09】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553375&idx=1&sn=e9f991d7be8e50e71bd57404c0baa90b&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T12:01:29】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553384&idx=1&sn=a61ea6d057165258d85c235023f7744d&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -53,9 +53,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【1/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【1/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2025-11-24T16:06:34】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522921&idx=1&sn=bd8ef731c17541eb075b7aa42889e6e4&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T17:25:21】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522928&idx=1&sn=4d9024cc913f99d79ca4b85fe0a3f08c&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -107,7 +107,7 @@
 
 [:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
 
-[:camera_flash:【2025-11-25T08:01:20】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492305&idx=1&sn=5e680062af72d7df39c29441788ddcc2&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-25T08:01:20】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492305&idx=2&sn=56bea4a723effb6257291fed29ef3b5c&scene=27#wechat_redirect)
 
 闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
 
@@ -133,7 +133,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3NzYzOTIwNg==)
 
-[:camera_flash:【2025-10-29T09:15:44】](https://mp.weixin.qq.com/s?__biz=MzU3NzYzOTIwNg==&mid=2247486429&idx=1&sn=c1f191131980ba8509be5811f0777fd4&scene=27#wechat_redirect)
+[:camera_flash:【2025-10-29T09:15:44】](https://mp.weixin.qq.com/s?__biz=MzU3NzYzOTIwNg==&mid=2247486429&idx=2&sn=bb0f458dedcd7b1d7609bc480572c497&scene=27#wechat_redirect)
 
 APP个人信息保护治理的工作动态、通知公告等相关信息发布。
 
