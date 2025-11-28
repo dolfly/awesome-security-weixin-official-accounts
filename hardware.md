@@ -1,7 +1,7 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
 [:camera_flash:【2025-11-27T08:02:42】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629106&idx=3&sn=4c0962926dafd10bc1c9dc4b6b886741&scene=27#wechat_redirect)
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【21/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-11-26T19:21:42】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454942325&idx=1&sn=1b683e7c97ca8fc4069d9b322f753e1b&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-27T10:30:17】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454942334&idx=1&sn=39180bb53a3e9d41c86b95b80c5d4a32&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-11-26T09:00:47】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490778&idx=1&sn=c80340357269d545cb571999892453c8&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-27T09:01:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490819&idx=1&sn=3e45198f9f1ec035033d1de1e9bd5607&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2025-11-24T00:00:46】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048801&idx=2&sn=a216b282c0a759bb2012a3828503e320&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-24T00:00:46】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048801&idx=1&sn=2af6624442127f25fa625deec1a3f9e0&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
