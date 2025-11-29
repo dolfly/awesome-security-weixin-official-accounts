@@ -1,26 +1,13 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【10/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2025-11-27T12:49:50】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514850&idx=1&sn=3072778b7ca020aaa83365f7d095c338&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-29T08:01:42】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514859&idx=1&sn=4e4fee9a5468635c94391a37e94cfd8e&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fbcaf351ddc1" alt="" />
-
----
-
-
-### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
-
-[:camera_flash:【2025-10-29T08:33:19】](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247499217&idx=1&sn=132862d820fe97eb8f4482162186493e&scene=27#wechat_redirect)
-
-Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8620cb9f61a5" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@ Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前�
 互联网技术分享平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_445a39329cd8" alt="" />
+
+---
+
+
+### [Docker中文社区](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NzI5NDM4Mw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：dockerworld.cn
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8620cb9f61a5" alt="" />
 
 ---
 
