@@ -1,9 +1,9 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【11/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【11/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2025-11-29T08:01:42】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514859&idx=1&sn=4e4fee9a5468635c94391a37e94cfd8e&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-01T08:00:49】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247514876&idx=1&sn=e80193328571cc641f0638ad16ae591b&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 

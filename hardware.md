@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/81/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2025-11-29T08:02:56】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=2&sn=bf25e6c6f39f394a78607d20f3d3dfc7&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-30T08:01:17】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629156&idx=1&sn=bdfc5b85a6668ece5266fb3cefc688aa&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【24/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【25/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2025-11-29T19:11:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454942592&idx=1&sn=d17146f37eaf195a7d881c20849e18ab&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-30T08:25:34】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454942618&idx=1&sn=8f0233d9028f578c30fdf53f5a2215e8&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,11 +29,24 @@
 
 [:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2025-11-27T09:01:18】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490819&idx=1&sn=3e45198f9f1ec035033d1de1e9bd5607&scene=27#wechat_redirect)
+[:camera_flash:【2025-11-30T09:00:23】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247490852&idx=1&sn=7284c31fc418e9dcb1395f2699e6571e&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0aa8f6bfaffd" alt="" />
+
+---
+
+
+### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+
+[:camera_flash:【2025-12-01T00:00:27】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048821&idx=1&sn=fd8111b3ad7c32b15a94cfe7d8635489&scene=27#wechat_redirect)
+
+关注刑事证据科学前沿发展，传递电子物证技术最新趋势
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
 
 ---
 
@@ -51,15 +64,15 @@
 ---
 
 
-### [电子物证](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2025-11-24T00:00:46】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048801&idx=1&sn=2af6624442127f25fa625deec1a3f9e0&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-01T00:08:53】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889842&idx=1&sn=803344c697a8b679b2c950b80f33375e&scene=27#wechat_redirect)
 
-关注刑事证据科学前沿发展，传递电子物证技术最新趋势
+关注电子数据取证与网络犯罪调查
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
 
 ---
 
@@ -73,19 +86,6 @@
 做勾八安全，卷的要死
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3953fa56d850" alt="" />
-
----
-
-
-### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
-
-[:camera_flash:【2025-11-28T01:06:14】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889833&idx=1&sn=e5c9441a08c849c1259fab8579316fe8&scene=27#wechat_redirect)
-
-关注电子数据取证与网络犯罪调查
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
 
 ---
 
