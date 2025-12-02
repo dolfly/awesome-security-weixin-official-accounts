@@ -40,9 +40,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-11-17T18:08:41】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516098&idx=1&sn=6d8cf8b3ba69dcf8649688b4c4bd37b2&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-01T14:00:34】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516105&idx=1&sn=09d57d2bdcd8336232638cfc1f3e679b&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
