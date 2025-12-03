@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-12-01T17:59:47】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604640&idx=2&sn=5c18988c87f29aa71e037b8faa8bbddb&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-02T18:00:01】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604701&idx=3&sn=c8c472c30c1e3e7a9a38dd3a152f27c6&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -14,9 +14,9 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/52/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/53/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2025-12-01T09:57:08】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522171&idx=2&sn=34b8979ab1f8b36f69904c6242560c53&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-02T09:25:53】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522182&idx=2&sn=bb5a1c417b532cb39888772d69cec0fb&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
