@@ -1,7 +1,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【7/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2025-12-06T08:30:36】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494544&idx=1&sn=b69cca9551713255b46e464b73fdb620&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【2/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2025-12-04T19:58:41】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781831&idx=3&sn=eaeb7460b4f1cd735a5b43dc35e34649&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-08T10:24:52】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781854&idx=1&sn=c15a36c134c431e5309b83fa437b97f8&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -25,15 +25,41 @@
 ---
 
 
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【9/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2025-12-09T07:44:59】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487394&idx=1&sn=00dbfc4cd1694134728d21ccd444fa18&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-12-05T17:31:37】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649797216&idx=1&sn=4a235b0c623a1e75e16677cf9ec47778&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-08T17:37:02】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649797433&idx=1&sn=19938ac2490f06c408bbb35235a61fd6&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
+### [QingScan](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NzEwOTUzMw==)
+
+[:chart_with_upwards_trend:【9/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NzEwOTUzMw==)
+
+[:camera_flash:【2025-12-08T09:37:50】](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980062&idx=1&sn=35d5aa7a2286d554d7bea5cf2c0e780d&scene=27#wechat_redirect)
+
+关注我，及时收取你遇到的问题
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c29b8eca5b6e" alt="" />
 
 ---
 
@@ -47,32 +73,6 @@
 字节跳动的技术实践分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
-### [QingScan](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NzEwOTUzMw==)
-
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NzEwOTUzMw==)
-
-[:camera_flash:【2025-12-02T12:04:39】](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980054&idx=1&sn=437c72fc8696ba6db885c47d5b10903c&scene=27#wechat_redirect)
-
-关注我，及时收取你遇到的问题
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c29b8eca5b6e" alt="" />
-
----
-
-
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:camera_flash:【2025-12-07T20:42:48】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487390&idx=1&sn=105ed6d4feef680d449196976ad2d652&scene=27#wechat_redirect)
-
-读书，写诗，假装自己是黑客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
