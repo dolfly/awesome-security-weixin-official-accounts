@@ -1,9 +1,9 @@
 
 ### [易云安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDcwMTAwNw==)
 
-[:chart_with_upwards_trend:【0/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDcwMTAwNw==)
+[:chart_with_upwards_trend:【0/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDcwMTAwNw==)
 
-[:camera_flash:【2025-12-08T16:32:55】](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538205&idx=2&sn=5fe9f5f70ad7264ef2b29d955845a2af&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-09T16:52:17】](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247538271&idx=1&sn=399b9c661b61a0cd5ed4496c355058fe&scene=27#wechat_redirect)
 
 易云科技安全应急响应中心致力于为客户提供及时、专业、高效的威胁情报与应急服务，针对高危漏洞与安全事件进行快速响应，提供可落地的解决方案和安全攻防技术分享。持续专注于源头技术创新、实验室成果实战化、应用技术开发升级，构建新型应急响应创新生态。
 
@@ -14,9 +14,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2025-12-08T17:11:26】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504309&idx=1&sn=4d4845766d1d86334361a69319addc8a&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-09T17:10:28】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504312&idx=1&sn=49d843f75bd521724afb5dffc51247a8&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【5/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:camera_flash:【2025-12-03T15:48:56】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500920&idx=1&sn=16a3743981d2e1fc51be0249de5e3138&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-09T08:57:39】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500922&idx=1&sn=bf69f957b7428838db209676e2e270f9&scene=27#wechat_redirect)
 
 国家计算机网络应急技术处理协调中心（简称“国家互联网应急中心”，英文简称CNCERT或CNCERT/CC），成立于2001年8月，为非政府非盈利的网络安全技术中心，是中国计算机网络应急处理体系中的牵头单位。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5NzQzNTc0Ng==)
 
-[:camera_flash:【2025-12-08T18:18:39】](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247503033&idx=4&sn=2ca9ebbae1f12ea7b901c5d420c61179&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-08T18:18:39】](https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247503033&idx=1&sn=483d9d41f36c02d96e3fc588f21429cb&scene=27#wechat_redirect)
 
 上汽集团网络安全应急响应中心（SAIC-SRC）成立于2018年，依托监测、预警、情报、响应的一体化平台，以集团业务网络安全风险发现与处置为着眼点，对互联网、智能网联等领域的业务生态进行安全事件响应，已为100多家下属企业提供安全服务。
 
@@ -220,6 +220,19 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 ---
 
 
+### [字节跳动安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
+
+[:camera_flash:【2025-12-09T19:02:31】](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495807&idx=1&sn=285177ce22fbd4c5f8797b11a826540d&scene=27#wechat_redirect)
+
+字节跳动安全中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_840004fd466e" alt="" />
+
+---
+
+
 ### [陌陌安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTYzOTQzNw==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTYzOTQzNw==)
@@ -268,19 +281,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 360安全应急响应中心（简称360SRC）是360公司致力于保障产品及业务安全，促进白帽专家合作与交流的平台。诚邀白帽专家向我们反馈360产品安全漏洞、威胁情报，共筑数字安全基石，保障数亿用户业务和产品的安全。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5f96b01a330c" alt="" />
-
----
-
-
-### [字节跳动安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMzcyMDYzMw==)
-
-[:camera_flash:【2025-12-03T17:36:21】](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495800&idx=1&sn=c59168da32a999aec01f6043b41ceac0&scene=27#wechat_redirect)
-
-字节跳动安全中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_840004fd466e" alt="" />
 
 ---
 
