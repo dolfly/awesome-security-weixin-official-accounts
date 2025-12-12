@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【7/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-12-09T18:26:47】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494548&idx=1&sn=dd792c62f595f989f520de90c13020af&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-11T16:25:00】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494553&idx=1&sn=a37c683c8d528006b54bc518089f5fbe&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -94,7 +94,7 @@
 
 [:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2025-12-04T18:00:29】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492482&idx=1&sn=3be8717d3f6e9aaab91f4f1a68d1e71e&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-11T18:00:26】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492511&idx=1&sn=87f98deba2a68912438d55995931fa2f&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
@@ -129,6 +129,19 @@
 ---
 
 
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【2025-12-11T09:01:31】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499171&idx=1&sn=17dab30365e32771f21c4dcd4a95a7ee&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
+
+---
+
+
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
 [:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
@@ -138,19 +151,6 @@
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
-
----
-
-
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2025-11-13T09:01:40】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499080&idx=1&sn=eed666cf82842d6faef3954feea5380c&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 

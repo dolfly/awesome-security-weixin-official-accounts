@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【0/77/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2025-12-10T17:59:45】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605041&idx=1&sn=e68ff9561f8d4c664d45c72dc6d28114&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-11T17:59:39】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605048&idx=1&sn=f6d8c7ce14ce6f01273842199542f5ed&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -14,9 +14,9 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/56/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2025-12-10T09:00:47】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522329&idx=1&sn=8fb9edbd5cad8f2d3340060e45ed80ec&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-11T10:16:08】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522335&idx=2&sn=7714bbfa1a26dbee9f97d47df9d5fe0d&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
@@ -27,7 +27,7 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
 [:camera_flash:【2025-12-06T15:09:41】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040876&idx=1&sn=9d48a5931df565082e11b640baf9584c&scene=27#wechat_redirect)
 
@@ -53,7 +53,7 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:camera_flash:【2025-11-26T18:08:32】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143234&idx=1&sn=229e348e297ceb25bd234bda3305f650&scene=27#wechat_redirect)
 
@@ -66,9 +66,9 @@
 
 ### [软件安全与逆向分析](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:camera_flash:【2025-12-01T09:41:14】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484917&idx=1&sn=4d210806e85b6169afc336d324adb9c7&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-11T11:18:45】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247484928&idx=1&sn=ed67d2c5b93776deec13bc1b8db40f33&scene=27#wechat_redirect)
 
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
@@ -99,6 +99,19 @@
 中机博也（宁波）汽车技术为主机厂在车型开发中提供造型/模型设计、车身内外饰、总布置、电器、底盘协同、CAE仿真及Benchmark等专业领域的研发服务。依托母公司中机认检在实验、检测、认证上的综合优势为客户提供从研发到认证的一站式服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_086e3eb2dd2b" alt="" />
+
+---
+
+
+### [逆向学习之旅](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjM0NDYwNg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjM0NDYwNg==)
+
+[:camera_flash:【2025-12-11T16:47:35】](https://mp.weixin.qq.com/s?__biz=MzkwMjM0NDYwNg==&mid=2247484096&idx=1&sn=5ab2906301bd1bc07fafaf07a84ac4c6&scene=27#wechat_redirect)
+
+不定期更新js逆向知识，有兴趣的朋友加入我一起学习！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdc416568214" alt="" />
 
 ---
 
@@ -346,19 +359,6 @@ good good study, day day pwn
 IT知识、技术、素养分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e35cb74d67d" alt="" />
-
----
-
-
-### [逆向学习之旅](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjM0NDYwNg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjM0NDYwNg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-不定期更新js逆向知识，有兴趣的朋友加入我一起学习！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fdc416568214" alt="" />
 
 ---
 
