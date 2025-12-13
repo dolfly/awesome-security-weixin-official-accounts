@@ -1,7 +1,7 @@
 
 ### [强网竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjY3NDQ2Ng==)
 
 [:camera_flash:【2025-11-26T13:54:37】](https://mp.weixin.qq.com/s?__biz=Mzg4MjY3NDQ2Ng==&mid=2247488695&idx=1&sn=01ed2c186feb16873299178cdfeca8ac&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
-[:chart_with_upwards_trend:【11/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
 [:camera_flash:【2025-12-03T16:05:09】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485445&idx=1&sn=1adda904da708ffff6ceab1d1aef966f&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
 
 [:camera_flash:【2025-12-09T14:24:24】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508397&idx=1&sn=daef76fc5a8b7e750a8d02a65bba44da&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2025-12-01T14:00:34】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516105&idx=1&sn=09d57d2bdcd8336232638cfc1f3e679b&scene=27#wechat_redirect)
 
@@ -125,6 +125,19 @@
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+
+---
+
+
+### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:camera_flash:【2025-12-12T15:12:38】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247486978&idx=1&sn=185276ee23c3c7732b5eb1f80bc55594&scene=27#wechat_redirect)
+
+CTF协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
@@ -294,19 +307,6 @@ ctf技术交流。
 X是未知，更是无限，邀您一道创造、见证和实现X-Plan，北斗逐光，安全有恒，未来无界，共创数字安全未来！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b0a5876d02ea" alt="" />
-
----
-
-
-### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-CTF协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
