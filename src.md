@@ -14,9 +14,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2025-12-12T17:24:28】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504343&idx=1&sn=6c44f2ccc0ede3207b75e8157faac028&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-12T17:24:28】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504343&idx=2&sn=cea3e417e541c5aa75652768f7f71928&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -27,7 +27,7 @@
 
 ### [solar专业应急响应团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
-[:chart_with_upwards_trend:【17/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
+[:chart_with_upwards_trend:【16/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTQ0MjE1NQ==)
 
 [:camera_flash:【2025-12-12T14:34:24】](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247506837&idx=1&sn=374a9d9c5abf3c2648a8fd5039d2fa71&scene=27#wechat_redirect)
 
@@ -66,9 +66,9 @@
 
 ### [CNNVD安全动态](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
 
-[:chart_with_upwards_trend:【5/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxODY1OTM5OQ==)
 
-[:camera_flash:【2025-12-11T16:23:49】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463938&idx=1&sn=cdccc9b1223e441f79e05f210f61caae&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-13T16:14:31】](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464092&idx=1&sn=e9a5389533032154bf172cbae9164e8c&scene=27#wechat_redirect)
 
 国家信息安全漏洞库（CNNVD）是中国信息安全测评中心为切实履行漏洞分析和风险评估的职能，负责建设运维的国家信息安全漏洞库，为我国信息安全保障提供基础服务。
 
@@ -203,19 +203,6 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 平安集团安全应急响应中心隶属于平安科技，是外部用户向平安集团反馈各产品和业务安全漏洞的平台，也是平安科技加强与安全界和同仁合作交流的渠道之一。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_639e452805cd" alt="" />
-
----
-
-
-### [奇安信安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
-
-[:camera_flash:【2025-11-13T11:31:22】](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c&scene=27#wechat_redirect)
-
-奇安信集团安全应急响应中心（QAXSRC）官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5c0c4dc97eb6" alt="" />
 
 ---
 
@@ -493,19 +480,6 @@ https://security.kuaishou.com
 ---
 
 
-### [微众安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjAyODc1NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjAyODc1NQ==)
-
-[:camera_flash:【2025-11-13T18:02:39】](https://mp.weixin.qq.com/s?__biz=Mzg4NjAyODc1NQ==&mid=2247487166&idx=1&sn=470b28ed390c24147de7c7bdbdd02ac9&scene=27#wechat_redirect)
-
-发布WSRC平台公告，如漏洞报告处理流程、节假日活动公告等。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2822ff51526d" alt="" />
-
----
-
-
 ### [猎聘安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MjY0MTEzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MjY0MTEzMQ==)
@@ -701,6 +675,19 @@ VIPKID安全响应中心官方账号
 ---
 
 
+### [奇安信安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTYwMTY5MA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+奇安信集团安全应急响应中心（QAXSRC）官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5c0c4dc97eb6" alt="" />
+
+---
+
+
 ### [网易安全中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDI0MDAxNg==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDI0MDAxNg==)
@@ -892,6 +879,19 @@ T3出行安全应急响应中心，欢迎提交安全漏洞
 WiFi万能钥匙安全应急响应中心，隶属掌门集团旗下的上海连尚网络科技有限公司。欢迎提交WiFi万能钥匙相关安全漏洞（网站：https://sec.wifi.com ; 邮箱：sec@zenmen.com）,我们将给予相应的奖励和致谢！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d76855cf141" alt="" />
+
+---
+
+
+### [微众安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjAyODc1NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjAyODc1NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+发布WSRC平台公告，如漏洞报告处理流程、节假日活动公告等。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2822ff51526d" alt="" />
 
 ---
 
