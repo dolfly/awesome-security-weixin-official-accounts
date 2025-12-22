@@ -64,6 +64,19 @@
 ---
 
 
+### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+
+[:camera_flash:【2025-12-21T17:20:27】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485464&idx=1&sn=89f32e4fb7ec281a4a9f04bd303d5d4c&scene=27#wechat_redirect)
+
+我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
+
+---
+
+
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
@@ -73,6 +86,19 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
+
+---
+
+
+### [半亩塘的一棵树](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
+
+[:camera_flash:【2025-12-21T17:57:53】](https://mp.weixin.qq.com/s?__biz=MzkxMjc0NDg4NA==&mid=2247484140&idx=1&sn=0d9c4780289a7ea1af9797e139ce9a82&scene=27#wechat_redirect)
+
+信阳师范大学“半亩塘的一棵树”网络安全战队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b086c0182d" alt="" />
 
 ---
 
@@ -138,32 +164,6 @@
 原名为网络安全学生社团，现名为网络攻防创新实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
-
----
-
-
-### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
-
-[:camera_flash:【2025-12-04T10:29:40】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485442&idx=1&sn=b646dd4818be2255277567bbfb1758a8&scene=27#wechat_redirect)
-
-我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
-
----
-
-
-### [XatuSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
-
-[:camera_flash:【2025-11-21T09:00:53】](https://mp.weixin.qq.com/s?__biz=MzUzMjkyMTU1OQ==&mid=2247484061&idx=1&sn=42eebfdbdb0ea4653f61d2c9440b50ba&scene=27#wechat_redirect)
-
-西安工业大学网络空间安全协会（XATUSEC）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6496a1081802" alt="" />
 
 ---
 
@@ -753,15 +753,15 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 ---
 
 
-### [半亩塘的一棵树](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
+### [XatuSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMjc0NDg4NA==)
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
 
 [:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
 
-信阳师范大学“半亩塘的一棵树”网络安全战队
+西安工业大学网络空间安全协会（XATUSEC）
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d5b086c0182d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6496a1081802" alt="" />
 
 ---
 
