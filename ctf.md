@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
 
-[:camera_flash:【2025-12-25T14:23:11】](https://mp.weixin.qq.com/s?__biz=Mzg4NzU4MDE5NQ==&mid=2247484774&idx=1&sn=625c82f4f82715e75f0d4080d3b869e6&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-28T13:14:36】](https://mp.weixin.qq.com/s?__biz=Mzg4NzU4MDE5NQ==&mid=2247484793&idx=1&sn=dd351bce1bd697740e73e88bb4874de6&scene=27#wechat_redirect)
 
 赛博随笔，CTF，红蓝对抗，记录学习
 
