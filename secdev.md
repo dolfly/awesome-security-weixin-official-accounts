@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【4/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【5/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2025-12-30T16:02:04】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541308&idx=1&sn=2fdae1806a063666e67eb237c6a7f343&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T16:00:50】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541319&idx=1&sn=387d233df1f5d123ba1adcc31b39326a&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -25,24 +25,11 @@
 ---
 
 
-### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
-
-[:camera_flash:【2025-12-29T15:10:02】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553693&idx=1&sn=f4655e0bc0a39e7e8f257e5225e0f62d&scene=27#wechat_redirect)
-
-安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
-
----
-
-
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2025-12-30T11:10:07】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523037&idx=1&sn=0d5da9cb40c7a320bc59e7a6f566864b&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T17:10:18】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523044&idx=1&sn=167e80c673b3bb1b6b31f4600da64ce8&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -51,11 +38,24 @@
 ---
 
 
+### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:chart_with_upwards_trend:【14/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+
+[:camera_flash:【2025-12-31T11:50:04】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553701&idx=1&sn=dc75dce2535e34d90270f6cdf235ca4d&scene=27#wechat_redirect)
+
+安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c028a5199606" alt="" />
+
+---
+
+
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:chart_with_upwards_trend:【4/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+[:chart_with_upwards_trend:【3/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:camera_flash:【2025-12-30T18:01:18】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514326&idx=1&sn=badb548f8d3156efc41d9db41fe46270&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-01T07:00:29】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514390&idx=1&sn=dbb6fef69466aa4bd79e434040efbe37&scene=27#wechat_redirect)
 
 珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
 
@@ -66,9 +66,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2025-12-26T10:35:14】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649403510&idx=1&sn=d4836018e0d1bb6ae634fe5fa3bf4f0b&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T14:12:32】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649403540&idx=1&sn=b9804944d36e1cd3c7a637234fa726cb&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -86,19 +86,6 @@
 中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6c133949b583" alt="" />
-
----
-
-
-### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
-
-[:camera_flash:【2025-12-23T16:14:25】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247497441&idx=1&sn=49bb3464cd2145146b95791429eed74b&scene=27#wechat_redirect)
-
-关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
 
 ---
 
@@ -125,6 +112,19 @@
 坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
+
+---
+
+
+### [FreeBuf安全咨询](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MTAwNzg1Ng==)
+
+[:camera_flash:【2025-12-31T12:00:52】](https://mp.weixin.qq.com/s?__biz=Mzg2MTAwNzg1Ng==&mid=2247497471&idx=1&sn=1d2d40e1d05e94642eda5f8ab196d48f&scene=27#wechat_redirect)
+
+关注安全行业前沿动向、产品服务商用前景，洞悉商业市场和用户趋势，助力安全行业发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e18f20900200" alt="" />
 
 ---
 
@@ -181,19 +181,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
-### [放之](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
-
-[:camera_flash:【2025-12-01T07:33:57】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485420&idx=1&sn=ea3cf14b535f085acd6facea5325419e&scene=27#wechat_redirect)
-
-持续关注企业与信息安全建设，分享精选干货。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
-
----
-
-
 ### [乐枕迭代日志](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NTMyNDg3OQ==)
@@ -203,6 +190,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 网络安全创业者，CTO@星阑科技。浪漫世界，一起折腾！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6410a4e28c9e" alt="" />
+
+---
+
+
+### [悬镜安全说](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
+
+[:camera_flash:【2025-12-31T14:20:24】](https://mp.weixin.qq.com/s?__biz=MzAwODc2NjgwMg==&mid=2649112797&idx=1&sn=1f7bba70346a819e5de8a8935708f5f4&scene=27#wechat_redirect)
+
+悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
 
 ---
 
@@ -281,6 +281,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 信息安全体系建设相关内容分享…不定时更新，可随时取关…
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
+
+---
+
+
+### [放之](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+持续关注企业与信息安全建设，分享精选干货。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
 
 ---
 
@@ -385,19 +398,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 网络空间安全领域毕业以及在读的博士们发起的网安观点与技术分享平台，皆在分享网安最新观点与技术，加强网安学术与产业交流。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4899831c31a0" alt="" />
-
----
-
-
-### [悬镜安全说](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwODc2NjgwMg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-悬镜安全，DevSecOps敏捷安全领导者，创始人子芽。专注于以代码疫苗技术为内核，通过原创专利级第三代DevSecOps智适应威胁管理体系，持续赋能数千家行业标杆用户，帮助其构筑起内生积极防御体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7dd1a6c278da" alt="" />
 
 ---
 

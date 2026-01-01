@@ -14,9 +14,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2025-12-29T17:37:06】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798112&idx=1&sn=8a27b010b9a7b8b8856ad532e2656a6a&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T09:10:01】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798164&idx=1&sn=908fa5163fec802f0dd91f9341e449cb&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -27,9 +27,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【4/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2025-12-25T18:00:38】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494571&idx=1&sn=5371535f0962f45f7885b2bba73ddc37&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T18:30:41】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494661&idx=1&sn=871eb90aa953e064080eef2ecfe4f136&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -55,11 +55,24 @@
 
 [:chart_with_upwards_trend:【5/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2025-12-30T17:52:52】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517883&idx=1&sn=938d4995e84c4e68b02c583441983b5c&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T13:01:24】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517886&idx=1&sn=715ec4740886415bd5863fa33746d1a6&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
+
+---
+
+
+### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+
+[:camera_flash:【2025-12-31T17:00:44】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492617&idx=1&sn=6717fc9504f1651a3dd3a808a7fe3cf7&scene=27#wechat_redirect)
+
+基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
 
 ---
 
@@ -77,19 +90,6 @@
 ---
 
 
-### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
-
-[:camera_flash:【2025-12-29T17:13:14】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492583&idx=1&sn=775eb492d63d73b76f06c6d633619533&scene=27#wechat_redirect)
-
-基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_dd8b72c1c127" alt="" />
-
----
-
-
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
 [:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
@@ -103,28 +103,28 @@
 ---
 
 
+### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
+
+[:camera_flash:【2025-12-31T15:10:31】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247490161&idx=1&sn=2c7ef4449c621c20555b7acb4eff23eb&scene=27#wechat_redirect)
+
+FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
+
+---
+
+
 ### [GobySec](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI4MzcwNTAzOQ==)
 
 [:camera_flash:【2025-12-16T09:32:35】](https://mp.weixin.qq.com/s?__biz=MzI4MzcwNTAzOQ==&mid=2247545895&idx=1&sn=5be1e3c71709ed4bfe7268b10f86cdb3&scene=27#wechat_redirect)
 
 新一代网络安全测试工具，由赵武Zwell（Pangolin、FOFA作者）打造，能够针对一个目标企业梳理最全的攻击面信息，同时能进行高效、实战化漏洞扫描，并快速的从一个验证入口点，切换到横向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7f7c15f37480" alt="" />
-
----
-
-
-### [FOFA](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNzIwMzY4OQ==)
-
-[:camera_flash:【2025-12-26T11:00:30】](https://mp.weixin.qq.com/s?__biz=MzkyNzIwMzY4OQ==&mid=2247490148&idx=1&sn=5e22b854f3b8fe8a7784e02c7675cbaa&scene=27#wechat_redirect)
-
-FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
 
 ---
 

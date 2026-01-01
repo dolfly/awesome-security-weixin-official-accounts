@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2025-12-26T10:02:37】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497128&idx=1&sn=8cf4e073e7c2eb0a2b6de90b6ea025e2&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T16:18:00】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497257&idx=1&sn=f42afe5b3e10609e9b6214dbbd313fec&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -16,24 +16,11 @@
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2025-12-22T15:09:04】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486671&idx=1&sn=372e3565879d317461fc64c5e883d306&scene=27#wechat_redirect)
+[:camera_flash:【2025-12-31T13:48:03】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486677&idx=1&sn=9624dbcaec71e8656fc14b6cb93c460b&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2025-12-26T10:34:15】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495870&idx=1&sn=5a6f987270d65db836f02e897593b5b2&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:camera_flash:【2025-12-26T10:34:15】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495870&idx=1&sn=5a6f987270d65db836f02e897593b5b2&scene=27#wechat_redirect)
+
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -125,19 +125,6 @@
 一个专注于网络空间安全的高校技术团队，成立于2005年3月，主要研究方向有渗透测试、逆向工程、移动安全、安全编程、漏洞利用等；公众号定期推送小组成员原创文章
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_962842f4917b" alt="" />
-
----
-
-
-### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
-
-[:camera_flash:【2025-12-01T14:10:40】](https://mp.weixin.qq.com/s?__biz=MzU3Njc3NDQ5OA==&mid=2247488315&idx=1&sn=a7aad1bdc7848b87ae0b5c80a316dde7&scene=27#wechat_redirect)
-
-广东工业大学A&amp;D（攻击与防御）工作室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
 
 ---
 
@@ -346,6 +333,19 @@
 山东警察学院在校生团队，不定期更新网络安全相关内容，与各位师傅相互学习，相互进步。更多丰富内容请关注公众号：山警网络空间安全实验室。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0ee4069dd7cc" alt="" />
+
+---
+
+
+### [广工AD攻防实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3Njc3NDQ5OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+广东工业大学A&amp;D（攻击与防御）工作室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
 
 ---
 

@@ -64,11 +64,24 @@ CTF协会
 ---
 
 
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:camera_flash:【2025-12-31T19:01:14】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247484913&idx=1&sn=75ba0d48e1d9b0580adb6b208fd70f7a&scene=27#wechat_redirect)
+
+power by r3kapig team
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+
+---
+
+
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2025-12-01T14:00:34】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516105&idx=1&sn=09d57d2bdcd8336232638cfc1f3e679b&scene=27#wechat_redirect)
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
@@ -138,19 +151,6 @@ PTE小技巧
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
-### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-power by r3kapig team
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
