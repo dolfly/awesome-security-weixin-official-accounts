@@ -12,19 +12,6 @@
 ---
 
 
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2026-01-09T09:28:30】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495888&idx=1&sn=bf365d78486d1128037fdf111c56fda0&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
-
----
-
-
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
@@ -34,6 +21,19 @@
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
+
+---
+
+
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:camera_flash:【2026-01-09T09:28:30】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247495888&idx=1&sn=bf365d78486d1128037fdf111c56fda0&scene=27#wechat_redirect)
+
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -68,7 +68,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
-[:camera_flash:【2025-12-17T08:00:28】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496838&idx=1&sn=e039064787e677c596f9f3004708cd33&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-10T08:30:28】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496949&idx=1&sn=fa563876ad43eac1fe564176eef668f1&scene=27#wechat_redirect)
 
 东北大学“谛听”网络安全团队
 
