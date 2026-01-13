@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-01-11T14:26:42】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247630046&idx=3&sn=1839af29a3d5309631516bab76b4d12b&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-12T15:05:45】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247630064&idx=2&sn=548a61c10b7f29f81b15a2a228a855af&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【23/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-01-11T19:12:15】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454944403&idx=1&sn=6ba02e0c15bf125a9aff47775d8afba0&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-12T10:28:34】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454944431&idx=1&sn=5248958aade5254910731c063327e502&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2026-01-10T00:01:48】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889920&idx=2&sn=226689b2a515d68d97530594b03ba8d2&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-10T00:01:48】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650889920&idx=1&sn=46373089769dba40071e380dc881b71d&scene=27#wechat_redirect)
 
 关注电子数据取证与网络犯罪调查
 
@@ -53,9 +53,9 @@
 
 ### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
 
-[:camera_flash:【2026-01-12T08:01:58】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247491091&idx=1&sn=d3bbcda90c6827c7df42a4de603fd33b&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-13T08:01:34】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247491103&idx=1&sn=95ece91c32a3ccbb3ad30c59abd6a343&scene=27#wechat_redirect)
 
 旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
 
@@ -79,9 +79,9 @@
 
 ### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:camera_flash:【2026-01-04T13:53:36】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485461&idx=1&sn=378eea5afa398e1f3f252019f8fd7bee&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-12T09:42:53】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485477&idx=1&sn=9f788af1cd0e64ba05168447a39c6b25&scene=27#wechat_redirect)
 
 电子数据取证与应急响应从业者交流平台
 
@@ -103,19 +103,6 @@
 ---
 
 
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【2026-01-01T14:00:19】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484136&idx=1&sn=207e5533ccd729cf206613cb53c84e26&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
-
----
-
-
 ### [信睿网络](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDA2NjExMA==)
@@ -125,6 +112,19 @@
 吉林省信睿网络官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_18cae47da613" alt="" />
+
+---
+
+
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2026-01-01T14:00:19】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484136&idx=1&sn=207e5533ccd729cf206613cb53c84e26&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
