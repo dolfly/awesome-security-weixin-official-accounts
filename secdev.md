@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【7/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【7/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-01-12T16:00:40】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541419&idx=1&sn=4dd5396eb0eb61bf0a66625a9ac38f5a&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-13T16:00:58】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541429&idx=1&sn=44244b2a0e0e5464c5b00bc4ddee86f9&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,9 +27,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【21/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【22/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-01-12T17:07:47】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554072&idx=1&sn=3afbb64efc68120205fba8231e304277&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-13T17:51:39】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554280&idx=1&sn=24d8cb476a4b7cde0e3ebd7a645b52eb&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
