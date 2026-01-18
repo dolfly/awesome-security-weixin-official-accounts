@@ -1,9 +1,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【13/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【13/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2026-01-15T07:41:37】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487568&idx=1&sn=2e0b3b72f3fd88abf169858659497b01&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-17T13:31:30】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487589&idx=1&sn=e401996f7454edf660b8e4186bad8e14&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -14,26 +14,13 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【3/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【3/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2026-01-15T17:52:31】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649798448&idx=1&sn=bd059dce01c08ee5a81773852877b25a&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
-
----
-
-
-### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:camera_flash:【2026-01-16T18:26:11】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517976&idx=1&sn=148268f951f01fbc00c5e77526da1a6e&scene=27#wechat_redirect)
-
-字节跳动的技术实践分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 
@@ -51,22 +38,22 @@
 ---
 
 
-### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-01-16T14:01:20】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782046&idx=1&sn=37fcf6232a7fe28ea7ae364440ba57fc&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-16T18:26:11】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517976&idx=1&sn=148268f951f01fbc00c5e77526da1a6e&scene=27#wechat_redirect)
 
-10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
+字节跳动的技术实践分享
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 
 
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
 [:camera_flash:【2026-01-15T18:01:34】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492730&idx=1&sn=2677b13be2a867ab05506c53b84f7a99&scene=27#wechat_redirect)
 
@@ -86,6 +73,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+
+[:camera_flash:【2026-01-16T14:01:20】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782046&idx=1&sn=37fcf6232a7fe28ea7ae364440ba57fc&scene=27#wechat_redirect)
+
+10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
 
 ---
 

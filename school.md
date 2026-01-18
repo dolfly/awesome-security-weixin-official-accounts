@@ -12,19 +12,6 @@
 ---
 
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2026-01-08T10:34:19】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486687&idx=1&sn=553b2e6f7912d256eb01c70a829d10f6&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
 ### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
@@ -34,6 +21,19 @@
 浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2026-01-08T10:34:19】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486687&idx=1&sn=553b2e6f7912d256eb01c70a829d10f6&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
@@ -103,6 +103,19 @@
 ---
 
 
+### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
+
+[:camera_flash:【2026-01-17T14:00:33】](https://mp.weixin.qq.com/s?__biz=MzA5MjUwOTY4Ng==&mid=2651804910&idx=1&sn=0c55b56c5b9ea19a04557f463f5f0e2a&scene=27#wechat_redirect)
+
+清华大学学生网络安全技术协会信息推送和资源平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
+
+---
+
+
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -129,19 +142,6 @@
 ---
 
 
-### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
-
-[:camera_flash:【2025-12-18T10:07:52】](https://mp.weixin.qq.com/s?__biz=Mzg4ODUyMjYyNg==&mid=2247488804&idx=1&sn=2821380ead36ec1e9095ed29ea9852f4&scene=27#wechat_redirect)
-
-河北网络安全高校联盟
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
-
----
-
-
 ### [DROPS攻防训练营](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NjE0Mzk2OA==)
@@ -151,19 +151,6 @@
 中原工学院（ZUT）攻防技术团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
-
----
-
-
-### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-清华大学学生网络安全技术协会信息推送和资源平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
 
 ---
 
@@ -541,6 +528,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 安全技术研究及安全技术分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f5f71c9883af" alt="" />
+
+---
+
+
+### [河北网络安全高校联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4ODUyMjYyNg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+河北网络安全高校联盟
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8937984657cd" alt="" />
 
 ---
 

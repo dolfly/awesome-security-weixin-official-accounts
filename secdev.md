@@ -1,9 +1,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【25/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【27/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-01-16T16:15:30】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554310&idx=2&sn=3cc5288631f387326331687bc70bd199&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-17T14:30:20】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554348&idx=1&sn=910c020aa48b1a67e31eddd6b92d7e23&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -14,7 +14,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【8/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【8/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2026-01-16T16:01:47】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541490&idx=1&sn=7d22907034f60c8cf800c0f0c2f7e5e6&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【22/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-01-15T00:01:16】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517136&idx=1&sn=590147d68a7fc5427dfa1c1b265035ed&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-17T09:03:10】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517137&idx=1&sn=c073b46fadda67d54a0b80333f2cf8d2&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2026-01-15T17:28:54】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523085&idx=1&sn=82450de72cf4053cb316ec0711d40166&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-01-17T00:24:14】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649403613&idx=2&sn=bd7067968bd6cdb1ee5bd5bacca8386f&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-17T11:43:33】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649403646&idx=1&sn=7f208df592a147a4704386d3f3ab0f6b&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -66,13 +66,26 @@
 
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:chart_with_upwards_trend:【2/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+[:chart_with_upwards_trend:【2/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
 [:camera_flash:【2026-01-16T18:00:28】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514457&idx=1&sn=86c3dd5b238cc5db662a2e4ce70d8358&scene=27#wechat_redirect)
 
 珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_beefe8b3bbd1" alt="" />
+
+---
+
+
+### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
+
+[:camera_flash:【2026-01-17T19:00:31】](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247560256&idx=3&sn=86206dc6b9d2fd16cf02c0f6a6c531ad&scene=27#wechat_redirect)
+
+中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6c133949b583" alt="" />
 
 ---
 
@@ -151,6 +164,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 关于功能安全、信息安全、系统工程方法的工作感悟，资讯分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_956e8befd9f9" alt="" />
+
+---
+
+
+### [放之](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
+
+[:camera_flash:【2026-01-17T15:33:23】](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485457&idx=1&sn=90abec971627091a864d0cedc8d2b0db&scene=27#wechat_redirect)
+
+持续关注企业与信息安全建设，分享精选干货。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
 
 ---
 
@@ -268,19 +294,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 信息安全体系建设相关内容分享…不定时更新，可随时取关…
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
-
----
-
-
-### [放之](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3ODAzNjg5OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-持续关注企业与信息安全建设，分享精选干货。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4947400a6ef2" alt="" />
 
 ---
 
@@ -463,19 +476,6 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 网络与信息安全世界纷纷攘攘，利益与技术纠缠交织，陷阱重重。希望在混沌的时代，从中立的角度思考安全最本真的那条路，梳理网络安全的过去、现在与未来，在迷雾的街角点亮一盏灯。版主：周智，wx：zhouzhi20140516
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_66aad224f32e" alt="" />
-
----
-
-
-### [网络与信息法学会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU1NDY3NDgwMQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-中国法学会网络与信息法学研究会及其会刊《网络与信息法学研究》官方公众号。汇集国内外网络信息法领域理论性、前瞻性、创新性研究成果，引领、推动、服务中国网络信息法治发展。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6c133949b583" alt="" />
 
 ---
 
