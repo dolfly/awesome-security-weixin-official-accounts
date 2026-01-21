@@ -1,9 +1,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【13/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【14/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2026-01-19T19:54:15】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487601&idx=1&sn=795d00940332b29fa8f5e005873b0dd0&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-20T12:41:01】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487607&idx=1&sn=8b8fd9e66c187bc4bbeab3e26ceb4b2a&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -66,9 +66,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2026-01-15T13:42:08】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493308&idx=1&sn=4dca36592545fe5ce8f594bb5f106341&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-20T11:27:51】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493309&idx=1&sn=b027a19e89f7d74d7d333ca2981195ae&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
