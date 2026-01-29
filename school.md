@@ -51,6 +51,19 @@
 ---
 
 
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2026-01-28T17:40:48】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247498526&idx=1&sn=ecbe72b1bc363ad8bf99caddd661e67d&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
 ### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
@@ -64,19 +77,6 @@
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2026-01-10T08:30:28】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496949&idx=1&sn=fa563876ad43eac1fe564176eef668f1&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
@@ -86,19 +86,6 @@
 山警网络空间安全实验室（简称：网安社）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2025-12-29T12:07:42】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484420&idx=1&sn=ed6ae388a9b8f1c4a38ef878e5fe4d79&scene=27#wechat_redirect)
-
-原名为网络安全学生社团，现名为网络攻防创新实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 
@@ -541,6 +528,19 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 为了宣传杭州师范大学“网络与信息安全实验室”，提升大家网络与信息安全意识。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cb6e613490cd" alt="" />
+
+---
+
+
+### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+原名为网络安全学生社团，现名为网络攻防创新实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 

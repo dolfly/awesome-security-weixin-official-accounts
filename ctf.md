@@ -1,9 +1,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2026-01-26T18:06:39】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516157&idx=1&sn=af5a41e54a4eebe987a20eef2e8893c3&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-28T09:21:10】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516162&idx=1&sn=f81b09b45aa46626c33ba46500df570e&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
@@ -14,13 +14,26 @@
 
 ### [DefiniteR3dBlue](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
 
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
+[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
 
 [:camera_flash:【2026-01-09T17:22:56】](https://mp.weixin.qq.com/s?__biz=Mzg4NzU4MDE5NQ==&mid=2247484911&idx=1&sn=c4de5bc4dec2a6829632240b47597e06&scene=27#wechat_redirect)
 
 赛博随笔，CTF，红蓝对抗，记录学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
+
+---
+
+
+### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:camera_flash:【2026-01-28T13:35:26】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485432&idx=1&sn=81358e3697851b0589b91832ed8cf5a0&scene=27#wechat_redirect)
+
+信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 
@@ -34,19 +47,6 @@
 由奇安信集团、清华大学、蚂蚁集团主办，联合北京大学、中科院软件所、复旦大学、中山大学、山东大学、中国科技大学等30多个知名高校和研究机构共同举办的聚焦大数据安全分析的比赛。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a0316d342599" alt="" />
-
----
-
-
-### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:camera_flash:【2026-01-23T16:31:46】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485426&idx=2&sn=124aac21d9798dafafd70b5352f13a57&scene=27#wechat_redirect)
-
-信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 

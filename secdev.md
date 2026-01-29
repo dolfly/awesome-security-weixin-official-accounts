@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【26/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-01-27T14:34:10】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554548&idx=1&sn=32045bc7071af5175d6bb88c43c7bc81&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-28T14:24:11】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554569&idx=1&sn=5f32723183586ebb74d876578625110e&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【4/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-01-27T16:00:56】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541578&idx=1&sn=aa1e569d40f1be3394573b3a28822989&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-28T15:01:03】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541579&idx=1&sn=eb1adc44624acdc1b568c36b4581feb5&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -40,7 +40,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2026-01-27T16:55:43】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523113&idx=1&sn=dad8c80e406248f6d836856849b9383e&scene=27#wechat_redirect)
 
@@ -66,7 +66,7 @@
 
 ### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
 [:camera_flash:【2026-01-26T18:01:08】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514486&idx=1&sn=9e237f6964c3411b858ce313193fa788&scene=27#wechat_redirect)
 
@@ -151,6 +151,19 @@
 商密君是全国密码行业头部公众号，旨在宣传推广《密码法》，普及商用密码知识，解读密码政策，分享商用密码行业的最新动态，为密码产业产学研用做好宣传服务，连接密码全行业精英，推动密码技术在数字经济各行业的应用和创新。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a02c9d0e1990" alt="" />
+
+---
+
+
+### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
+
+[:camera_flash:【2026-01-28T12:00:55】](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492273&idx=1&sn=e390ea5f8f96e52ceee6ac08f023e242&scene=27#wechat_redirect)
+
+vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
 
 ---
 
@@ -359,19 +372,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 该账号由绿盟科技金融事业部维护，用于发布金融行业相关安全资讯等内容
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de59bd871eb8" alt="" />
-
----
-
-
-### [vivo千镜](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0Njg4NzE3MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿万用户享受安全便捷的数字生活。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_54ff3f871510" alt="" />
 
 ---
 
