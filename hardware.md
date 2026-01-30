@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/90/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-01-28T09:43:29】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247630396&idx=1&sn=d5e0c72c133e7731d004c58a435aa3f8&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-29T10:10:25】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247630413&idx=3&sn=bcc73096a49f523be9315c349f6b53c6&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,13 +14,26 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【24/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【25/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-01-28T08:49:33】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454944756&idx=1&sn=dcdae13b4d1c9339f50310483c42309e&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-29T08:25:08】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454944770&idx=1&sn=6320a8312028551390c8e8e1bc707b21&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
+
+---
+
+
+### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
+
+[:camera_flash:【2026-01-29T09:00:27】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247491123&idx=1&sn=365b5df735d3e493c1d4e807ca9a9362&scene=27#wechat_redirect)
+
+旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0aa8f6bfaffd" alt="" />
 
 ---
 
@@ -34,19 +47,6 @@
 关注电子数据取证与网络犯罪调查
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
-
----
-
-
-### [网络安全与取证研究](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
-
-[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTU3NTY0Nw==)
-
-[:camera_flash:【2026-01-28T09:01:38】](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3NTY0Nw==&mid=2247491121&idx=1&sn=6bf9d9699963e0253d31041867a97b9b&scene=27#wechat_redirect)
-
-旨于开展网络安全相关法律法规研究与电子数据取证技术研究，分享小知识、小技巧，共同学习提高，推进技术规范化建设。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0aa8f6bfaffd" alt="" />
 
 ---
 
