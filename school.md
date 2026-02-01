@@ -38,6 +38,19 @@
 ---
 
 
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2026-01-31T11:01:06】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247498575&idx=1&sn=d0887891b016d7d8852ae0ae4d00b2e3&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
 ### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
@@ -51,19 +64,6 @@
 ---
 
 
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2026-01-28T17:40:48】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247498526&idx=1&sn=ecbe72b1bc363ad8bf99caddd661e67d&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
 ### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
@@ -73,32 +73,6 @@
 清华大学学生网络安全技术协会信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
-
----
-
-
-### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
-
-[:camera_flash:【2026-01-01T11:55:27】](https://mp.weixin.qq.com/s?__biz=MjM5Njc1OTYyNA==&mid=2450788569&idx=1&sn=de5233bfbc5ea34072caac10d844790d&scene=27#wechat_redirect)
-
-山警网络空间安全实验室（简称：网安社）
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
-
----
-
-
-### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
-
-[:camera_flash:【2026-01-01T12:12:48】](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4NjIzNA==&mid=2247485477&idx=1&sn=6093a9e61ebaaed5e730bcc2b993c366&scene=27#wechat_redirect)
-
-我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
 
 ---
 
@@ -190,6 +164,19 @@
 青岛科技大学信息安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_244b9c8677de" alt="" />
+
+---
+
+
+### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+山警网络空间安全实验室（简称：网安社）
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_544c8c38eeaf" alt="" />
 
 ---
 
@@ -736,6 +723,19 @@ Birkenwald安全团队 --来自哈尔滨理工大学
 本公众号为计算机协会，负责通知各类活动竞赛以及各类技术知识点。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6302157393d9" alt="" />
+
+---
+
+
+### [驯海隔壁白帽子](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODU4NjIzNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+我们是一群专注网络安全的爱好者，希望通过轻松有趣的方式，把实用的技术知识分享给大家。带来新鲜干货，一起筑牢网络安全屏障，安心畅游数字世界！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9352cbd40d35" alt="" />
 
 ---
 

@@ -12,6 +12,19 @@
 ---
 
 
+### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:camera_flash:【2026-01-30T18:01:47】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485438&idx=1&sn=7dc8cffe136f424eecbc693c2b559dd2&scene=27#wechat_redirect)
+
+信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
+
+---
+
+
 ### [DefiniteR3dBlue](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
 
 [:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzU4MDE5NQ==)
@@ -21,19 +34,6 @@
 赛博随笔，CTF，红蓝对抗，记录学习
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fd178541e86f" alt="" />
-
----
-
-
-### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:camera_flash:【2026-01-30T18:01:47】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485438&idx=1&sn=7dc8cffe136f424eecbc693c2b559dd2&scene=27#wechat_redirect)
-
-信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 
@@ -73,6 +73,19 @@
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
+
+---
+
+
+### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+
+[:camera_flash:【2026-01-31T12:01:08】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485450&idx=1&sn=e89c9c9ac18a9bad2c9c099d6c4773c7&scene=27#wechat_redirect)
+
+北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0cb5220f7012" alt="" />
 
 ---
 
@@ -385,19 +398,6 @@ CTF协会
 西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
-
----
-
-
-### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0cb5220f7012" alt="" />
 
 ---
 
