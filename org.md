@@ -14,9 +14,9 @@
 
 ### [奇安信集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:chart_with_upwards_trend:【0/46/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+[:chart_with_upwards_trend:【0/47/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2026-01-31T08:22:07】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247630756&idx=1&sn=64c16687fe80cfcffe2b6497a6c78a58&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-01T16:02:21】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247630758&idx=1&sn=57a7863d43af165d4f437884ee6433c9&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:camera_flash:【2026-02-01T07:00:48】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492940&idx=1&sn=c774ce9e7a21b61b31ee0e1cf445b620&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-02T07:01:04】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492945&idx=1&sn=030a2dcc70859e06dca5904152faeaf7&scene=27#wechat_redirect)
 
 安徽网络安全信息化行业资讯分享，面向政府、教育、医疗、金融、企业等行业客户，涉及等保测评、商密评估、软件测试、数据安全、分类分级、风险评估、代码审计、渗透测试、漏洞扫描、攻防护网、培训认证、安全服务等。
 
@@ -131,9 +131,9 @@
 
 ### [谷安天下](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
 
-[:chart_with_upwards_trend:【3/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
+[:chart_with_upwards_trend:【3/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
 
-[:camera_flash:【2026-01-30T10:00:56】](https://mp.weixin.qq.com/s?__biz=MzU4NDExNDQwNA==&mid=2247490600&idx=1&sn=df9a594eec226efd4ea80145852c4095&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-02T08:00:59】](https://mp.weixin.qq.com/s?__biz=MzU4NDExNDQwNA==&mid=2247490604&idx=1&sn=1dfca1ac42276cdc351b47a86d3c9b08&scene=27#wechat_redirect)
 
 数字风险领域的人才与知识服务机构
 
@@ -185,7 +185,7 @@
 
 [:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NDUyNA==)
 
-[:camera_flash:【2026-01-27T08:30:29】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650820062&idx=1&sn=2feee6c1040ad6a6387b76028628d66f&scene=27#wechat_redirect)
+[:camera_flash:【2026-01-27T08:30:29】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650820062&idx=2&sn=7623c64753cf0e2569c148035657e785&scene=27#wechat_redirect)
 
 美创科技，专注数据安全领域近20年，以数据为中心，围绕数据安全、运行安全、安全运维服务三大业务，为政企用户提供专业领先的产品、服务与解决方案。
 
@@ -558,6 +558,19 @@
 ---
 
 
+### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
+
+[:camera_flash:【2026-02-02T07:55:48】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454834798&idx=1&sn=967b6dd4ed5ee32370996e0796da308b&scene=27#wechat_redirect)
+
+永信至诚（股票代码：688244）网络和数据安全企业，在网络靶场和人才建设领域位于领军地位。首创“数字风洞”产品体系，跃迁式创新推动安全测试评估专业赛道发展。致力于为数字中国和网络强国建设提供高能效的安全保障和专有人才支撑，带给世界安全感。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
+
+---
+
+
 ### [长亭科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDA2NDk5OQ==)
@@ -675,19 +688,6 @@
 ---
 
 
-### [永信至诚](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDUyMjk4MQ==)
-
-[:camera_flash:【2026-01-29T07:55:34】](https://mp.weixin.qq.com/s?__biz=MzAwNDUyMjk4MQ==&mid=2454834726&idx=1&sn=6ed66dbbe61f3e4afdd07871258d608d&scene=27#wechat_redirect)
-
-永信至诚（股票代码：688244）网络和数据安全企业，在网络靶场和人才建设领域位于领军地位。首创“数字风洞”产品体系，跃迁式创新推动安全测试评估专业赛道发展。致力于为数字中国和网络强国建设提供高能效的安全保障和专有人才支撑，带给世界安全感。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bd309c1d6cb9" alt="" />
-
----
-
-
 ### [盛邦安全WebRAY](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTAxMjUwNw==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTAxMjUwNw==)
@@ -762,6 +762,19 @@
 安势信息是国内先进的软件供应链安全治理解决方案提供商，提供包括清源SCA（软件成分分析）、清本SAST（静态代码扫描）、清正CleanBinary (二进制代码扫描)、安全服务等解决方案，提供各行业的软件供应链安全治理最佳实践。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e8dbe6320f19" alt="" />
+
+---
+
+
+### [极验](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE5MTQxNg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE5MTQxNg==)
+
+[:camera_flash:【2026-02-02T07:01:29】](https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724139&idx=1&sn=d82a24a7c85b86045a954f61b4b75a80&scene=27#wechat_redirect)
+
+极验是一家利用人工智能技术解决网络交互安全问题的企业服务商，引领新型验证码时代，帮助企业识别网站异常机器流量。作为全球交互安全创领者，极验已为全球36万家客户提供可信流量三要素解决方案：行为验、身份验、设备验。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d81ca4de765f" alt="" />
 
 ---
 
@@ -944,19 +957,6 @@
 宁盾是一家企业级身份基础设施提供商，解决国产化和业务上云带来传统身份基础架构替代和升级问题，产品涵盖宁盾多因素认证、宁盾网络准入、宁盾身份目录，致力于为客户提供安全、可靠、高效的身份基础设施解决方案。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c786f46caf6" alt="" />
-
----
-
-
-### [极验](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE5MTQxNg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE5MTQxNg==)
-
-[:camera_flash:【2026-01-08T09:00:59】](https://mp.weixin.qq.com/s?__biz=MzI2MDE5MTQxNg==&mid=2649724108&idx=1&sn=e2675874f9a1314a2a83bdb857e1e9cd&scene=27#wechat_redirect)
-
-极验是一家利用人工智能技术解决网络交互安全问题的企业服务商，引领新型验证码时代，帮助企业识别网站异常机器流量。作为全球交互安全创领者，极验已为全球36万家客户提供可信流量三要素解决方案：行为验、身份验、设备验。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d81ca4de765f" alt="" />
 
 ---
 

@@ -324,6 +324,19 @@ OPPO安全中心（OSRC）官方公众号。OSRC是致力于保障OPPO用户、�
 ---
 
 
+### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
+
+[:camera_flash:【2026-02-01T11:01:10】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247496942&idx=1&sn=0622cc282b65dbffcd465bec3254539b&scene=27#wechat_redirect)
+
+https://security.kuaishou.com
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
+
+---
+
+
 ### [众安安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQwMjYxNg==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NTQwMjYxNg==)
@@ -454,19 +467,6 @@ WiFi万能钥匙安全应急响应中心，隶属南京尚网网络科技有限�
 ---
 
 
-### [快手安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MDg0MDc2MQ==)
-
-[:camera_flash:【2026-01-21T11:02:08】](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247496867&idx=1&sn=000148bd21695e450c60b031a9106c9a&scene=27#wechat_redirect)
-
-https://security.kuaishou.com
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_99dfd622a012" alt="" />
-
----
-
-
 ### [微众安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjAyODc1NQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NjAyODc1NQ==)
@@ -515,6 +515,19 @@ BOSS直聘安全应急响应中心官方公众号
 天融信安全漏洞响应中心，简称TOPSRC，是天融信致力于建设安全健康的互联网环境，保障天融信产品和业务线的信息安全，促进安全专家的合作与交流而建立的漏洞收集以及响应平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e91dc0666b13" alt="" />
+
+---
+
+
+### [安天垂直响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
+
+[:camera_flash:【2026-02-01T11:28:18】](https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486074&idx=1&sn=1bac48db90905b7adb45dbc073129712&scene=27#wechat_redirect)
+
+为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
 
 ---
 
@@ -1529,19 +1542,6 @@ SRC活动整合发布，新上线SRC通知，SRC导航
 深信服安全应急响应中心，简称SSRC，主要负责处理深信服产品和业务安全问题，以及相关威胁情报，欢迎安全行业人员沟通交流。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fce28bf135cd" alt="" />
-
----
-
-
-### [安天垂直响应平台](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MTU3NTM0Nw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-为企业及家庭打造专业、精准、纯净、高效的安全服务平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8424f7cbf425" alt="" />
 
 ---
 
