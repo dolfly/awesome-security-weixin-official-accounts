@@ -1,9 +1,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【14/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2026-02-03T21:31:26】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494960&idx=1&sn=9586fa2a1550d1ddf539dc63aeb90f9d&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-05T11:02:54】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494983&idx=1&sn=c7b94a6613d18e9000783e4ca0dc8696&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -27,9 +27,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【6/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【5/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2026-01-29T18:31:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487711&idx=1&sn=8055e502a2a11e5af6b99c84c8f06f3e&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-05T09:00:25】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487719&idx=1&sn=66397430931071a0e73ebb36508b675d&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -66,9 +66,9 @@
 
 ### [创宇安全智脑](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
+[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjU0NjAyNg==)
 
-[:camera_flash:【2026-01-29T18:00:19】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492904&idx=1&sn=6b4970233e3da2b2eb0c1cf30b87bd47&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-05T18:01:43】](https://mp.weixin.qq.com/s?__biz=MzIwNjU0NjAyNg==&mid=2247492966&idx=1&sn=85945c1c45c4508b168b9dd93f16df8c&scene=27#wechat_redirect)
 
 基于知道创宇14年来海量真实攻防数据积累，通过AI+安全大数据能力持续自生产、精粹和分析，实时输出高精准、高价值威胁情报，赋能于全场景安全建设体系。
 
@@ -79,9 +79,9 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2026-01-29T19:59:36】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782134&idx=2&sn=c24279b767c35afc1733cb7d1f73f3f3&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-04T19:58:46】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782172&idx=1&sn=bd821367fc1f3475739c43302a62cb9c&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -92,9 +92,9 @@
 
 ### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
 
-[:camera_flash:【2026-02-04T17:30:51】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499262&idx=1&sn=c31aa4e39f160ea36adf0f30f1e1ce07&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-05T12:01:07】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499272&idx=1&sn=9a6e5e6741f37b664783c0a38cb771d1&scene=27#wechat_redirect)
 
 爱奇艺的技术产品团队
 
