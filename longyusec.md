@@ -1,7 +1,20 @@
 
+### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+
+[:chart_with_upwards_trend:【10/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
+
+[:camera_flash:【2026-02-11T13:57:02】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247489826&idx=1&sn=a080afcae6b04a608e1319ad3a82b3ad&scene=27#wechat_redirect)
+
+泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0efd834741a9" alt="" />
+
+---
+
+
 ### [泷羽Sec-静安](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
-[:chart_with_upwards_trend:【12/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
+[:chart_with_upwards_trend:【11/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDE0NTY0OQ==)
 
 [:camera_flash:【2026-02-10T17:39:20】](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247489128&idx=1&sn=7079769225891b452b0cd8913bc3e200&scene=27#wechat_redirect)
 
@@ -12,24 +25,11 @@
 ---
 
 
-### [泷羽Sec-track](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
-
-[:chart_with_upwards_trend:【9/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzg4MTI0NQ==)
-
-[:camera_flash:【2026-02-09T13:33:35】](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247489797&idx=1&sn=53b8dce68f1309b5c8edc32f021382f2&scene=27#wechat_redirect)
-
-泷羽Sec核心成员，专注于src挖掘技巧与实战，收集分享网络安全技术工具，致力于网络安全更好的发展
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0efd834741a9" alt="" />
-
----
-
-
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【4/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【3/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【2026-02-06T22:00:48】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247511737&idx=1&sn=f06c0a7fafdc8bdad6452136a88a33f6&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-11T10:34:44】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247511783&idx=1&sn=df49a6012662c3e22477fa61e47c867b&scene=27#wechat_redirect)
 
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 
@@ -40,7 +40,7 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 
 ### [泷羽Sec-Norsea](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
 
-[:chart_with_upwards_trend:【2/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
+[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
 
 [:camera_flash:【2026-01-20T23:48:16】](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493371&idx=1&sn=fd1b70649175f3dea51e56e4bc4576dc&scene=27#wechat_redirect)
 
@@ -60,19 +60,6 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 分享网络安，渗透测试，红蓝攻防全相关经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
-
----
-
-
-### [泷羽Sec-Ceo](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
-
-[:camera_flash:【2026-01-12T16:31:55】](https://mp.weixin.qq.com/s?__biz=Mzk0Mjg4MTQxMw==&mid=2247487028&idx=1&sn=bb9527cd45b4c99b70f0cd2938d18d98&scene=27#wechat_redirect)
-
-如泷水般深邃的网络安全知识，与羽翼般广阔的防护能力。我们致力于成为每一位网络安全探索者的灯塔，不仅提供最新的网络安全资讯、深度技术解析，还助力您构建坚不可摧的网络安全防线，让您在数字世界的航行中，无忧前行。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a3d2b208075" alt="" />
 
 ---
 
@@ -164,6 +151,19 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 展示并学习技术的平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f649c0a8a79c" alt="" />
+
+---
+
+
+### [泷羽Sec-Ceo](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0Mjg4MTQxMw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+如泷水般深邃的网络安全知识，与羽翼般广阔的防护能力。我们致力于成为每一位网络安全探索者的灯塔，不仅提供最新的网络安全资讯、深度技术解析，还助力您构建坚不可摧的网络安全防线，让您在数字世界的航行中，无忧前行。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a3d2b208075" alt="" />
 
 ---
 
