@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【4/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-02-12T13:25:14】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541701&idx=1&sn=6882a9fa221e8e97b9ed5577cc22f466&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-13T15:04:13】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541747&idx=1&sn=b92b3db38dbbc9af3b19d8bf65bf0bea&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -14,7 +14,7 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【27/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【26/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
 [:camera_flash:【2026-02-12T11:29:10】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247554851&idx=1&sn=2a6704816d0fb7279f2edf35f420037a&scene=27#wechat_redirect)
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2026-02-12T10:03:39】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523163&idx=1&sn=5fbccad0220fc826b795673efa65de36&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-13T08:30:33】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523177&idx=2&sn=d725cc66a32e1b96f7999bee73eeb97e&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -81,7 +81,7 @@
 
 [:chart_with_upwards_trend:【1/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
 
-[:camera_flash:【2026-02-10T08:00:22】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514530&idx=1&sn=de7729c101c64031e0cb350d46ba23f6&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-13T12:02:55】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514537&idx=1&sn=3d8d21ff2ddf93709ea369f862c01c0b&scene=27#wechat_redirect)
 
 珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
 
@@ -170,9 +170,9 @@ vivo全新的安全品牌，有人文温度的科技新媒体，致力于让亿�
 
 ### [OWASP](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTk5NDMyMw==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-13T15:49:47】](https://mp.weixin.qq.com/s?__biz=MjM5OTk5NDMyMw==&mid=2652099129&idx=1&sn=11391c3fb83a386a316ef5fb8fed94ee&scene=27#wechat_redirect)
 
 OWASP中国，SecZone互联网安全研究中心官方平台
 
