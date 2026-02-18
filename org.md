@@ -27,7 +27,7 @@
 
 ### [苏说安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
-[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
+[:chart_with_upwards_trend:【0/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5OTg5OTI1NQ==)
 
 [:camera_flash:【2026-02-16T07:00:14】](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247493064&idx=1&sn=6f1459d96103b9de9e3880b3e294503c&scene=27#wechat_redirect)
 
