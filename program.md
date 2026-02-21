@@ -1,7 +1,7 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【19/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【18/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
 [:camera_flash:【2026-02-16T23:03:50】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495064&idx=1&sn=e49e32b18cb533fa61939430885db8a7&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【7/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:camera_flash:【2026-02-12T17:39:59】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649800086&idx=1&sn=ecf2702e487f771cf5470dc74d94032e&scene=27#wechat_redirect)
 
@@ -155,15 +155,15 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
-### [灾难控制局](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NTc1NTcwNg==)
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NTc1NTcwNg==)
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
-[:camera_flash:【2026-01-21T15:41:39】](https://mp.weixin.qq.com/s?__biz=MzI1NTc1NTcwNg==&mid=2247484437&idx=1&sn=83fed3ffb503f1df1e6f1252fa9c1760&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-20T17:03:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484933&idx=1&sn=cfe91270cd1db03c488f5f8c77d2682f&scene=27#wechat_redirect)
 
-Will的小屋
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c6f783d354d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
@@ -389,6 +389,19 @@ Yak Language Project: &lt;del&gt;北半球&lt;/del&gt;最强安全研发语言 /
 ---
 
 
+### [灾难控制局](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NTc1NTcwNg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1NTc1NTcwNg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+Will的小屋
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2c6f783d354d" alt="" />
+
+---
+
+
 ### [Pinpoint代码审计](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTIyMTE1Ng==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwOTIyMTE1Ng==)
@@ -528,19 +541,6 @@ OPPO 安第斯智能云（AndesBrain）是服务个人、家庭与开发者的�
 一个产品设计师，打造了很多好玩有趣的产品
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5390c88db07d" alt="" />
-
----
-
-
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 
