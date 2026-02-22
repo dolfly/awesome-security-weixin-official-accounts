@@ -3,24 +3,11 @@
 
 [:chart_with_upwards_trend:【2/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
-[:camera_flash:【2026-02-10T10:43:36】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485568&idx=3&sn=7e545c90fd5b28fa39f18140420c055a&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-10T10:43:36】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485568&idx=1&sn=529cc4e88f8896c65ee4ff176ca40828&scene=27#wechat_redirect)
 
 北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0cb5220f7012" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2026-01-28T09:21:10】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516162&idx=1&sn=f81b09b45aa46626c33ba46500df570e&scene=27#wechat_redirect)
-
-发现和培养网络安全技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
+
+---
+
+
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2026-01-28T09:21:10】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516162&idx=1&sn=f81b09b45aa46626c33ba46500df570e&scene=27#wechat_redirect)
+
+发现和培养网络安全技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
@@ -86,19 +86,6 @@
 power by r3kapig team
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
-
----
-
-
-### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
-
-[:camera_flash:【2026-01-22T15:45:44】](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508517&idx=1&sn=c37e3aac95452c699a51dea2af49efce&scene=27#wechat_redirect)
-
-青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
@@ -177,6 +164,19 @@ CTF，从入门到放弃
 腾讯信息安全争霸赛(Tencent Capture The Flag，简称TCTF)由腾讯安全发起，腾讯安全联合实验室主办，腾讯安全科恩实验室承办，0ops安全团队和腾讯安全玄武实验室协办，致力于联合行业伙伴建立国内首个专业安全人才培养平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d70902412103" alt="" />
+
+---
+
+
+### [中学生CTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzEwMTQ3NQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
 
 ---
 
