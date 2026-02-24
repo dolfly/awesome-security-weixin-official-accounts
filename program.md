@@ -27,9 +27,9 @@
 
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【2/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【2/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2026-02-22T12:49:49】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487781&idx=1&sn=cd92db0c947df6685cc84dcf1bee4a96&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-23T23:49:14】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487789&idx=1&sn=6235aa72411b25a76088f38b4aa91a01&scene=27#wechat_redirect)
 
 读书，写诗，假装自己是黑客。
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2026-02-05T12:01:07】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499272&idx=1&sn=9a6e5e6741f37b664783c0a38cb771d1&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
-
----
-
-
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
@@ -99,6 +86,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【2026-02-05T12:01:07】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499272&idx=1&sn=9a6e5e6741f37b664783c0a38cb771d1&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
@@ -129,6 +129,19 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 ---
 
 
+### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
+
+[:camera_flash:【2026-02-23T21:53:57】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484934&idx=1&sn=5c38a911983ecea088856c880f5a58bb&scene=27#wechat_redirect)
+
+博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
+
+---
+
+
 ### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
@@ -151,19 +164,6 @@ RapidDNS.io 是一个免费开放的DNS在线查询平台。
 分享一些平时所学，励志成为一名安全研发。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d9544647f40b" alt="" />
-
----
-
-
-### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
-
-[:camera_flash:【2026-02-20T17:03:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484933&idx=1&sn=cfe91270cd1db03c488f5f8c77d2682f&scene=27#wechat_redirect)
-
-博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
 
 ---
 

@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【3/63/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2026-02-22T08:12:55】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247508110&idx=1&sn=e76f51683ee80ef7a2ac2dd0f2c2a617&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-23T09:30:43】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247508116&idx=2&sn=b1bb893d93ededa3ac28147b26ed0950&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/58/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:camera_flash:【2026-02-22T18:00:16】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247569480&idx=1&sn=771150122e5dd1f74c9e654580849723&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-23T18:00:22】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247569481&idx=2&sn=2c5a58d0097294b184182e22c3b1544a&scene=27#wechat_redirect)
 
 深入专注智能汽车网络安全与数据安全技术，专属汽车网络安全圈的头部学习交流平台和社区。平台定期会通过线上线下等形式进行一手干货内容输出，并依托丰富产业及专家资源，深化上下游供需对接，逐步壮大我国汽车安全文化及产业生态圈。
 
@@ -40,7 +40,7 @@
 
 ### [内生安全联盟](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:chart_with_upwards_trend:【0/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
+[:chart_with_upwards_trend:【0/43/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
 [:camera_flash:【2026-02-17T08:21:07】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247536733&idx=1&sn=befca783fe97e02b0537f97efe169386&scene=27#wechat_redirect)
 
@@ -53,9 +53,9 @@
 
 ### [逍遥安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
 
-[:chart_with_upwards_trend:【17/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
+[:chart_with_upwards_trend:【16/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTc2MTMxNQ==)
 
-[:camera_flash:【2026-02-22T00:29:50】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485392&idx=1&sn=10a937dfec8b5f8179c1500a211591eb&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-23T22:37:46】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485410&idx=1&sn=9d0794b6de31df1604ab220cab030c90&scene=27#wechat_redirect)
 
 网络安全领域各种资源，针对无基础热爱想学计算机小白技术分享，学习文档，以及工具分享、前沿信息分享、POC、EXP分享
 
@@ -79,9 +79,9 @@
 
 ### [泰阿安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
 
-[:chart_with_upwards_trend:【11/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
+[:chart_with_upwards_trend:【12/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5MDQyMzg3NQ==)
 
-[:camera_flash:【2026-02-19T13:55:55】](https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247485369&idx=1&sn=9f6ac0cadffc5ed00fec3bb9a37974c2&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-23T23:42:49】](https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247485400&idx=1&sn=bf98c55af8ac3ef17698dc5a5a22aad4&scene=27#wechat_redirect)
 
 泰阿安全实验室
 
@@ -131,7 +131,7 @@
 
 ### [网络与安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
 
 [:camera_flash:【2026-02-16T06:00:22】](https://mp.weixin.qq.com/s?__biz=MzI1MTQwMjYwNA==&mid=2247504127&idx=1&sn=84ed2b320115ad37494e3718a082e453&scene=27#wechat_redirect)
 
@@ -476,19 +476,6 @@
 鸿鹄实验室，欢迎关注
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a2210090ba3f" alt="" />
-
----
-
-
-### [渗透测试网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTE4NDM5NA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTE4NDM5NA==)
-
-[:camera_flash:【2026-01-24T23:09:11】](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486811&idx=1&sn=ac135f423dad429e7efba75f6b53d11e&scene=27#wechat_redirect)
-
-致力于分享成员技术研究成果、漏洞新闻、安全招聘以及其他安全相关内容
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_072c993531ad" alt="" />
 
 ---
 
@@ -957,6 +944,19 @@ u200b“燕云实验室”是河北千诚电子科技有限公司成立的网络
 忆享科技旗下高端的网络安全攻防服务团队.安服内容包括渗透测试、代码审计、应急响应、漏洞研究、威胁情报、安全运维、攻防演练等
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0a430ebdb179" alt="" />
+
+---
+
+
+### [渗透测试网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTE4NDM5NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMTE4NDM5NA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+致力于分享成员技术研究成果、漏洞新闻、安全招聘以及其他安全相关内容
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_072c993531ad" alt="" />
 
 ---
 
