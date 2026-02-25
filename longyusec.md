@@ -38,15 +38,15 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
-### [泷羽Sec-醉陌离](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
+### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
 
-[:camera_flash:【2026-01-25T23:05:21】](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485708&idx=1&sn=18f009fc6275be4e0edc66a3c752dfd1&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-24T10:19:31】](https://mp.weixin.qq.com/s?__biz=Mzk1NzI0MzI5NQ==&mid=2247484514&idx=1&sn=ebd4ca4c0c0a161d88bcb34d41d55943&scene=27#wechat_redirect)
 
-分享网络安，渗透测试，红蓝攻防全相关经验
+励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
 
 ---
 
@@ -103,15 +103,15 @@ B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，�
 ---
 
 
-### [泷羽sec-KI安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
+### [泷羽Sec-醉陌离](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI0MzI5NQ==)
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzI5MTc0Nw==)
 
 [:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
 
-励志写出让每个人都有收获的精品计算机安全文章！简单美观交流有收获是KI的代名词~
+分享网络安，渗透测试，红蓝攻防全相关经验
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d0d9bf5f70f" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
 
 ---
 
