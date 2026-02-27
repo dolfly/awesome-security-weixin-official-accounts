@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2026-02-17T10:00:17】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486769&idx=1&sn=ce240fc420db13702fa09d979e6d7dc0&scene=27#wechat_redirect)
+[:camera_flash:【2026-02-26T15:22:09】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486805&idx=1&sn=213e2d2d5ab2b433c616d14a0c3f25b3&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
@@ -21,6 +21,19 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
+### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
+
+[:camera_flash:【2026-02-26T12:45:49】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247496032&idx=1&sn=dc2a907e181fd88cfb2b5157808a6e4d&scene=27#wechat_redirect)
+
+浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
 
 ---
 
@@ -64,19 +77,6 @@
 ---
 
 
-### [浙大网安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg5NDczNDc4NA==)
-
-[:camera_flash:【2026-02-17T07:55:57】](https://mp.weixin.qq.com/s?__biz=Mzg5NDczNDc4NA==&mid=2247496024&idx=1&sn=2e84fd5efdd6e45d93c60d55b7a8ff9e&scene=27#wechat_redirect)
-
-浙江大学网络空间安全学院/浙江大学网络空间安全研究中心
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e603b55057e7" alt="" />
-
----
-
-
 ### [清华大学学生网络安全技术协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MjUwOTY4Ng==)
@@ -86,6 +86,19 @@
 清华大学学生网络安全技术协会信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_26798762d3e1" alt="" />
+
+---
+
+
+### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
+
+[:camera_flash:【2026-02-26T20:23:37】](https://mp.weixin.qq.com/s?__biz=MzIxNDU2ODg3Mw==&mid=2247486439&idx=1&sn=d6c66dab371d630a0f1c65ba4a622a33&scene=27#wechat_redirect)
+
+杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
 
 ---
 
@@ -125,19 +138,6 @@
 中原工学院（ZUT）攻防技术团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84fc2a89caa2" alt="" />
-
----
-
-
-### [安协小天使](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDU2ODg3Mw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
 
 ---
 
