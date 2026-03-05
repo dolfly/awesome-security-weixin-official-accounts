@@ -3,11 +3,24 @@
 
 [:chart_with_upwards_trend:【14/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:camera_flash:【2026-03-02T18:46:20】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247515907&idx=1&sn=0fe8dbb241bd55fd78692da6a83deec8&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-04T18:07:24】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247515935&idx=1&sn=e471c5ebbda6d368c94f8edfbfd974ff&scene=27#wechat_redirect)
 
 发布关于kali相关文章。Debian Centos等操作系统的安全和运维。以及树莓派 ESP8266 DIY单片机等相关安全领域的文章。旨在掌握技术和原理的前提下，更好的保护自身网络安全。反对一切危害网络安全的行为，造成法律后果请自负。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fbcaf351ddc1" alt="" />
+
+---
+
+
+### [真理的网络安全实践日记](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
+
+[:camera_flash:【2026-03-04T10:05:33】](https://mp.weixin.qq.com/s?__biz=MzA3MjM5MDc2Nw==&mid=2650748969&idx=1&sn=a9ce8271312105f15cd1d31e2d81139d&scene=27#wechat_redirect)
+
+每周一篇，让自己保持攻防思维。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
 
 ---
 
@@ -60,19 +73,6 @@
 Docker中文社区旨在为大家提供 Docker、Kubernetes 相关工具及前沿资讯信息，方便大家了解学习 Docker、Kubernetes 相关容器技术。官网：docker.top
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8620cb9f61a5" alt="" />
-
----
-
-
-### [真理的网络安全实践日记](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MjM5MDc2Nw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-每周一篇，让自己保持攻防思维。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
 
 ---
 
