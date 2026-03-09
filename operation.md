@@ -1,7 +1,7 @@
 
 ### [kali黑客笔记](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
-[:chart_with_upwards_trend:【13/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
+[:chart_with_upwards_trend:【12/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMzIwNTY1OA==)
 
 [:camera_flash:【2026-03-06T11:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247515997&idx=1&sn=c6e55e27a534ba3d659b16f109f7a973&scene=27#wechat_redirect)
 
@@ -21,6 +21,19 @@
 每周一篇，让自己保持攻防思维。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_34d6b0cb5633" alt="" />
+
+---
+
+
+### [运维帮](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzYwNjQ3NA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzYwNjQ3NA==)
+
+[:camera_flash:【2026-03-08T13:49:35】](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651301475&idx=1&sn=ae9cd05088757eaca83fbf1ee3d53ada&scene=27#wechat_redirect)
+
+互联网技术分享平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_445a39329cd8" alt="" />
 
 ---
 
@@ -47,19 +60,6 @@
 [Linux中国](https://linux.cn/)开源社区官方公众号。专注于开源技术研究、开源思想传播。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52ef55f8adfd" alt="" />
-
----
-
-
-### [运维帮](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzYwNjQ3NA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3MzYwNjQ3NA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-互联网技术分享平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_445a39329cd8" alt="" />
 
 ---
 
