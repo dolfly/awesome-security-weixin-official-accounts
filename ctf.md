@@ -1,9 +1,9 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【0/84/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【0/92/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-03-12T12:13:38】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496312&idx=6&sn=90172f8e3a1fdbbae509a2d31e8b8395&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-13T10:07:12】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496328&idx=3&sn=955344e8a4ece3ae87978652c8349dc1&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -25,6 +25,19 @@
 ---
 
 
+### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+
+[:camera_flash:【2026-03-13T09:30:46】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516193&idx=1&sn=092e67d3805d0791cd8f1cc8e3c83b28&scene=27#wechat_redirect)
+
+发现和培养网络安全技术人才。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
+
+---
+
+
 ### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
@@ -34,19 +47,6 @@
 春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
-
----
-
-
-### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
-
-[:camera_flash:【2026-03-12T09:30:27】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516189&idx=1&sn=ba37d74b2d3e93d24308a9fb7f372a19&scene=27#wechat_redirect)
-
-发现和培养网络安全技术人才。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
 
 ---
 
