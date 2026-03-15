@@ -14,26 +14,13 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
 [:camera_flash:【2026-03-13T09:31:33】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486831&idx=1&sn=c5e4245ef83a3d9c776cbe8120297f35&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【2026-03-09T08:30:57】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247499371&idx=1&sn=66f4f569e2f666493447606823699cb5&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
@@ -60,6 +47,19 @@
 杭州电子科技大学Vidar-Team (原信息安全协会HDUISA&amp;网络空间安全协会)  消息助手
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e4ac6bc8fbfb" alt="" />
+
+---
+
+
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2026-03-09T08:30:57】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247499371&idx=1&sn=66f4f569e2f666493447606823699cb5&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
