@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-03-16T09:53:30】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496338&idx=4&sn=5447312b8bc2282c56191637cb523bb4&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-16T09:53:30】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496338&idx=6&sn=f43c2323ef61638a2e10db394b12e0c9&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【10/41/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
-[:camera_flash:【2026-03-17T10:23:30】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485764&idx=1&sn=2c8488ace8eb37cbad73ae83d9970cf0&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-17T10:23:30】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485764&idx=2&sn=463fff7a438049311c7a946f783c2c29&scene=27#wechat_redirect)
 
 北京昊网旗下，专注网络空间安全CTF题解。拆解竞赛难题，分享解题思路与技巧，助你提升技能，进阶网络安全领域。
 
@@ -27,9 +27,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2026-03-16T09:21:55】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516201&idx=1&sn=6ab3c1cddaea6c568cccce0ed77258bf&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-18T09:30:52】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516216&idx=1&sn=688fd221986ed17083ac51e198879936&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
@@ -47,19 +47,6 @@
 信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
-
----
-
-
-### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
-
-[:camera_flash:【2026-03-16T18:15:43】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247489096&idx=1&sn=d9cbe9f2aa671c903857853d6c1df113&scene=27#wechat_redirect)
-
-山海关安全团队公众号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
 
 ---
 
@@ -90,15 +77,15 @@
 ---
 
 
-### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+### [山海之关](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MjcxMTAwMQ==)
 
-[:camera_flash:【2026-02-16T19:30:59】](https://mp.weixin.qq.com/s?__biz=MzI2MDE4MzkzMQ==&mid=2247484923&idx=1&sn=289f55d070212863d07eec95ac17f138&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-16T18:15:43】](https://mp.weixin.qq.com/s?__biz=Mzg4MjcxMTAwMQ==&mid=2247489096&idx=1&sn=d9cbe9f2aa671c903857853d6c1df113&scene=27#wechat_redirect)
 
-power by r3kapig team
+山海关安全团队公众号。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f11d07068d45" alt="" />
 
 ---
 
@@ -151,6 +138,19 @@ PTE小技巧
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
+
+---
+
+
+### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+power by r3kapig team
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4d1d402cbd9d" alt="" />
 
 ---
 
