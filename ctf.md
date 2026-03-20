@@ -1,9 +1,9 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【0/103/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-03-16T09:53:30】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496338&idx=6&sn=f43c2323ef61638a2e10db394b12e0c9&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-19T09:00:32】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496370&idx=3&sn=5f705443ee8478824141ba0f3d5bc655&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -40,9 +40,9 @@
 
 ### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
 
-[:camera_flash:【2026-03-16T14:05:16】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485475&idx=1&sn=9937dce8631e298c19350e92a7b34e89&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-19T11:00:13】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485489&idx=1&sn=564bd94347ed8899ba5240bbea329151&scene=27#wechat_redirect)
 
 信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
 
