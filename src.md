@@ -1,9 +1,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-03-21T14:31:55】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504831&idx=1&sn=59807da69f959c2cc55ea44189d52a0a&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-22T13:27:27】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504832&idx=1&sn=fb196f56b7631adb1968b4042bd9cac6&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
@@ -27,9 +27,9 @@
 
 ### [国家互联网应急中心CNCERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:chart_with_upwards_trend:【7/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
+[:chart_with_upwards_trend:【8/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNDk0MDgxMw==)
 
-[:camera_flash:【2026-03-18T17:13:55】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501338&idx=1&sn=66aa356734dfb5c7a086817e03aca355&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-22T16:51:19】](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501343&idx=1&sn=1a9689d763d8aaeafb15cdf47165df06&scene=27#wechat_redirect)
 
 国家计算机网络应急技术处理协调中心（简称“国家互联网应急中心”，英文简称CNCERT或CNCERT/CC），成立于2001年8月，为非政府非盈利的网络安全技术中心，是中国计算机网络应急处理体系中的牵头单位。
 
