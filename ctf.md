@@ -14,7 +14,7 @@
 
 ### [北京昊网CTF题解](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
-[:chart_with_upwards_trend:【9/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
+[:chart_with_upwards_trend:【8/34/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzE5ODEzNDUwMA==)
 
 [:camera_flash:【2026-03-17T10:23:30】](https://mp.weixin.qq.com/s?__biz=MzE5ODEzNDUwMA==&mid=2247485764&idx=3&sn=d9b289187122942a98b0d0dfd84d81e6&scene=27#wechat_redirect)
 

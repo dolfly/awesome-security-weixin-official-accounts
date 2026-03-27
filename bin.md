@@ -1,9 +1,9 @@
 
 ### [广诚市保卫者](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
 
-[:chart_with_upwards_trend:【22/89/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
+[:chart_with_upwards_trend:【22/88/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
 
-[:camera_flash:【2026-03-25T10:02:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NzY0MzM3Ng==&mid=2247486358&idx=1&sn=abe14d114a1a08b482da1f5c66e63c29&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-26T18:14:02】](https://mp.weixin.qq.com/s?__biz=Mzg2NzY0MzM3Ng==&mid=2247486498&idx=1&sn=5f9915983a1ab96b21b24704248abe4f&scene=27#wechat_redirect)
 
 在平行世界的另一头“广诚市”上演着一幕幕黑客围城。
 
@@ -14,7 +14,7 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/64/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/61/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
 [:camera_flash:【2026-03-25T21:52:01】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247523536&idx=1&sn=1a1708f44e26f54c63b35339512e1c5a&scene=27#wechat_redirect)
 
@@ -27,7 +27,7 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/57/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/55/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
 [:camera_flash:【2026-03-21T17:59:28】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612341&idx=1&sn=08f4b531105ec2b3a44360f66169db05&scene=27#wechat_redirect)
 
@@ -40,9 +40,9 @@
 
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:chart_with_upwards_trend:【10/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
+[:chart_with_upwards_trend:【11/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
-[:camera_flash:【2026-03-25T08:31:09】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143977&idx=1&sn=07db810d1eaea586a0878f565f2be6c3&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-26T08:14:18】](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143991&idx=1&sn=8721fe93154f30d3c405ba980ba2df5d&scene=27#wechat_redirect)
 
 吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。
 
@@ -64,9 +64,22 @@
 ---
 
 
+### [软件安全与逆向分析](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+
+[:camera_flash:【2026-03-26T20:30:38】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485085&idx=1&sn=967334ef09adfaa7d93c6b34c7a9ed6c&scene=27#wechat_redirect)
+
+分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
+
+---
+
+
 ### [二进制磨剑](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
+[:chart_with_upwards_trend:【4/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1Mjk2MTM1OQ==)
 
 [:camera_flash:【2026-03-16T08:30:25】](https://mp.weixin.qq.com/s?__biz=MzI1Mjk2MTM1OQ==&mid=2247486009&idx=1&sn=5ebcf3ecb4869a234d561006262d2558&scene=27#wechat_redirect)
 
@@ -79,26 +92,13 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
 [:camera_flash:【2026-03-18T11:55:10】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041557&idx=1&sn=97db327ed0c1cc1be02ea40009278e5f&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_56313daabcfb" alt="" />
-
----
-
-
-### [软件安全与逆向分析](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
-
-[:camera_flash:【2026-03-19T20:45:12】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485071&idx=1&sn=ed0907e603198e77e3eca08dfce80a9a&scene=27#wechat_redirect)
-
-分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_75f1f3757c88" alt="" />
 
 ---
 
