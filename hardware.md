@@ -1,7 +1,7 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/70/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/67/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
 [:camera_flash:【2026-03-27T11:40:09】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247631604&idx=2&sn=b2f4a9e7d475998fa82bacc2132b4ad1&scene=27#wechat_redirect)
 
@@ -16,24 +16,11 @@
 
 [:chart_with_upwards_trend:【21/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-03-27T09:06:22】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454945573&idx=1&sn=255f590619d2d9e4c19ccfed74a8374d&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-28T19:24:06】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454945583&idx=1&sn=f372c8f9951ce2c38365eb55157040f7&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5617c1b503e7" alt="" />
-
----
-
-
-### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
-
-[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
-
-[:camera_flash:【2026-03-24T10:51:11】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9&scene=27#wechat_redirect)
-
-关注电子数据取证与网络犯罪调查
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
 
 ---
 
@@ -51,15 +38,15 @@
 ---
 
 
-### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+### [网安杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMTMzMDUwNg==)
 
-[:camera_flash:【2026-03-26T16:06:18】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959187&idx=1&sn=53aecf3d31ff342f194ace011cfd734e&scene=27#wechat_redirect)
+[:camera_flash:【2026-03-24T10:51:11】](https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890250&idx=2&sn=1ca01bbcde640b131dd2e02b7248f3f9&scene=27#wechat_redirect)
 
-坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
+关注电子数据取证与网络犯罪调查
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_901b6c524273" alt="" />
 
 ---
 
@@ -73,6 +60,19 @@
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f624bd447b0f" alt="" />
+
+---
+
+
+### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
+
+[:camera_flash:【2026-03-26T16:06:18】](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959187&idx=1&sn=53aecf3d31ff342f194ace011cfd734e&scene=27#wechat_redirect)
+
+坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
 
 ---
 
