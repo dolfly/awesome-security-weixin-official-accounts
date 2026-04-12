@@ -1,7 +1,7 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【0/80/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【0/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
 [:camera_flash:【2026-04-10T09:53:55】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247496712&idx=7&sn=bb2e5d775d752b761b5a6d716a823309&scene=27#wechat_redirect)
 
@@ -40,7 +40,7 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:camera_flash:【2026-03-18T09:30:52】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516216&idx=1&sn=688fd221986ed17083ac51e198879936&scene=27#wechat_redirect)
 
@@ -73,19 +73,6 @@
 本公众号为PolarD&amp;N实验室的唯一公众号。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a45c404c0746" alt="" />
-
----
-
-
-### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
-
-[:camera_flash:【2026-03-12T10:44:18】](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502933&idx=1&sn=bd1bfbf3f3660d3a169a38373359982e&scene=27#wechat_redirect)
-
-春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
@@ -151,6 +138,19 @@ PTE小技巧
 寰宇卫士综合安全咨询、安全服务、解决方案、认证培训、产品研发等信息安全多元化产业链为一体。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7aa3785c2fbe" alt="" />
+
+---
+
+
+### [春秋伽玛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyNDA5NjgyMg==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+春秋伽玛，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_07fa2c2720be" alt="" />
 
 ---
 
