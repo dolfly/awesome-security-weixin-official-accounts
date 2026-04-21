@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【3/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【5/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-04-18T13:00:38】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555383&idx=1&sn=a8c1f9d2f49b523daee493d3c0974073&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-20T13:38:08】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555405&idx=2&sn=ee7009b3c731d58daf0f9b9afacc6f2d&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-04-18T11:05:32】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404071&idx=1&sn=ebf081f05314e847d11b8509ec601717&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-20T01:44:57】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404076&idx=1&sn=969505b8af06ad737512e5b50f3aae26&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
