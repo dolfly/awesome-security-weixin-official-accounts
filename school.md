@@ -77,6 +77,19 @@
 ---
 
 
+### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
+
+[:camera_flash:【2026-04-22T09:48:31】](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247499504&idx=1&sn=a67cd2ce3e97df71dec13e0377793934&scene=27#wechat_redirect)
+
+东北大学“谛听”网络安全团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
+
+---
+
+
 ### [山警网络空间安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Njc1OTYyNA==)
@@ -151,19 +164,6 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-东北大学“谛听”网络安全团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
 
 ---
 
