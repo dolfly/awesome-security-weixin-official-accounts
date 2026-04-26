@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【7/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-04-23T14:43:22】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555475&idx=1&sn=a23e4e12dd0cc2db487de9e4567b7825&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-25T13:47:36】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555506&idx=1&sn=c7d934adc2f89ffacc557b1a1c567cf3&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2026-04-21T17:39:37】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523407&idx=1&sn=3d71930768f46584cccb0ac9dd7a55e7&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-21T17:39:37】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523407&idx=2&sn=45c647eeba1e8f1b84ef84001ea68bc0&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -53,9 +53,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-04-24T04:17:34】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517431&idx=1&sn=0212bfe1dbf1147ead03c6164bbdb237&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-26T00:00:19】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517439&idx=1&sn=a5503cf27247a4066633474e1e5e4b0e&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 

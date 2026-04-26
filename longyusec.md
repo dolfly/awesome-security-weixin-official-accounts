@@ -1,9 +1,9 @@
 
 ### [泷羽Sec-Norsea](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
 
-[:chart_with_upwards_trend:【6/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
+[:chart_with_upwards_trend:【9/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
 
-[:camera_flash:【2026-04-24T22:42:21】](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493755&idx=1&sn=481ef5df926efdb417b354be58677320&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-25T20:49:27】](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493774&idx=1&sn=b42c0bfb9cfedac8caf3f9db50310431&scene=27#wechat_redirect)
 
 归去来兮，应归何处。
 
@@ -25,6 +25,19 @@
 ---
 
 
+### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+
+[:camera_flash:【2026-04-25T22:19:54】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247512523&idx=1&sn=5f0f8fb09639f9465ef7649b71c9f9ce&scene=27#wechat_redirect)
+
+B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
+
+---
+
+
 ### [泷羽Sec-尘宇安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzE0ODk3Nw==)
 
 [:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1NzE0ODk3Nw==)
@@ -34,19 +47,6 @@
 分享挖洞技巧和实战，收集和开发各种渗透工具及其使用，泷羽Sec团队核心成员。 声明：在此公众号上学习的任何渗透技能和工具使用，切勿非法使用，一切后果自行承担
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_114fb1ee20f2" alt="" />
-
----
-
-
-### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
-
-[:camera_flash:【2026-04-21T07:44:20】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247512508&idx=1&sn=fe345aad4c4562d007cc910bd713e634&scene=27#wechat_redirect)
-
-B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
 
 ---
 
