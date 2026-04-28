@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNTk2MDAwNA==)
 
-[:camera_flash:【2026-04-10T17:16:32】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247489166&idx=1&sn=7ea3efd4c3a5577c0a0705b1c61d13ff&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-27T14:51:11】](https://mp.weixin.qq.com/s?__biz=MzIwNTk2MDAwNA==&mid=2247489177&idx=1&sn=4c3af0816381e40e27a3a639e4e8ed73&scene=27#wechat_redirect)
 
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
