@@ -1,9 +1,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【0/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【1/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-04-27T16:00:23】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542689&idx=2&sn=6b441f950103577bbee1b2f68195ce65&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-28T16:01:15】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542731&idx=2&sn=b90fdadfd8efb1cfae2386ae924a2dbc&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【8/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【9/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-04-25T13:47:36】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555506&idx=1&sn=c7d934adc2f89ffacc557b1a1c567cf3&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-28T13:23:28】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555539&idx=1&sn=37525142d87daeeb2ecda2f1a165a2f0&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2026-04-27T16:06:03】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523433&idx=2&sn=45899f5470a5c062b6c83bd40a7e77f4&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-27T16:06:03】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523433&idx=1&sn=dbfdf4d06747f8832c982ffbbac0da3b&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -40,7 +40,7 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
 [:camera_flash:【2026-04-20T01:44:57】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404076&idx=1&sn=969505b8af06ad737512e5b50f3aae26&scene=27#wechat_redirect)
 

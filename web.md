@@ -1,7 +1,7 @@
 
 ### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:chart_with_upwards_trend:【1/38/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
 [:camera_flash:【2026-04-27T22:05:13】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247508895&idx=2&sn=40ac7e689c37984408ff5207bc9b7f36&scene=27#wechat_redirect)
 
@@ -14,7 +14,7 @@
 
 ### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
-[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+[:chart_with_upwards_trend:【0/35/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
 
 [:camera_flash:【2026-04-27T17:47:41】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247572509&idx=2&sn=adc2b55af2463a5103ff1215525e3c5d&scene=27#wechat_redirect)
 
@@ -77,6 +77,19 @@
 ---
 
 
+### [GTG网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
+
+[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
+
+[:camera_flash:【2026-04-28T10:45:21】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247484956&idx=1&sn=b1b99c716bcea65ed3b91377f4ed8885&scene=27#wechat_redirect)
+
+广测集团出品，专注网络安全认证（如EN18031）及解决方案，护航企业出海合规。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fd9a2f69356" alt="" />
+
+---
+
+
 ### [七芒星实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTU4NTc2Nw==)
 
 [:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MTU4NTc2Nw==)
@@ -86,19 +99,6 @@
 未知攻，焉知防，以攻促防，共筑安全！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_13b943a0d2c7" alt="" />
-
----
-
-
-### [GTG网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
-
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
-
-[:camera_flash:【2026-04-26T09:00:41】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247484916&idx=1&sn=da7d91151eb5dc4523c44b979fd9cd03&scene=27#wechat_redirect)
-
-广测集团出品，专注网络安全认证（如EN18031）及解决方案，护航企业出海合规。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fd9a2f69356" alt="" />
 
 ---
 
