@@ -1,9 +1,9 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【0/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-05-02T15:42:42】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505535&idx=1&sn=c1754d49df01973d9cfcb9d0eabdef41&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-04T18:06:47】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505559&idx=1&sn=76aca8cedf5982c1699c1745d5eeb2de&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
