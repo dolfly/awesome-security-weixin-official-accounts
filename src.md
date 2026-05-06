@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:camera_flash:【2026-05-04T18:06:47】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505559&idx=1&sn=76aca8cedf5982c1699c1745d5eeb2de&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-05T15:17:29】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505570&idx=1&sn=7b0ccc76465f5158fd40c96d835d4fc9&scene=27#wechat_redirect)
 
 为企业级用户提供高危漏洞、重大安全事件安全风险通告和相关产品解决方案。
 
