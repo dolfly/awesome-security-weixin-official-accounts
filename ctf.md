@@ -38,6 +38,19 @@
 ---
 
 
+### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
+
+[:camera_flash:【2026-05-06T11:51:48】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247487030&idx=1&sn=d70d58df48a56fc0e6408fcdc13994e9&scene=27#wechat_redirect)
+
+CTF协会
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
+
+---
+
+
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
@@ -47,19 +60,6 @@
 发现和培养网络安全技术人才。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3d7c7f90f79f" alt="" />
-
----
-
-
-### [SCUCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxNDk1ODUxMw==)
-
-[:camera_flash:【2026-04-14T13:44:04】](https://mp.weixin.qq.com/s?__biz=MzUxNDk1ODUxMw==&mid=2247487013&idx=1&sn=2a7f8575bbeeabd069fe2b0e80170878&scene=27#wechat_redirect)
-
-CTF协会
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1e4280acde68" alt="" />
 
 ---
 
