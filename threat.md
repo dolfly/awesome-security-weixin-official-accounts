@@ -14,9 +14,9 @@
 
 ### [知远战略与防务研究所](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
 
-[:chart_with_upwards_trend:【93/96/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
+[:chart_with_upwards_trend:【92/95/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NDMxOTQwNw==)
 
-[:camera_flash:【2026-05-07T13:54:36】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650080725&idx=3&sn=f1c59633c59470891869cd82fcf62867&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T14:21:41】](https://mp.weixin.qq.com/s?__biz=MzA3NDMxOTQwNw==&mid=2650080762&idx=4&sn=ca0d867cebe8afda026bec8acd875575&scene=27#wechat_redirect)
 
 独立的战略和防务研究机构，立足于防务动态和学术热点的追踪分析，着眼于长远性、战略性问题的深入研究，并为国家有关机构及决策者提供独立、客观的战略与政策建议。
 
@@ -27,9 +27,9 @@
 
 ### [独眼情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:chart_with_upwards_trend:【43/50/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
+[:chart_with_upwards_trend:【44/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNDIzNDUxOQ==)
 
-[:camera_flash:【2026-05-06T15:14:35】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247507168&idx=1&sn=66a77ef78a545869134e54ad0892b50b&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T21:11:53】](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247507211&idx=1&sn=2c892e0d641e6069f7f9556713e61e13&scene=27#wechat_redirect)
 
 做最快最有价值的网络安全威胁情报公众号！
 
@@ -40,9 +40,9 @@
 
 ### [丁爸情报分析师的工具箱](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:chart_with_upwards_trend:【22/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
+[:chart_with_upwards_trend:【23/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MTE0NTE3Mw==)
 
-[:camera_flash:【2026-05-07T23:43:04】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155464&idx=1&sn=815cd0eeebcdbe8b0b143620109265d7&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T23:54:52】](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155482&idx=1&sn=24c2ab86d4c7e33ff70a4aa124458790&scene=27#wechat_redirect)
 
 每天为大家精选各类情报分析相关的资源、工具、技巧和资讯，努力成为情报分析师必备的工具箱。外挂机器人“小丁丁”还能陪您聊天，给您查航班、查列车、查天气、查酒店、查美食、查股票、回答您的提问等等。
 
@@ -53,9 +53,9 @@
 
 ### [情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:chart_with_upwards_trend:【12/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
+[:chart_with_upwards_trend:【12/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3Mjc1MTkwOA==)
 
-[:camera_flash:【2026-05-06T14:43:44】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567718&idx=1&sn=4a9aeef76ffca7f3837e1bdb9205596d&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T13:59:02】](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567732&idx=1&sn=271ecb5f5a2693adc4d26122116b76cb&scene=27#wechat_redirect)
 
 刘硕教授团队：聚焦情报与安全！关注情报动态，促进情报协作，传播情报文化，优化情报生态，共建情报分析师职业共同体。
 
@@ -66,9 +66,9 @@
 
 ### [黑鸟](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
-[:chart_with_upwards_trend:【20/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
+[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxOTM1MDQ1NA==)
 
-[:camera_flash:【2026-05-07T23:40:45】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186647&idx=1&sn=45ea03ff1264d9b057eac32b6eab7e46&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T23:52:51】](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186656&idx=1&sn=280b99bf1a17385aae56b5958b9d8e2f&scene=27#wechat_redirect)
 
 一介草民，深耕威胁情报领域多年，自封威胁分析师，APT狩猎者，战略忽悠分析师。 专注推送一切前沿高科技/人工智能、网络安全分析、敌我战略分析、数据挖掘、情报扩线、网络武器分析、社会工程学、一切开源情报、军事分析忽悠等。
 
@@ -79,7 +79,7 @@
 
 ### [夯磅棱](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDE4NzIxMw==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDE4NzIxMw==)
+[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MDE4NzIxMw==)
 
 [:camera_flash:【2026-05-06T09:23:34】](https://mp.weixin.qq.com/s?__biz=Mzg2MDE4NzIxMw==&mid=2247484651&idx=1&sn=97e7c29ca1cd5df19f2e9073fccf05f6&scene=27#wechat_redirect)
 
@@ -105,7 +105,7 @@
 
 ### [猫头鹰OSINT](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzYzNjEwMTkyMA==)
 
 [:camera_flash:【2026-04-29T20:00:23】](https://mp.weixin.qq.com/s?__biz=MzYzNjEwMTkyMA==&mid=2247485103&idx=1&sn=da39d7252aac5b80ca6345833512b79a&scene=27#wechat_redirect)
 
@@ -131,7 +131,7 @@
 
 ### [微步在线](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5NjA0NjI5MQ==)
 
 [:camera_flash:【2026-05-06T11:31:35】](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650186350&idx=1&sn=3d4481a98b9bcef88417d936b715daa4&scene=27#wechat_redirect)
 
@@ -142,15 +142,15 @@
 ---
 
 
-### [虎符智库](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+### [百灵猫开源情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
 
-[:camera_flash:【2026-04-30T11:47:10】](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493791&idx=1&sn=d9b1e3a0b4fbf0153367e52297275295&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T14:28:35】](https://mp.weixin.qq.com/s?__biz=MzkxMTA3MDk3NA==&mid=2247490796&idx=1&sn=5c1efe7f0d7ada16f78339eea8f873ad&scene=27#wechat_redirect)
 
-“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
+只分享最干的干货
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_31764e29e030" alt="" />
 
 ---
 
@@ -168,15 +168,28 @@
 ---
 
 
-### [百灵猫开源情报分析师](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
+### [威胁猎人ThreatHunter](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDY3NDUxNg==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxMTA3MDk3NA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDY3NDUxNg==)
 
-[:camera_flash:【2026-04-28T15:03:05】](https://mp.weixin.qq.com/s?__biz=MzkxMTA3MDk3NA==&mid=2247490786&idx=1&sn=e43fe41dd59690ef7ba61811e8acfd78&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-08T11:33:13】](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503527&idx=1&sn=9348d6663e2ee80985bddd1c959d9200&scene=27#wechat_redirect)
 
-只分享最干的干货
+威胁猎人（Threat Hunter）成立于2017年，专注于及时、精准、有效的反欺诈情报发现和响应。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_31764e29e030" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eb6eb6a3c42f" alt="" />
+
+---
+
+
+### [虎符智库](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNjYwMTMyNQ==)
+
+[:camera_flash:【2026-04-30T11:47:10】](https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493791&idx=1&sn=d9b1e3a0b4fbf0153367e52297275295&scene=27#wechat_redirect)
+
+“虎符智库” 专注解读网络安全重大事件与技术趋势，提供高层决策参考。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4f44eb4295ae" alt="" />
 
 ---
 
@@ -190,19 +203,6 @@
 威胁情报中心（TIX）是一个涵盖全球多维数据的情报分析、威胁预警分析平台。依托顶尖安全专家团队支撑，帮助安全分析人员快速、准确对可疑事件进行预警、溯源分析。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_05a6c5ec3f78" alt="" />
-
----
-
-
-### [威胁猎人ThreatHunter](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDY3NDUxNg==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NDY3NDUxNg==)
-
-[:camera_flash:【2026-04-17T11:32:25】](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503321&idx=1&sn=1f188e50033e957dbec7ea1a3b5b02f2&scene=27#wechat_redirect)
-
-威胁猎人（Threat Hunter）成立于2017年，专注于及时、精准、有效的反欺诈情报发现和响应。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eb6eb6a3c42f" alt="" />
 
 ---
 
@@ -242,6 +242,19 @@
 致力于反网络违法犯罪领域相关情报、技术研究与分享。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2ee7a9b17c0d" alt="" />
+
+---
+
+
+### [黑鸟略略略](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
+
+[:camera_flash:【2026-05-08T10:43:45】](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484509&idx=1&sn=e7792983e3a472ed39074eb18d750fb8&scene=27#wechat_redirect)
+
+AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
 
 ---
 
@@ -593,19 +606,6 @@ OSINT方法与技巧
 专注于分享信息安全相关知识
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bbe860181ebd" alt="" />
-
----
-
-
-### [黑鸟略略略](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDg1NTU0Mg==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-AI/人工智能/信息/网络安全从业人员/程序员/精神病/反诈骗/热爱游戏行业/极客/金融学硕士感谢关注，长期分享前沿知识科技技术打击冒充黑客和红客的骗子，包括我自己
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8f7b4742496d" alt="" />
 
 ---
 
