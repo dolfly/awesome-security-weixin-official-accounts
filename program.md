@@ -1,13 +1,13 @@
 
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【7/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【8/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:camera_flash:【2026-04-29T20:42:55】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801473&idx=1&sn=b8ede18d708d1fdbee4df09a48e660f1&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-09T07:54:54】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487974&idx=1&sn=12ce8c66fa890af1471e9f8e3d602e30&scene=27#wechat_redirect)
 
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+读书，写诗，假装自己是黑客。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
@@ -25,28 +25,15 @@
 ---
 
 
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2026-04-29T18:42:25】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487958&idx=1&sn=271e67846b026f178c45cb2f8368c8e8&scene=27#wechat_redirect)
+[:camera_flash:【2026-04-29T20:42:55】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801473&idx=1&sn=b8ede18d708d1fdbee4df09a48e660f1&scene=27#wechat_redirect)
 
-读书，写诗，假装自己是黑客。
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2026-04-28T22:07:35】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495303&idx=1&sn=9b07e46bac2b42d3c21192726d1590dc&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
 
 ---
 
@@ -64,15 +51,41 @@
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2026-04-28T22:07:35】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495303&idx=1&sn=9b07e46bac2b42d3c21192726d1590dc&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
 [:camera_flash:【2026-05-06T17:03:45】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519496&idx=1&sn=1a6f8a7d309951f0c0a7139625a1b1b5&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
+
+---
+
+
+### [逆向OneByOne](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
+
+[:camera_flash:【2026-05-09T08:04:38】](https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494236&idx=1&sn=8e6db94cbfe17c8bc6633487999a1bb5&scene=27#wechat_redirect)
+
+逆向案例小笔记
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
 
 ---
 
@@ -86,32 +99,6 @@
 提供B站相关技术的介绍和讲解
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
-
----
-
-
-### [逆向OneByOne](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NTcyMDc1Ng==)
-
-[:camera_flash:【2026-04-26T10:23:50】](https://mp.weixin.qq.com/s?__biz=MzU5NTcyMDc1Ng==&mid=2247494223&idx=1&sn=32f604c3287b3e5d40a886a579397224&scene=27#wechat_redirect)
-
-逆向案例小笔记
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
-
----
-
-
-### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
-
-[:camera_flash:【2026-04-09T11:59:45】](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247499399&idx=1&sn=63e1a3f9204caaa35166cbc9e5812071&scene=27#wechat_redirect)
-
-爱奇艺的技术产品团队
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
@@ -190,6 +177,19 @@
 和七夜一起去探索人生的星辰大海，技术人并不只有技术，你要的人生成长与自由在这里
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_20344080d59d" alt="" />
+
+---
+
+
+### [爱奇艺技术产品团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0MjczMjM2NA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+爱奇艺的技术产品团队
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa1476c2ce41" alt="" />
 
 ---
 
