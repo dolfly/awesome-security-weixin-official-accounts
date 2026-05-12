@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-05-09T12:10:09】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247632464&idx=2&sn=193fc33ebaf35d2de65eca11755cf44b&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-11T11:49:37】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247632498&idx=2&sn=a50c9689d7bc1910386573809d34b917&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【19/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-05-10T19:12:16】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946297&idx=1&sn=88123b988d0d8e29fb41bdad421ddb78&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-11T19:17:06】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946310&idx=1&sn=e3cdd9e464ea22339c99d013076f10e6&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -86,6 +86,19 @@
 网络安全自学交流，提高效率，少走弯路
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
+### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
+
+[:camera_flash:【2026-05-11T23:03:36】](https://mp.weixin.qq.com/s?__biz=Mzg2NTgwNzg5MQ==&mid=2247487066&idx=1&sn=1440d3b88d2bab037ffba05823b08ca2&scene=27#wechat_redirect)
+
+IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
 
 ---
 
@@ -346,19 +359,6 @@
 学习卫星互联网，研究卫星通信安全！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_37ba12d49c79" alt="" />
-
----
-
-
-### [IOTsecZone](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NTgwNzg5MQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息和技术交流的一站式开放性平台。我们提供原创技术干货分享、物联网安全集合地、理论实战演练课程和最新安全资讯动态等服务。官方网站：www.iotsec-zone.com。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_44b0c10fbdf5" alt="" />
 
 ---
 

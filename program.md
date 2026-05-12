@@ -12,9 +12,22 @@
 ---
 
 
+### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+
+[:camera_flash:【2026-05-11T17:37:14】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801507&idx=1&sn=c4ac5ce38024ade94b8bfa1fdc0062ad&scene=27#wechat_redirect)
+
+腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
+
+---
+
+
 ### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
-[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
 
 [:camera_flash:【2026-05-09T07:54:54】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487974&idx=1&sn=12ce8c66fa890af1471e9f8e3d602e30&scene=27#wechat_redirect)
 
@@ -25,24 +38,11 @@
 ---
 
 
-### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
-
-[:camera_flash:【2026-04-29T20:42:55】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801473&idx=1&sn=b8ede18d708d1fdbee4df09a48e660f1&scene=27#wechat_redirect)
-
-腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
-
----
-
-
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【3/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【3/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2026-04-28T22:07:35】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495303&idx=1&sn=9b07e46bac2b42d3c21192726d1590dc&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-11T16:21:56】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495331&idx=1&sn=d17385aa84b1614fd8e41d291ec61f2c&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -66,9 +66,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-05-06T17:03:45】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519496&idx=1&sn=1a6f8a7d309951f0c0a7139625a1b1b5&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-11T18:03:33】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519758&idx=1&sn=2a3cb2f76c01e5134c0af2e62bfbec3a&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
