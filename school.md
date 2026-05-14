@@ -1,9 +1,9 @@
 
 ### [复旦白泽战队](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
+[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NzUxOTI0OQ==)
 
-[:camera_flash:【2026-05-11T14:43:42】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498407&idx=1&sn=4f9e0e9ae91d1b1cbb48d7e55c43abe7&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-13T20:34:57】](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498507&idx=1&sn=d914678daa4eda8c48dd59d823c9b2e3&scene=27#wechat_redirect)
 
 以复旦大学系统安全实验室学生为主成立的安全攻防战队，分享最新研究成果，交流系统安全攻防领域技巧。
 
@@ -12,28 +12,28 @@
 ---
 
 
-### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
-
-[:camera_flash:【2026-04-23T16:25:28】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486896&idx=1&sn=06717df5bbd92ce5b27dd9cb0f0b9e27&scene=27#wechat_redirect)
-
-深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
-
----
-
-
 ### [XatuSec](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
 
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzMjkyMTU1OQ==)
 
-[:camera_flash:【2026-04-23T23:04:49】](https://mp.weixin.qq.com/s?__biz=MzUzMjkyMTU1OQ==&mid=2247484104&idx=1&sn=54dd0f4f78fc293f75e90a6746824e97&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-13T13:41:13】](https://mp.weixin.qq.com/s?__biz=MzUzMjkyMTU1OQ==&mid=2247484124&idx=1&sn=260f40619d220b5484459752c7a755fb&scene=27#wechat_redirect)
 
 西安工业大学网络空间安全协会（XATUSEC）
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6496a1081802" alt="" />
+
+---
+
+
+### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+
+[:camera_flash:【2026-05-13T14:49:18】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486915&idx=1&sn=adc993f259e1643d2fc3971df16d62a4&scene=27#wechat_redirect)
+
+深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_94f04a96b1ca" alt="" />
 
 ---
 
