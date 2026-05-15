@@ -1,7 +1,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【2/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【2/29/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2026-05-13T13:20:24】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542847&idx=2&sn=024dcea66c7d9b921b4c3d727dbd5ef4&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【8/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【8/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-05-12T14:18:12】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555597&idx=1&sn=41b7402857b87b25ef9eb0268825fdb4&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-14T15:10:57】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247555613&idx=1&sn=519af839f114b960e43493d6a3a801d5&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -27,9 +27,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2026-05-12T15:40:00】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523459&idx=1&sn=cf7b451432e321c071bd96a1a85fd624&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-14T17:41:57】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523463&idx=1&sn=aa4fee5ba71039dcee288692eaad6d8c&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 

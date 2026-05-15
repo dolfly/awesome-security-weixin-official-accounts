@@ -1,26 +1,13 @@
 
 ### [美团技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:chart_with_upwards_trend:【1/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
+[:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2026-05-07T19:58:58】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782575&idx=1&sn=c4c3e41bf57fe08b573ccf76d83cd270&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-14T19:59:39】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782607&idx=1&sn=4ddacd5f735d67913062b793ce7db6e1&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_96d37a04e9bf" alt="" />
-
----
-
-
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:camera_flash:【2026-05-13T13:10:42】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487979&idx=1&sn=26b7cf22ff7c905ea3fb755b59fccc05&scene=27#wechat_redirect)
-
-读书，写诗，假装自己是黑客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
@@ -38,11 +25,24 @@
 ---
 
 
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2026-05-13T13:10:42】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487979&idx=1&sn=26b7cf22ff7c905ea3fb755b59fccc05&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2026-05-12T13:48:02】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493696&idx=1&sn=aeb0ad15919896814619763e626dc3d7&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-14T11:40:26】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493697&idx=1&sn=3249cb84c96b4a1035b7904b07666d90&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
@@ -66,26 +66,13 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-05-13T11:02:49】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519770&idx=1&sn=f9593f3795dbc93e14a1d54941874a89&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-14T11:02:45】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247519789&idx=1&sn=8d19584eda2d9d6dddfdd0d55dc70da7&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
-### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
-
-[:camera_flash:【2026-04-24T12:05:35】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504160&idx=1&sn=b4da51e5f5b3d2ca0ce8af1b9d41cd4c&scene=27#wechat_redirect)
-
-提供B站相关技术的介绍和讲解
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
 
 ---
 
@@ -99,6 +86,19 @@
 逆向案例小笔记
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_84c656527267" alt="" />
+
+---
+
+
+### [哔哩哔哩技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3Njc0NTgwMg==)
+
+[:camera_flash:【2026-04-24T12:05:35】](https://mp.weixin.qq.com/s?__biz=Mzg3Njc0NTgwMg==&mid=2247504160&idx=1&sn=b4da51e5f5b3d2ca0ce8af1b9d41cd4c&scene=27#wechat_redirect)
+
+提供B站相关技术的介绍和讲解
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6a92a838f9e0" alt="" />
 
 ---
 
