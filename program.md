@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【1/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2026-05-14T19:59:39】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782607&idx=1&sn=4ddacd5f735d67913062b793ce7db6e1&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-14T19:59:39】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651782607&idx=3&sn=a7270bae51bb2df89e5e587e601ba5a0&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
@@ -14,26 +14,13 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2026-05-11T17:37:14】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801507&idx=1&sn=c4ac5ce38024ade94b8bfa1fdc0062ad&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-15T17:37:16】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801544&idx=1&sn=2577b3e0d9118e271227e5bfd3e76f8a&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
-
----
-
-
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:chart_with_upwards_trend:【5/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:camera_flash:【2026-05-13T13:10:42】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487979&idx=1&sn=26b7cf22ff7c905ea3fb755b59fccc05&scene=27#wechat_redirect)
-
-读书，写诗，假装自己是黑客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【4/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2026-05-13T13:10:42】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487979&idx=1&sn=26b7cf22ff7c905ea3fb755b59fccc05&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 

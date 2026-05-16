@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/54/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-05-13T09:40:36】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247497108&idx=1&sn=3955574205b5f1c7ccd8caa588abb6bf&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-15T10:07:06】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247497146&idx=3&sn=974ebbad1e47887b6e75661846d21ae5&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -14,7 +14,7 @@
 
 ### [PolarCTF](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzY2OTQ0Mg==)
 
 [:camera_flash:【2026-04-29T13:00:21】](https://mp.weixin.qq.com/s?__biz=MzU5NzY2OTQ0Mg==&mid=2247485188&idx=1&sn=4bf0f033eb67dfbe9e81e743e6f9bb4c&scene=27#wechat_redirect)
 
