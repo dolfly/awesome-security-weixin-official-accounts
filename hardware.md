@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/36/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/39/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-05-12T11:09:35】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247632537&idx=1&sn=32e1ce574b02322402d846deae05d4db&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-17T20:38:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247632588&idx=1&sn=9dc16618d00a18d82be35349a145985c&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【19/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【18/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-05-16T08:26:42】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946382&idx=1&sn=f2c9fe3b75e71c4c1fd052f4877d01e3&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-18T08:18:50】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946388&idx=1&sn=7335f723976806dd932bea27508e3d0e&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -51,6 +51,19 @@
 ---
 
 
+### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
+
+[:camera_flash:【2026-05-17T17:21:01】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484171&idx=1&sn=2c19a65d5091b42e5ffcaef2b9236ec6&scene=27#wechat_redirect)
+
+网络安全自学交流，提高效率，少走弯路
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
+
+---
+
+
 ### [全频带阻塞干扰](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
 
 [:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE2OTQyNA==)
@@ -60,19 +73,6 @@
 坚持以非正常体位探寻未知信号。 国内商业安全、TSCM技术反窃密、隐私保护及物理安全领域前行者。持久关注通信安全、海外威胁情报、犯罪防御与群氓效应。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_685fcc00c91c" alt="" />
-
----
-
-
-### [网络安全自学](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzQ3NzY4OA==)
-
-[:camera_flash:【2026-05-04T17:19:04】](https://mp.weixin.qq.com/s?__biz=MzI3NzQ3NzY4OA==&mid=2247484163&idx=1&sn=1453b93010f26e9212c7e63b3a367f71&scene=27#wechat_redirect)
-
-网络安全自学交流，提高效率，少走弯路
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1d8521f5d38e" alt="" />
 
 ---
 
@@ -112,19 +112,6 @@ IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息
 最近公众号主要以视频为主，每周发布一个新的视频！内容主要围绕工业控制系统网络内容，主要涉及工控设备、协议解析及检测评估等方向。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9a02359365f9" alt="" />
-
----
-
-
-### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
-
-[:camera_flash:【2026-04-17T23:03:30】](https://mp.weixin.qq.com/s?__biz=MzIxMjExNDMzNw==&mid=2247484754&idx=1&sn=99ade0fa68b8755a733ae944497ef71e&scene=27#wechat_redirect)
-
-中国卫星黑客
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
@@ -216,6 +203,19 @@ IOTsec-Zone是一个致力于提供高质量、高标准的物联网安全信息
 极客的专属潮酷聚集地，尽在iotsec-zone
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3f7435f8d16d" alt="" />
+
+---
+
+
+### [卫星黑客](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMjExNDMzNw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+中国卫星黑客
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2beea18480d6" alt="" />
 
 ---
 
