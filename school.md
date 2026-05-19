@@ -64,6 +64,19 @@
 ---
 
 
+### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
+
+[:camera_flash:【2026-05-18T23:03:22】](https://mp.weixin.qq.com/s?__biz=Mzk0MjI1NzY1NQ==&mid=2247487311&idx=1&sn=1b53e22bb0e3d2f0d99c0b954fbbe87f&scene=27#wechat_redirect)
+
+渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
+
+---
+
+
 ### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
@@ -99,6 +112,19 @@
 连天教育，是河南信安世纪科技有限公司旗下独立信息安全培训组织，主要面向国内外信息安全认证和职业技能培训，涉及CISP、CISM、CISSP、CISA、信息安全意识、风险评估、渗透测试、CTF竞赛、Web安全等。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9fe1a6f307b0" alt="" />
+
+---
+
+
+### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
+
+[:camera_flash:【2026-05-18T15:57:48】](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485718&idx=1&sn=17345039468c979b3600f9fd7c0f9860&scene=27#wechat_redirect)
+
+网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
 
 ---
 
@@ -320,19 +346,6 @@
 广东工业大学A&amp;D（攻击与防御）工作室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c375cb5a0589" alt="" />
-
----
-
-
-### [渭南师院网络信息安全社](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0MjI1NzY1NQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-渭南师范学院网络信息安全协会官方账号，为您提供网络安全相关资讯与技术分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f4e0f7548c2f" alt="" />
 
 ---
 
@@ -606,19 +619,6 @@ Covteam工作室，成立于2005年。是以西华大学在校本科生研究生
 中南极光网安Lab欢迎你的到来~Lets&#39;s hack something!
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e613df22a0fc" alt="" />
-
----
-
-
-### [NISL实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUxMTEwOTA3OA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-网络与信息安全实验室(NISL@THU)，专注于网络、系统、应用、人工智能安全教学与研究，在国际四大安全会议发表三十余篇论文，成果在业界产生了广泛影响力。孕育了蓝莲花、紫荆花等知名战队，发起了网安国际学术论坛InForSec。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52677a4545d1" alt="" />
 
 ---
 
