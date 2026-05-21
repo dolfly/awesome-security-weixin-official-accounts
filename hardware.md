@@ -14,7 +14,7 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【18/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【18/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
 [:camera_flash:【2026-05-19T08:26:44】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946417&idx=1&sn=133b841c51eb1611442359a41bc04044&scene=27#wechat_redirect)
 
