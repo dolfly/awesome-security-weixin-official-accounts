@@ -1,13 +1,26 @@
 
 ### [泷羽Sec-Norsea](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
 
-[:chart_with_upwards_trend:【19/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
+[:chart_with_upwards_trend:【18/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MTc4NTEyNw==)
 
-[:camera_flash:【2026-05-15T20:24:21】](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493872&idx=3&sn=deaa73415a19981b96144fa1750ea044&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-15T20:24:21】](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493872&idx=1&sn=3b2ded0c8c7e36875c342ccaa01908e7&scene=27#wechat_redirect)
 
 归去来兮，应归何处。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3198017bed01" alt="" />
+
+---
+
+
+### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+
+[:chart_with_upwards_trend:【5/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+
+[:camera_flash:【2026-05-23T17:38:36】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247512793&idx=1&sn=b8a532814258988e76668dc5f883ebed&scene=27#wechat_redirect)
+
+B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
 
 ---
 
@@ -21,19 +34,6 @@
 分享网络安，渗透测试，红蓝攻防全相关经验
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_3775f9f74452" alt="" />
-
----
-
-
-### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
-
-[:chart_with_upwards_trend:【5/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
-
-[:camera_flash:【2026-05-21T20:58:01】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247512777&idx=1&sn=6ae989e17f2a8ec4ab24456edcab48c1&scene=27#wechat_redirect)
-
-B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b3bfbc45e60c" alt="" />
 
 ---
 
