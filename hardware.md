@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/51/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-05-23T14:53:46】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247632736&idx=2&sn=89f1efa933f72f4745e3853aa95aaf55&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-23T14:53:46】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247632736&idx=1&sn=369a5854ef64e7bedfab7013c6ccdc0b&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【18/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【17/21/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-05-23T19:16:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946465&idx=1&sn=6616c31def76944ab1076736b96f3f72&scene=27#wechat_redirect)
+[:camera_flash:【2026-05-24T19:25:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946482&idx=1&sn=1e03a7b0e5daa0d71ed055c5acc26636&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
