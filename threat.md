@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【110/128/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:camera_flash:【2026-06-19T09:34:07】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247506605&idx=5&sn=96bb18194f3cea084df337138beb5c58&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-19T09:34:07】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247506605&idx=1&sn=03e9b199543a9d08606b8b1f230ed458&scene=27#wechat_redirect)
 
 蓝军开源情报大百科数据库。
 

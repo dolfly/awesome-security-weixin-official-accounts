@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【8/62/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxOTM2MDYwNg==)
 
-[:camera_flash:【2026-06-20T06:05:00】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247528642&idx=2&sn=4829e6942e7ff768017d8e21c866c049&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-20T06:05:00】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247528642&idx=3&sn=5a95e92489335ee74cd52cca2da5d696&scene=27#wechat_redirect)
 
 服务全国情报侦查人员，培养网络情报思维，提高网络情报侦查能力。
 

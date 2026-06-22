@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【2/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2026-06-20T17:02:28】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247509547&idx=2&sn=e0e26d020e92eb65e07cf8f8505dda03&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-20T17:02:28】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247509547&idx=1&sn=ff7a9ab69b8bc521d05d8c4d71982c61&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
