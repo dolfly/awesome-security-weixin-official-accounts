@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-06-17T08:49:41】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247633123&idx=1&sn=038af699ff72d33103057686a01fa6e5&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-17T08:49:41】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247633123&idx=3&sn=4ac08f401be3fe662b8e0f17eb2c4147&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【8/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【9/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-06-17T08:31:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946817&idx=1&sn=cf770f11768e5304359a99e02ec5e299&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-22T13:40:54】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454946919&idx=1&sn=4a3e7e32c9923ef38de4804d1bff19f3&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,9 +27,9 @@
 
 ### [取证与溯源](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyOTcyNDg1OA==)
 
-[:camera_flash:【2026-06-17T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485533&idx=1&sn=3d1c76e085c5f5e6d71c0bf2d784445b&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-22T01:18:00】](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247485542&idx=1&sn=da57ea246a61a9d056b021dc5516ed2e&scene=27#wechat_redirect)
 
 电子数据取证与应急响应从业者交流平台
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2026-06-15T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049020&idx=2&sn=91bd528772d0b68b135e6f5dd9200a86&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-15T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049020&idx=1&sn=d7119b0ab3e7eb36eb269018a516a4e4&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
