@@ -12,6 +12,19 @@
 ---
 
 
+### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+
+[:camera_flash:【2026-06-23T17:40:14】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495528&idx=1&sn=a297b615a62d4d28168814fdaec2f687&scene=27#wechat_redirect)
+
+分享安全方面的论文写作、会议发表、基金申请方面的资料。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
+
+---
+
+
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:chart_with_upwards_trend:【3/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
@@ -21,19 +34,6 @@
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d14465b5ce6c" alt="" />
-
----
-
-
-### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:chart_with_upwards_trend:【1/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
-
-[:camera_flash:【2026-06-21T18:11:16】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495522&idx=1&sn=f56e0abbcecd4789fe21b3cbb6ffd99e&scene=27#wechat_redirect)
-
-分享安全方面的论文写作、会议发表、基金申请方面的资料。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_cbda1fb027bf" alt="" />
 
 ---
 
