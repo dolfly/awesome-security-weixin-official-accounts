@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/18/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2026-06-22T09:54:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247523919&idx=1&sn=09bc733e90a07940c8e9d0f2dfb0b18a&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-22T09:54:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247523919&idx=2&sn=4d9d80cddeb168224209b72cc496d678&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
