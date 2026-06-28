@@ -1,9 +1,9 @@
 
 ### [奇安信集团](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:chart_with_upwards_trend:【0/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
+[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDk0NTAwMw==)
 
-[:camera_flash:【2026-06-23T18:51:23】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247632446&idx=3&sn=c64bd690fe8862abaf0ee6f676e1ff32&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-27T09:00:00】](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247632495&idx=1&sn=2f09e370f1a46c66c4d1e0b0316b70e2&scene=27#wechat_redirect)
 
 新一代网络安全领军者。
 
@@ -311,6 +311,19 @@
 ---
 
 
+### [绿盟科技研究通讯](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyODYzNTU2OA==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyODYzNTU2OA==)
+
+[:camera_flash:【2026-06-27T09:00:00】](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500012&idx=1&sn=aa8560755076fda38c8fd1df45fb938c&scene=27#wechat_redirect)
+
+绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c697f316f2c4" alt="" />
+
+---
+
+
 ### [新潮信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
@@ -389,6 +402,19 @@
 ---
 
 
+### [聚铭网络](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDQwMjg5NA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDQwMjg5NA==)
+
+[:camera_flash:【2026-06-27T11:00:00】](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247509592&idx=1&sn=2c6beb6bb76ee8dac5d6bf1433a0ce0a&scene=27#wechat_redirect)
+
+聚铭网络官方订阅号，洞察行业趋势，分享热点干货，提供专业解决方案，让安全更简单。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ca02b12c33f8" alt="" />
+
+---
+
+
 ### [天懋信息](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDA0MTE2Mg==)
 
 [:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MDA0MTE2Mg==)
@@ -437,19 +463,6 @@
 极验是一家利用人工智能技术解决网络交互安全问题的企业服务商，引领新型验证码时代，帮助企业识别网站异常机器流量。作为全球交互安全创领者，极验已为全球36万家客户提供可信流量三要素解决方案：行为验、身份验、设备验。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d81ca4de765f" alt="" />
-
----
-
-
-### [绿盟科技研究通讯](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyODYzNTU2OA==)
-
-[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIyODYzNTU2OA==)
-
-[:camera_flash:【2026-06-26T10:23:02】](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247500008&idx=1&sn=c011b15b0e3e8eef07032912bb67c94f&scene=27#wechat_redirect)
-
-绿盟科技研究通讯-绿盟研究成果发布地，创新、孵化、布道，只玩最酷的安全技术
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c697f316f2c4" alt="" />
 
 ---
 
@@ -658,19 +671,6 @@
 信息网络安全与数据应用领域一流的整体解决方案提供商，有效打击犯罪，共创安全、和谐的信息环境。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_de06cb7dc3e6" alt="" />
-
----
-
-
-### [聚铭网络](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDQwMjg5NA==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMDQwMjg5NA==)
-
-[:camera_flash:【2026-06-22T17:30:00】](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247509572&idx=1&sn=65f7a60ef05addd908c7159afd642f55&scene=27#wechat_redirect)
-
-聚铭网络官方订阅号，洞察行业趋势，分享热点干货，提供专业解决方案，让安全更简单。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ca02b12c33f8" alt="" />
 
 ---
 
