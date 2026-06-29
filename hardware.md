@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/27/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/30/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-06-24T07:33:10】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247633161&idx=2&sn=c2d275517b3dd1a6cbb11365a2d260cc&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-28T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247633207&idx=2&sn=9ab35764a55ecc48ca95dd74b786d94a&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -42,7 +42,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNDcwMDgzMA==)
 
-[:camera_flash:【2026-06-24T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049029&idx=1&sn=54991b319f66195cc6579eefab659318&scene=27#wechat_redirect)
+[:camera_flash:【2026-06-24T00:00:00】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049029&idx=2&sn=8f71a090ed6d787c07a86d5476b3e8b6&scene=27#wechat_redirect)
 
 关注刑事证据科学前沿发展，传递电子物证技术最新趋势
 
