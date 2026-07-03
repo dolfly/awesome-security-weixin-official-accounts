@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/126/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-07-01T10:15:10】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247497821&idx=5&sn=e190b85e02183ddba84aa54ab1791770&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-01T10:15:10】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247497821&idx=1&sn=a52d3b80a793a0e0b378e48c717d2501&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
