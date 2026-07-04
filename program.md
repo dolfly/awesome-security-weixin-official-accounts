@@ -53,9 +53,9 @@
 
 ### [北邮GAMMALab](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MzE1MTQzNw==)
 
-[:camera_flash:【2026-06-18T12:10:38】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493819&idx=1&sn=87a211a561241ed6261000dcaa1547ef&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-03T11:45:49】](https://mp.weixin.qq.com/s?__biz=Mzg4MzE1MTQzNw==&mid=2247493865&idx=1&sn=f74dd18a0c9c18aa90576ffd5d1c8cb9&scene=27#wechat_redirect)
 
 北邮图数据挖掘与机器学习实验室
 
