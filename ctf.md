@@ -1,9 +1,9 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【0/123/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【0/127/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-07-09T11:12:26】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247497971&idx=6&sn=f9a7d15e7a4df770f3ad6d6441b7969b&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-11T09:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247497994&idx=2&sn=9aa426d1e9c4080973867b3f35e781a0&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -14,9 +14,9 @@
 
 ### [XCTF联赛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NDU3MjExNw==)
 
-[:camera_flash:【2026-07-03T09:55:30】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516545&idx=1&sn=ccd0ea2db36aa97c63295765f50db7fc&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-10T13:44:42】](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247516581&idx=1&sn=91fc8328afd903da7e17483a173f24bd&scene=27#wechat_redirect)
 
 发现和培养网络安全技术人才。
 
