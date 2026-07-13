@@ -1,7 +1,7 @@
 
 ### [奇安信CERT](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
-[:chart_with_upwards_trend:【1/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
+[:chart_with_upwards_trend:【1/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NDgxODU1MQ==)
 
 [:camera_flash:【2026-07-10T17:42:41】](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247506579&idx=1&sn=91e99060ffe9719d45562a11733bdd78&scene=27#wechat_redirect)
 
@@ -246,19 +246,6 @@ https://security.kuaishou.com
 ---
 
 
-### [东方财富安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDAxMjAyOQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDAxMjAyOQ==)
-
-[:camera_flash:【2026-06-12T19:13:14】](https://mp.weixin.qq.com/s?__biz=MzUzNDAxMjAyOQ==&mid=2247484514&idx=1&sn=9dd3c91f71697f4207873d87e283b324&scene=27#wechat_redirect)
-
-此为东方财富安全响应中心 （简称EMSRC）官方订阅号，欢迎到security.eastmoney.com平台反馈安全漏洞或威胁情报，奖励多多!
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9bdc974aca3e" alt="" />
-
----
-
-
 ### [度小满安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
@@ -281,19 +268,6 @@ https://security.kuaishou.com
 BOSS直聘安全应急响应中心官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8b1e1f6a89b7" alt="" />
-
----
-
-
-### [讯飞安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDE5NDg1MA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDE5NDg1MA==)
-
-[:camera_flash:【2026-06-12T10:55:06】](https://mp.weixin.qq.com/s?__biz=MzIwMDE5NDg1MA==&mid=2247494823&idx=1&sn=1b4bdaef69f4f310974961477004c2d0&scene=27#wechat_redirect)
-
-科大讯飞信息安全团队负责公司整体安全工作。期待与您共同守护亿万用户的信息安全，一同建设更加安全的美好世界！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7063e81bcfd9" alt="" />
 
 ---
 
@@ -671,6 +645,19 @@ VIPKID安全响应中心官方账号
 货拉拉安全应急响应中心（LLSRC）官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a8def1138a6" alt="" />
+
+---
+
+
+### [东方财富安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDAxMjAyOQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzNDAxMjAyOQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+此为东方财富安全响应中心 （简称EMSRC）官方订阅号，欢迎到security.eastmoney.com平台反馈安全漏洞或威胁情报，奖励多多!
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9bdc974aca3e" alt="" />
 
 ---
 
@@ -1321,6 +1308,19 @@ vivo安全应急响应中心（vivoSRC）官方
 贝壳安全应急响应中心（BKSRC）官方公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bdbfaffcf899" alt="" />
+
+---
+
+
+### [讯飞安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDE5NDg1MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwMDE5NDg1MA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+科大讯飞信息安全团队负责公司整体安全工作。期待与您共同守护亿万用户的信息安全，一同建设更加安全的美好世界！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7063e81bcfd9" alt="" />
 
 ---
 
