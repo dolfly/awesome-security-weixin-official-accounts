@@ -1,9 +1,9 @@
 
 ### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
+[:chart_with_upwards_trend:【6/12/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-07-10T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520780&idx=1&sn=be8775089a0a07f7d22f5bf267ee752b&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-13T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247520810&idx=2&sn=425e0a64545b3e7b9b8f39c2671ed7b8&scene=27#wechat_redirect)
 
 字节跳动的技术实践分享
 
@@ -14,9 +14,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2026-07-10T17:36:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802528&idx=1&sn=2a38aa36abe5401b21ec718ccc60260a&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-13T17:36:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -64,6 +64,19 @@
 ---
 
 
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2026-07-13T18:36:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247488089&idx=1&sn=043a4001c5a79b1f1ccbaa0897ae2522&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+
+---
+
+
 ### [软件开发安全生命周期](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
 
 [:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NzE5NjI0Mg==)
@@ -73,19 +86,6 @@
 博主站点:www.s-sdlc.com 分享软件开发生命周期,致力于分享知识、同时会分享网络安全相关的知识点和技能点
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4270dc91534e" alt="" />
-
----
-
-
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
-
-[:camera_flash:【2026-07-07T18:52:17】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247488084&idx=1&sn=64bb5d5d70f5c8d240a5e19a59b96330&scene=27#wechat_redirect)
-
-读书，写诗，假装自己是黑客。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
