@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【5/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-07-13T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556200&idx=2&sn=fd485693279aaedd66c6098873fcdbaf&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-13T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556200&idx=1&sn=e056303f030d260a3a772a7ae08e648d&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -40,9 +40,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【6/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【7/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-07-07T08:35:55】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517663&idx=1&sn=e1ea709c965e8aa39689583a60ade982&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-14T08:47:58】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517685&idx=1&sn=3212cfd961e42de8c53ef09cc4224612&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -64,9 +64,22 @@
 ---
 
 
+### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+
+[:camera_flash:【2026-07-13T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492486&idx=1&sn=95e3de2ed5320b019ece27a3fc78b30e&scene=27#wechat_redirect)
+
+闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+
+---
+
+
 ### [Sq1Map](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0NDg1MjQ0Nw==)
 
 [:camera_flash:【2026-06-19T21:14:23】](https://mp.weixin.qq.com/s?__biz=MzU0NDg1MjQ0Nw==&mid=2247484809&idx=1&sn=8086c204641583e259d1b8615d2559b2&scene=27#wechat_redirect)
 
@@ -77,15 +90,15 @@
 ---
 
 
-### [君哥的体历](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+### [安全管理杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
 
-[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MjQ1NTA4MA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
 
-[:camera_flash:【2026-07-13T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492486&idx=1&sn=95e3de2ed5320b019ece27a3fc78b30e&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-14T18:46:31】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648520148&idx=1&sn=24597689d627a1ab9a81b8afd7dd1a9a&scene=27#wechat_redirect)
 
-闲暇时间，逼迫自己，记录分享体验与经历，不求正确统一，但求真、善、美。
+信息安全体系建设相关内容分享…不定时更新，可随时取关…
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_aa4d8db71365" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
 
 ---
 
@@ -125,19 +138,6 @@
 甲方安全建设的点滴，共同学习，一起进步。 笔耕不辍也是对自我的督促。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_97cc04db2203" alt="" />
-
----
-
-
-### [安全管理杂谈](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI5MjEyOTE4MA==)
-
-[:camera_flash:【2026-07-09T12:50:02】](https://mp.weixin.qq.com/s?__biz=MzI5MjEyOTE4MA==&mid=2648520143&idx=1&sn=65e6c0f2311a4c9d2b4c6823f9057697&scene=27#wechat_redirect)
-
-信息安全体系建设相关内容分享…不定时更新，可随时取关…
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_eaab7ac10752" alt="" />
 
 ---
 
