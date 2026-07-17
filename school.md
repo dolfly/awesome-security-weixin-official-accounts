@@ -1,9 +1,9 @@
 
 ### [深圳网安培训学院](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3MDYzMjAyNA==)
 
-[:camera_flash:【2026-07-03T11:35:34】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486979&idx=1&sn=5b75c2f2309e8fa591ed150d1153e506&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-16T16:24:07】](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247487000&idx=1&sn=405f40cbe75cc72590b480f8a5eb43f1&scene=27#wechat_redirect)
 
 深圳市网安计算机网络安全培训中心是由深圳市人力资源局备案的社会第三方培训机构。是受广东省人力资源和社会保障厅委托，开展“网络与信息安全管理员”职业技能等级认定工作的第三方社会评价机构。
 

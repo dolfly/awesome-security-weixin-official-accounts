@@ -14,9 +14,9 @@
 
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:chart_with_upwards_trend:【6/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
+[:chart_with_upwards_trend:【6/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
-[:camera_flash:【2026-07-13T17:36:00】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-16T17:52:30】](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=2&sn=d7eb836cbf1c5d47f8d6c2ea645375d8&scene=27#wechat_redirect)
 
 腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NjQ5MTI5OA==)
 
-[:camera_flash:【2026-07-09T19:58:00】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783022&idx=2&sn=70a24a57f04f2b5246afba77d455df8e&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-09T19:58:00】](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651783022&idx=1&sn=9c28dd11a4d95d5eebbb097e0a1aace0&scene=27#wechat_redirect)
 
 10000+工程师，如何支撑中国领先的生活服务电子商务平台？数亿消费者、数百万商户、2000多个行业背后是哪些技术在支撑？这里是美团、大众点评、美团外卖、美团优选等技术团队对外交流的窗口。
 
