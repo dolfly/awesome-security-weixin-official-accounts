@@ -246,19 +246,6 @@ https://security.kuaishou.com
 ---
 
 
-### [度小满安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
-
-[:camera_flash:【2026-06-19T09:32:57】](https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493517&idx=1&sn=e681fc0881741ba67c5b9b0bf224c9eb&scene=27#wechat_redirect)
-
-度小满金融安全部官方账号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8689df50ad99" alt="" />
-
----
-
-
 ### [BOSS直聘安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODIwNDI3NA==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyODIwNDI3NA==)
@@ -801,6 +788,19 @@ VIPKID安全响应中心官方账号
 T3出行安全应急响应中心，欢迎提交安全漏洞
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4bf6fa1687a7" alt="" />
+
+---
+
+
+### [度小满安全应急响应中心](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2MjIzODI3Mw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+度小满金融安全部官方账号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8689df50ad99" alt="" />
 
 ---
 
