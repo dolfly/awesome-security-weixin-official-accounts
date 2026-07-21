@@ -103,6 +103,19 @@ power by r3kapig team
 ---
 
 
+### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+
+[:camera_flash:【2026-07-20T16:08:14】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485701&idx=1&sn=156c75d70d12cda34c6ef0a7d8021bd4&scene=27#wechat_redirect)
+
+信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
+
+---
+
+
 ### [胖哈勃](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2OTUzMzg3Ng==)
@@ -398,19 +411,6 @@ CTF协会
 春秋GAME，为广大网络安全爱好者传递网络安全大赛相关赛事信息，提供优质的赛事服务平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9dc2f5b966c7" alt="" />
-
----
-
-
-### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 

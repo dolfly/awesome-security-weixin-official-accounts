@@ -181,6 +181,19 @@
 ---
 
 
+### [新潮信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
+
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
+
+[:camera_flash:【2026-07-20T16:34:54】](https://mp.weixin.qq.com/s?__biz=MzkwNDcyODgwOQ==&mid=2247488723&idx=1&sn=59ed4487ba989fa0a225f0c5277dd173&scene=27#wechat_redirect)
+
+新潮信息作为国内最早提供信息安全服务的高新技术企业，我们始终站在网络安全技术的最前沿，致力于为企业提供全方位、高效、专业的网络安全解决方案。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92e0d4a8b939" alt="" />
+
+---
+
+
 ### [观安信息](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxNDIzNTcxMg==)
@@ -285,19 +298,6 @@
 ---
 
 
-### [新潮信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
-
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDcyODgwOQ==)
-
-[:camera_flash:【2026-07-13T16:31:41】](https://mp.weixin.qq.com/s?__biz=MzkwNDcyODgwOQ==&mid=2247488705&idx=1&sn=0595fa423f8b4c130efe6a51fa46f28e&scene=27#wechat_redirect)
-
-新潮信息作为国内最早提供信息安全服务的高新技术企业，我们始终站在网络安全技术的最前沿，致力于为企业提供全方位、高效、专业的网络安全解决方案。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_92e0d4a8b939" alt="" />
-
----
-
-
 ### [神州希望网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mzg1ODMwMg==)
 
 [:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4Mzg1ODMwMg==)
@@ -320,6 +320,19 @@
 看透安全 体验价值
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_562eea3892b0" alt="" />
+
+---
+
+
+### [北京磐石安科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDI0MjkzOA==)
+
+[:chart_with_upwards_trend:【1/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDI0MjkzOA==)
+
+[:camera_flash:【2026-07-20T12:19:36】](https://mp.weixin.qq.com/s?__biz=MzkwNDI0MjkzOA==&mid=2247486811&idx=1&sn=31d9521ad960bfa37b2bd2b6160c0c43&scene=27#wechat_redirect)
+
+网络安全：网络安全培训 、红蓝对抗、政策法规、规范标准、趋势动态、技术分享，帮助安全从业者、安全爱好者学习与成长。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_093ff12ad20d" alt="" />
 
 ---
 
@@ -398,19 +411,6 @@
 北京信安世纪科技股份有限公司（688201）是一家科技创新型信息安全产品和解决方案提供商。公司以密码技术为基础，具有身份安全、数据安全、通信安全、移动安全、云安全和平台安全六大产品系列，充分满足金融、政府和企业等关键行业的安全需求
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6c3aa0c34e70" alt="" />
-
----
-
-
-### [北京磐石安科技有限公司](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDI0MjkzOA==)
-
-[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwNDI0MjkzOA==)
-
-[:camera_flash:【2026-07-07T00:48:02】](https://mp.weixin.qq.com/s?__biz=MzkwNDI0MjkzOA==&mid=2247486803&idx=1&sn=bfa4171e56ded461a47ea46a531ff84b&scene=27#wechat_redirect)
-
-网络安全：网络安全培训 、红蓝对抗、政策法规、规范标准、趋势动态、技术分享，帮助安全从业者、安全爱好者学习与成长。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_093ff12ad20d" alt="" />
 
 ---
 
@@ -649,6 +649,19 @@
 ---
 
 
+### [经纬信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzE2MDc5Mg==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzE2MDc5Mg==)
+
+[:camera_flash:【2026-07-20T16:54:07】](https://mp.weixin.qq.com/s?__biz=MzIwNzE2MDc5Mg==&mid=2649268888&idx=1&sn=b68e5307c0193b5fb8b39ee8ab95aa9b&scene=27#wechat_redirect)
+
+经纬信安是国内蜜罐技术第一家，核心技术是欺骗防御和XDR，包括风险评估、攻击诱捕、拟态防御、威胁情报、主机安全、恶意代码检测、扩展检测和响应、自动化编排、安全运营等功能，形成主动防御+持续响应闭环，现今已与多领域深度合作。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc96c4d4df94" alt="" />
+
+---
+
+
 ### [中新赛克](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODUwNTg0Ng==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0ODUwNTg0Ng==)
@@ -801,19 +814,6 @@
 北京卫达信息技术有限公司成立于2014年，获得国家高精尖产业基金、国电投产业基金、江苏省高科技产业基金等战略投资，是专注于网络安全的高科技企业。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8857c7c7f9ae" alt="" />
-
----
-
-
-### [经纬信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzE2MDc5Mg==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIwNzE2MDc5Mg==)
-
-[:camera_flash:【2026-06-30T16:11:10】](https://mp.weixin.qq.com/s?__biz=MzIwNzE2MDc5Mg==&mid=2649268844&idx=1&sn=5dcbf6de5fb9d6a89f59f52cecd4a3ad&scene=27#wechat_redirect)
-
-经纬信安是国内蜜罐技术第一家，核心技术是欺骗防御和XDR，包括风险评估、攻击诱捕、拟态防御、威胁情报、主机安全、恶意代码检测、扩展检测和响应、自动化编排、安全运营等功能，形成主动防御+持续响应闭环，现今已与多领域深度合作。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc96c4d4df94" alt="" />
 
 ---
 
