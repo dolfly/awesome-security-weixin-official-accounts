@@ -1,9 +1,9 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【0/98/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【0/100/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-07-26T09:00:00】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247498230&idx=3&sn=0faf1025cb5ab72893e9f07fe2fe4908&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-27T17:13:23】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247498244&idx=1&sn=df01eff885de5a46847a970802b49d0d&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
-
-[:camera_flash:【2026-06-27T14:54:22】](https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485948&idx=1&sn=4afd85f8e39f00f98dc7b7aa7d8ac02f&scene=27#wechat_redirect)
-
-PTE小技巧
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
-
----
-
-
 ### [r3kapig](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MDE4MzkzMQ==)
@@ -125,6 +112,19 @@ power by r3kapig team
 1990年，哈勃望远镜（Hubble Space Telescope）发射升空，开启了人类对宇宙空间的崭新探索。 现在，Pwnhub的出现，将引领那些对网络安全感兴趣的人们探索“0 1”世界中的无限奥秘。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_2e9e965bad75" alt="" />
+
+---
+
+
+### [PTEHub](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4NzY5NjgyNw==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+PTE小技巧
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5aff651a75ac" alt="" />
 
 ---
 
