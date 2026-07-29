@@ -1,17 +1,4 @@
 
-### [广诚市保卫者](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
-
-[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
-
-[:camera_flash:【2026-07-26T16:13:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NzY0MzM3Ng==&mid=2247490750&idx=1&sn=d19119d17bcd8620bee2d1164c63fc2b&scene=27#wechat_redirect)
-
-在平行世界的另一头“广诚市”上演着一幕幕黑客围城。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_090dcc3712a3" alt="" />
-
----
-
-
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
 [:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
@@ -21,6 +8,19 @@
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
+
+---
+
+
+### [广诚市保卫者](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
+
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
+
+[:camera_flash:【2026-07-26T16:13:21】](https://mp.weixin.qq.com/s?__biz=Mzg2NzY0MzM3Ng==&mid=2247490750&idx=1&sn=d19119d17bcd8620bee2d1164c63fc2b&scene=27#wechat_redirect)
+
+在平行世界的另一头“广诚市”上演着一幕幕黑客围城。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_090dcc3712a3" alt="" />
 
 ---
 
