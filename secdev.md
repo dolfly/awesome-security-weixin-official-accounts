@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【2/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-07-28T14:41:59】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556336&idx=2&sn=4a6f963d417a92094a89570489da3a83&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-29T12:14:31】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556357&idx=2&sn=f59f3ffb09e663a611020b338a53af5f&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -53,7 +53,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2026-07-27T16:25:27】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523657&idx=1&sn=77da8c69f66faac91221833d479a6a3a&scene=27#wechat_redirect)
 
