@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-07-28T22:00:09】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404694&idx=1&sn=40952f3ae3690e3a57dc467e0b66024b&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-31T12:17:44】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404709&idx=1&sn=f8502acb79ee5dab9d863248e9283203&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -27,7 +27,7 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
 [:camera_flash:【2026-07-20T16:00:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543532&idx=1&sn=27670118396920285cb5b41a25ade6ca&scene=27#wechat_redirect)
 
@@ -40,26 +40,13 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【3/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【2/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
 [:camera_flash:【2026-07-14T08:47:58】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517685&idx=1&sn=3212cfd961e42de8c53ef09cc4224612&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9774ce64d500" alt="" />
-
----
-
-
-### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
-
-[:camera_flash:【2026-07-30T11:23:26】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523679&idx=1&sn=92c04581cd15a047780c04135a6dc462&scene=27#wechat_redirect)
-
-深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
 
 ---
 
@@ -73,6 +60,19 @@
 坚信少却更好，坚定元认知传播，坚持安全美学，拿个主题，讲300秒就够了。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_717c729949b7" alt="" />
+
+---
+
+
+### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+
+[:camera_flash:【2026-07-30T11:23:26】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523679&idx=1&sn=92c04581cd15a047780c04135a6dc462&scene=27#wechat_redirect)
+
+深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_650442d8cad4" alt="" />
 
 ---
 

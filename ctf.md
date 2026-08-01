@@ -1,7 +1,7 @@
 
 ### [赛查查](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:chart_with_upwards_trend:【0/87/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
+[:chart_with_upwards_trend:【0/79/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
 [:camera_flash:【2026-07-30T10:52:39】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247498287&idx=4&sn=6cfc917f81159b4310b77c83281f1676&scene=27#wechat_redirect)
 
@@ -25,6 +25,19 @@
 ---
 
 
+### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+
+[:camera_flash:【2026-07-31T09:11:45】](https://mp.weixin.qq.com/s?__biz=MzU0MjcwNzI2NQ==&mid=2247484815&idx=1&sn=094e5f5eb9a949d345d3f4105e77dedb&scene=27#wechat_redirect)
+
+西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
+
+---
+
+
 ### [DataCon大数据安全分析竞赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
 
 [:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5Njg1NzMyNw==)
@@ -38,15 +51,15 @@
 ---
 
 
-### [西湖论剑网络安全技能大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
 
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MjcwNzI2NQ==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
 
-[:camera_flash:【2026-07-16T11:08:52】](https://mp.weixin.qq.com/s?__biz=MzU0MjcwNzI2NQ==&mid=2247484804&idx=1&sn=4ee1740676e2dd733b25ef4989dd6fcb&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-31T19:50:26】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485726&idx=1&sn=cbc29117df3c987d4711482717d11510&scene=27#wechat_redirect)
 
-西湖论剑网络安全技能大赛已连续举办了四届，为全国网络安全人才展示水平、竞技比拼和交流互动提供了舞台！新一届西湖论剑网络安全技能大赛的号角已经吹响，详情请戳历史文章！
+信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_52aff0cfa8c6" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 
@@ -86,19 +99,6 @@ power by r3kapig team
 青少年CTF（原名中学生CTF）帮助大家学习CTF竞赛，信息安全与网络技术。大家如果喜欢我们的视频讲解和教程可以加入我们的QQ群：797842833。快来和我们一起学习安全知识吧。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0d0714849484" alt="" />
-
----
-
-
-### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
-
-[:camera_flash:【2026-07-20T16:08:14】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485701&idx=1&sn=156c75d70d12cda34c6ef0a7d8021bd4&scene=27#wechat_redirect)
-
-信息安全铁人三项赛是面向大学生的公益性科技类竟赛，由中国信息产业商会信息安全产业分会发起主办，通过整合信息安全产业资源对接高校，为大学生提供一个进行信息安全技术创新、深入产业行业应用以及扩展安全视野的平台。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0faad65c15dd" alt="" />
 
 ---
 
