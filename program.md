@@ -1,17 +1,4 @@
 
-### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
-
-[:camera_flash:【2026-07-29T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521040&idx=1&sn=59454cfc3b20a519f2a72e26c0932776&scene=27#wechat_redirect)
-
-字节跳动的技术实践分享
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
-
----
-
-
 ### [腾讯技术工程](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
 
 [:chart_with_upwards_trend:【2/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5ODYwMjI2MA==)
@@ -25,15 +12,15 @@
 ---
 
 
-### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+### [字节跳动技术团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:chart_with_upwards_trend:【2/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+[:chart_with_upwards_trend:【2/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MzYzMjE0MQ==)
 
-[:camera_flash:【2026-07-13T18:36:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247488089&idx=1&sn=043a4001c5a79b1f1ccbaa0897ae2522&scene=27#wechat_redirect)
+[:camera_flash:【2026-07-29T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247521040&idx=1&sn=59454cfc3b20a519f2a72e26c0932776&scene=27#wechat_redirect)
 
-读书，写诗，假装自己是黑客。
+字节跳动的技术实践分享
 
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_24231986c9c8" alt="" />
 
 ---
 
@@ -47,6 +34,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [读诗库](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5NzQ3NzIwMA==)
+
+[:camera_flash:【2026-07-13T18:36:00】](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247488089&idx=1&sn=043a4001c5a79b1f1ccbaa0897ae2522&scene=27#wechat_redirect)
+
+读书，写诗，假装自己是黑客。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f524e5a0a1fb" alt="" />
 
 ---
 
