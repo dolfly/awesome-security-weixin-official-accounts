@@ -1,13 +1,26 @@
 
 ### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
 
-[:camera_flash:【2026-07-31T10:00:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247524060&idx=1&sn=5d64deac27f184f876ed977754684764&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-04T10:30:00】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247524080&idx=1&sn=5cdfacbeafc2267c1fd768ba402f223e&scene=27#wechat_redirect)
 
 本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
+
+---
+
+
+### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+
+[:chart_with_upwards_trend:【0/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+
+[:camera_flash:【2026-08-04T17:59:00】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618256&idx=2&sn=b4a421fcc927a4107b85cd2591609adc&scene=27#wechat_redirect)
+
+致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e7e71fe92c19" alt="" />
 
 ---
 
@@ -21,19 +34,6 @@
 在平行世界的另一头“广诚市”上演着一幕幕黑客围城。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_090dcc3712a3" alt="" />
-
----
-
-
-### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
-
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
-
-[:camera_flash:【2026-08-01T17:59:00】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618088&idx=1&sn=1e526749adf4f85e15bed7402a852757&scene=27#wechat_redirect)
-
-致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e7e71fe92c19" alt="" />
 
 ---
 
