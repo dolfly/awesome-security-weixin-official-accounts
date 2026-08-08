@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:camera_flash:【2026-08-07T08:15:00】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510061&idx=1&sn=94c9406e84a79cc72c37339a0cd908e6&scene=27#wechat_redirect)
+[:camera_flash:【2026-08-07T08:15:00】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510061&idx=2&sn=86f4a64848493061bda580e5feb7a7f0&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
@@ -77,19 +77,6 @@
 ---
 
 
-### [GTG网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
-
-[:chart_with_upwards_trend:【4/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
-
-[:camera_flash:【2026-07-14T09:55:35】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247486955&idx=1&sn=505b67afe1b6bb34f4bc567c5a4baae1&scene=27#wechat_redirect)
-
-广测集团出品，专注网络安全认证（如EN18031）及解决方案，护航企业出海合规。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fd9a2f69356" alt="" />
-
----
-
-
 ### [网络与安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI1MTQwMjYwNA==)
@@ -99,6 +86,19 @@
 河海大学网络与安全实验室成立于 2008 年03 月，得到了国家自然基金、科技部、教育部、江苏省、水利部和常州市基金的支持。创始人为河海大学韩光洁教授。期待你的加入！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_440e7a50adb7" alt="" />
+
+---
+
+
+### [GTG网络安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
+
+[:chart_with_upwards_trend:【3/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk4ODQ5NzM2Mw==)
+
+[:camera_flash:【2026-07-14T09:55:35】](https://mp.weixin.qq.com/s?__biz=Mzk4ODQ5NzM2Mw==&mid=2247486955&idx=1&sn=505b67afe1b6bb34f4bc567c5a4baae1&scene=27#wechat_redirect)
+
+广测集团出品，专注网络安全认证（如EN18031）及解决方案，护航企业出海合规。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_4fd9a2f69356" alt="" />
 
 ---
 
@@ -203,19 +203,6 @@
 腾讯玄武实验室官方微信公众号
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6095d8d90146" alt="" />
-
----
-
-
-### [crackme安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk3NTM5MDA5MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk3NTM5MDA5MA==)
-
-[:camera_flash:【2026-07-08T12:49:21】](https://mp.weixin.qq.com/s?__biz=Mzk3NTM5MDA5MA==&mid=2247484089&idx=1&sn=2de07ede3c526a07cf5222b064bdaec7&scene=27#wechat_redirect)
-
-这是一个专注于计算机科学、编程、网络安全和信息安全的公众号，涵盖C/C++、Python等编程语言，分享网络安全技术见解和CTF竞赛经验。网站https://crackme.net
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a5bf8b49d135" alt="" />
 
 ---
 
@@ -2491,6 +2478,19 @@ Study and Share,Strike and Safeguard
 云原生安全实验室希望发挥桥梁纽带作用，链接产学研用各方，推动云原生安全技术创新和标准评估体系建设，搭建云原生安全能力开放验证平台，探索云原生安全实践路径，助力数字化转型安全推进。欢迎各位业界同仁加入，献计献策，共谋发展！
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_177e3e639348" alt="" />
+
+---
+
+
+### [crackme安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk3NTM5MDA5MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk3NTM5MDA5MA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+这是一个专注于计算机科学、编程、网络安全和信息安全的公众号，涵盖C/C++、Python等编程语言，分享网络安全技术见解和CTF竞赛经验。网站https://crackme.net
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a5bf8b49d135" alt="" />
 
 ---
 
