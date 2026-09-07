@@ -12,28 +12,28 @@
 ---
 
 
+### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+
+[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
+
+[:camera_flash:【2026-09-06T17:48:42】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247579348&idx=1&sn=1da4db82547883474d2a75b994e0d61f&scene=27#wechat_redirect)
+
+深入专注智能汽车网络安全与数据安全技术，专属汽车网络安全圈的头部学习交流平台和社区。平台定期会通过线上线下等形式进行一手干货内容输出，并依托丰富产业及专家资源，深化上下游供需对接，逐步壮大我国汽车安全文化及产业生态圈。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6446c19b4595" alt="" />
+
+---
+
+
 ### [Khan安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
+[:chart_with_upwards_trend:【0/13/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwMjQ2NTQ4Mg==)
 
 [:camera_flash:【2026-09-03T09:08:09】](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247510303&idx=1&sn=41cc177a015b7f3ee95640755c877f71&scene=27#wechat_redirect)
 
 安全不是一个人，我们来自五湖四海。研究方向Web内网渗透，免杀技术，红蓝攻防对抗，CTF。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0360ef4a4e59" alt="" />
-
----
-
-
-### [谈思实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
-
-[:chart_with_upwards_trend:【0/14/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzOTc2OTAxMg==)
-
-[:camera_flash:【2026-09-02T17:57:38】](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247577582&idx=1&sn=06ad050f18a34a889681608951fea6c7&scene=27#wechat_redirect)
-
-深入专注智能汽车网络安全与数据安全技术，专属汽车网络安全圈的头部学习交流平台和社区。平台定期会通过线上线下等形式进行一手干货内容输出，并依托丰富产业及专家资源，深化上下游供需对接，逐步壮大我国汽车安全文化及产业生态圈。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_6446c19b4595" alt="" />
 
 ---
 

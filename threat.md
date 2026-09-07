@@ -27,7 +27,7 @@
 
 ### [蓝军开源情报](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyMjY1MTg1MQ==)
 
 [:camera_flash:【2026-08-30T07:16:03】](https://mp.weixin.qq.com/s?__biz=MzkyMjY1MTg1MQ==&mid=2247510817&idx=4&sn=c95ad52e1996b60c4e9d9e7bf1ac9cce&scene=27#wechat_redirect)
 
