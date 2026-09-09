@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMzIxMjM3Ng==)
 
-[:camera_flash:【2026-09-06T15:00:00】](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247487756&idx=1&sn=f5de5ad300da0f076aa9c12db638ef9f&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-08T12:00:00】](https://mp.weixin.qq.com/s?__biz=MzAxMzIxMjM3Ng==&mid=2247487804&idx=1&sn=1948c208da400e06c17455814116a084&scene=27#wechat_redirect)
 
 懂安全、会 Python、爱生活的技术管理者～ 分享网络安全实战经验、Python 自动化与工具开发避坑指南，还有职场团队管理技巧、职场爸妈的时间管理与亲子沟通碎碎念，偶尔穿插兴趣日常与成长思考。不贩卖焦虑，只输出真实有温度的硬核干货～
 

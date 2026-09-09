@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4MDU0NTQ4Mw==)
 
-[:camera_flash:【2026-09-03T15:44:52】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247540014&idx=2&sn=d381a861ce6bd9a26b07c42f53fbe6a4&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-03T15:44:52】](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247540014&idx=1&sn=e75b9d38b53c5780798d4c51e33478b1&scene=27#wechat_redirect)
 
 中国网络空间内生安全技术与产业联盟，简称“CCESS联盟”。CCESS联盟是在自愿、平等、互利、合作的基础上，由国内网络空间内生安全领域的相关企事业单位、社团组织、科研院所、高等院校等自愿结成的开放性行业合作组织。
 
@@ -151,6 +151,19 @@ Torchwood火炬木攻防实验室公众号
 漏洞复现、渗透测试、nday、0day、网络安全、红蓝对抗
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_a2e2246597b7" alt="" />
+
+---
+
+
+### [赛可达实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MjU1OTExNw==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MjU1OTExNw==)
+
+[:camera_flash:【2026-09-08T15:44:25】](https://mp.weixin.qq.com/s?__biz=MzA4MjU1OTExNw==&mid=2649573392&idx=1&sn=948a85370c8043770c769c0e3d20e3d3&scene=27#wechat_redirect)
+
+为政企用户提供以“安全能力”为核心的权威第三方网络安全检测认证服务，提升中国网络信息安全产品技术水平和市场竞争力，更是中国厂商走向国际市场的捷径和坚固桥梁。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c61b09d54ca" alt="" />
 
 ---
 
@@ -2374,19 +2387,6 @@ Study and Share,Strike and Safeguard
 上海数据安全协同创新实验室秉持开放、务实、共创、共赢的原则，围绕数字信任、区块链、隐私科技、智能安全等数据安全创新领域，推动数据要素合规高效流通，促进数据安全产业创新，护航数字经济繁荣健康发展。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ad68a8794fc9" alt="" />
-
----
-
-
-### [赛可达实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MjU1OTExNw==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MjU1OTExNw==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-为政企用户提供以“安全能力”为核心的权威第三方网络安全检测认证服务，提升中国网络信息安全产品技术水平和市场竞争力，更是中国厂商走向国际市场的捷径和坚固桥梁。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0c61b09d54ca" alt="" />
 
 ---
 
