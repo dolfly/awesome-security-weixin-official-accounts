@@ -64,19 +64,6 @@
 ---
 
 
-### [谷安培训](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
-
-[:camera_flash:【2026-08-31T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247527708&idx=1&sn=6b4e24187ffda31618de5ecefe4fc83c&scene=27#wechat_redirect)
-
-谷安培训专注于中国信息安全人才培养，提供专业教育、认证培训、就业培训、安全意识教育、在线教育等服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e2116d689ba4" alt="" />
-
----
-
-
 ### [交大捷普](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI2MzU0NTk3OA==)
@@ -138,6 +125,19 @@
 让网络更简单、智能、安全
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_5ed70c726e70" alt="" />
+
+---
+
+
+### [谷安培训](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjUxNjQ1Ng==)
+
+[:camera_flash:【2026-08-31T17:00:00】](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247527708&idx=1&sn=6b4e24187ffda31618de5ecefe4fc83c&scene=27#wechat_redirect)
+
+谷安培训专注于中国信息安全人才培养，提供专业教育、认证培训、就业培训、安全意识教育、在线教育等服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_e2116d689ba4" alt="" />
 
 ---
 
@@ -528,32 +528,6 @@ Imperva是一家全球公认领先的应用数据安全及云安全供应商，�
 企业宣传
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_da84229a9ddb" alt="" />
-
----
-
-
-### [谷安天下](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
-
-[:camera_flash:【2026-08-10T19:09:35】](https://mp.weixin.qq.com/s?__biz=MzU4NDExNDQwNA==&mid=2247491038&idx=1&sn=1ff779b88807a8376d80d61bf22d6b3c&scene=27#wechat_redirect)
-
-数字风险领域的人才与知识服务机构
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b25697a24e4c" alt="" />
-
----
-
-
-### [天权信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMDc5NDQ4OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMDc5NDQ4OA==)
-
-[:camera_flash:【2026-08-10T21:17:44】](https://mp.weixin.qq.com/s?__biz=MzkwMDc5NDQ4OA==&mid=2247496378&idx=1&sn=278b5f39e154d417d56e496aa2c2fdd8&scene=27#wechat_redirect)
-
-天权信安，致力于网络安全攻防、内网渗透、代码审计、安全知识竞赛、CTF竞赛、网络安全竞赛承办、CTF培训、网安课程开发、安全运维、Linux技巧、HW、二进制安全、区块链安全、IOT安全、工控安全等技术干货分享。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bef6f46f0c3" alt="" />
 
 ---
 
@@ -1494,6 +1468,19 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 ---
 
 
+### [谷安天下](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4NDExNDQwNA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+数字风险领域的人才与知识服务机构
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_b25697a24e4c" alt="" />
+
+---
+
+
 ### [华清信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDEwMDc1Nw==)
 
 [:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIxMDEwMDc1Nw==)
@@ -1516,6 +1503,19 @@ KCon 黑客大会，汇聚黑客的智慧。知道创宇出品，追求干货有
 领先的企业安全服务与ERP安全解决方案供应商
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d4e1578420df" alt="" />
+
+---
+
+
+### [天权信安](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMDc5NDQ4OA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMDc5NDQ4OA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+天权信安，致力于网络安全攻防、内网渗透、代码审计、安全知识竞赛、CTF竞赛、网络安全竞赛承办、CTF培训、网安课程开发、安全运维、Linux技巧、HW、二进制安全、区块链安全、IOT安全、工控安全等技术干货分享。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0bef6f46f0c3" alt="" />
 
 ---
 
