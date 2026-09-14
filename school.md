@@ -25,6 +25,19 @@
 ---
 
 
+### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
+
+[:camera_flash:【2026-09-13T20:36:02】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484482&idx=1&sn=79d13062ddae030fdc4f040f2cb1c319&scene=27#wechat_redirect)
+
+原名为网络安全学生社团，现名为网络攻防创新实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
+
+---
+
+
 ### [御林安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NTExMDQxOQ==)
@@ -60,19 +73,6 @@
 东北大学“谛听”网络安全团队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_ce3e0df31e50" alt="" />
-
----
-
-
-### [网络攻防创新实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNDcyMDM1MQ==)
-
-[:camera_flash:【2026-09-08T13:41:56】](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484472&idx=1&sn=5e8cad0debb1bfc7f6c5d484e2aa5673&scene=27#wechat_redirect)
-
-原名为网络安全学生社团，现名为网络攻防创新实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f587b147a938" alt="" />
 
 ---
 

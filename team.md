@@ -16,7 +16,7 @@
 
 [:chart_with_upwards_trend:【24/26/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NDY2OTU4Nw==)
 
-[:camera_flash:【2026-09-12T17:42:01】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247531747&idx=1&sn=06bf86fc115067bc8d4488eaf1aca2a6&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-13T20:29:25】](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247531867&idx=1&sn=532b83c5a5c1d6b4094fd52fa7879789&scene=27#wechat_redirect)
 
 船山院士网络安全团队唯一公众号，为国之安全而奋斗，为信息安全而发声！
 
@@ -207,19 +207,6 @@ SecureNexusLab团队，我们致力于做一个覆盖全范围安全的学习圈
 ---
 
 
-### [飓风网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
-
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
-
-[:camera_flash:【2026-08-31T17:50:53】](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247492364&idx=1&sn=8dfa316c1d3d00d9002773bb6a8fe1a3&scene=27#wechat_redirect)
-
-专注网络安全，成立于2014年;专注于研究安全服务，黑客技术、0day漏洞、红蓝对抗、威胁情报、应用安全、主机安全,提供服务器网站安全解决方案，数据库安全、服务器安全运维。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_183f818a07dc" alt="" />
-
----
-
-
 ### [黑伞安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzkzOTYzOQ==)
 
 [:chart_with_upwards_trend:【1/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MzkzOTYzOQ==)
@@ -229,6 +216,19 @@ SecureNexusLab团队，我们致力于做一个覆盖全范围安全的学习圈
 安全加固 渗透测试 众测 ctf 安全新领域研究
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c753e94bdc18" alt="" />
+
+---
+
+
+### [飓风网络安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
+
+[:chart_with_upwards_trend:【0/3/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI3NzMzNzE5Ng==)
+
+[:camera_flash:【2026-08-31T17:50:53】](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247492364&idx=1&sn=8dfa316c1d3d00d9002773bb6a8fe1a3&scene=27#wechat_redirect)
+
+专注网络安全，成立于2014年;专注于研究安全服务，黑客技术、0day漏洞、红蓝对抗、威胁情报、应用安全、主机安全,提供服务器网站安全解决方案，数据库安全、服务器安全运维。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_183f818a07dc" alt="" />
 
 ---
 
@@ -463,6 +463,19 @@ CertiK由来自耶鲁大学和哥伦比亚大学科研团队联合成立。 为W
 一个热爱网络安全以及各类网络安全竞赛的战队
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_f51273998067" alt="" />
+
+---
+
+
+### [赤弋安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzQyMDkxMQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzQyMDkxMQ==)
+
+[:camera_flash:【2026-09-13T14:09:21】](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247489202&idx=1&sn=9c33cd4d348fbe83d9079a32028a05a1&scene=27#wechat_redirect)
+
+渗透测试，代码审计，CTF ，红蓝对抗，SRC
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_532e7430f018" alt="" />
 
 ---
 
@@ -2595,19 +2608,6 @@ EchoSec安全团队专注于网络信息安全领域，不定期分享领域内�
 
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_c6ae1e10f402" alt="" />
-
----
-
-
-### [赤弋安全团队](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzQyMDkxMQ==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzNzQyMDkxMQ==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-渗透测试，代码审计，CTF ，红蓝对抗，SRC
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_532e7430f018" alt="" />
 
 ---
 

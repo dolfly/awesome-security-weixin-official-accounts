@@ -1,9 +1,9 @@
 
 ### [黑白之道](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:chart_with_upwards_trend:【81/111/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
+[:chart_with_upwards_trend:【82/109/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAxMjE3ODU3MQ==)
 
-[:camera_flash:【2026-09-12T08:30:00】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650622161&idx=5&sn=dfa643070cec6492ab5e43c7d574a594&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-13T09:08:00】](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650622191&idx=1&sn=cb326b092a8e24f7c7bc33afe9f32cea&scene=27#wechat_redirect)
 
 我们是网络世界的启明星，安全之路的垫脚石。
 
@@ -14,7 +14,7 @@
 
 ### [中国信息安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
-[:chart_with_upwards_trend:【7/74/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
+[:chart_with_upwards_trend:【7/72/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA5MzE5MDAzOA==)
 
 [:camera_flash:【2026-09-11T16:36:55】](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266541&idx=1&sn=36fbc46d053a61deec68b3ccfc421cb1&scene=27#wechat_redirect)
 
@@ -38,24 +38,11 @@
 ---
 
 
-### [安全圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
-
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
-
-[:camera_flash:【2026-09-12T19:00:00】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=1&sn=a1f8892fc8c69e287f340031c3603b4c&scene=27#wechat_redirect)
-
-专注网络安全：网罗圈内热点事件，细说安全风云变幻！
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_834eaaa98a10" alt="" />
-
----
-
-
 ### [公安部网安局](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
 
-[:chart_with_upwards_trend:【0/31/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
+[:chart_with_upwards_trend:【0/32/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0MTA3OTU5Ng==)
 
-[:camera_flash:【2026-09-10T12:23:14】](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247583345&idx=1&sn=77338abf503c0e161bcf7609514c8f3d&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-13T21:35:28】](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247583428&idx=1&sn=5272b57a425dde2110f505d7a27278c3&scene=27#wechat_redirect)
 
 发布网安权威声音，展现各地网警风采
 
@@ -77,9 +64,22 @@
 ---
 
 
+### [安全圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
+
+[:chart_with_upwards_trend:【0/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzMzE4NDU1OQ==)
+
+[:camera_flash:【2026-09-12T19:00:00】](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078850&idx=2&sn=7b444fc1f876f56f24b4bd8b8fcfb24f&scene=27#wechat_redirect)
+
+专注网络安全：网罗圈内热点事件，细说安全风云变幻！
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_834eaaa98a10" alt="" />
+
+---
+
+
 ### [赛博研究院](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
 
-[:chart_with_upwards_trend:【6/23/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
+[:chart_with_upwards_trend:【6/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUzODYyMDIzNw==)
 
 [:camera_flash:【2026-09-12T17:21:47】](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247528050&idx=1&sn=cab6bc0ab72dd2296cc63dbb489d3ce9&scene=27#wechat_redirect)
 
@@ -220,19 +220,6 @@
 ---
 
 
-### [网络空间安全科学学报](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjU2NDMwNQ==)
-
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjU2NDMwNQ==)
-
-[:camera_flash:【2026-09-12T21:47:09】](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508516&idx=1&sn=4f4a5577b53a789099be07b333286edd&scene=27#wechat_redirect)
-
-《网络空间安全科学学报》旨在搭建网络空间安全领域学术研究交流平台，传播学术思想与理论，展示科学研究、创新技术与应用成果，助力网络空间安全学科建设，为网络强国建设提供坚实支撑与服务。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c401165e9ac" alt="" />
-
----
-
-
 ### [数说安全](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE5MDI5Mg==)
 
 [:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkzMDE5MDI5Mg==)
@@ -255,6 +242,19 @@
 广州网警巡查执法
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_9f7e39e196b9" alt="" />
+
+---
+
+
+### [网络空间安全科学学报](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjU2NDMwNQ==)
+
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzI0NjU2NDMwNQ==)
+
+[:camera_flash:【2026-09-12T21:47:09】](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247508516&idx=1&sn=4f4a5577b53a789099be07b333286edd&scene=27#wechat_redirect)
+
+《网络空间安全科学学报》旨在搭建网络空间安全领域学术研究交流平台，传播学术思想与理论，展示科学研究、创新技术与应用成果，助力网络空间安全学科建设，为网络强国建设提供坚实支撑与服务。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8c401165e9ac" alt="" />
 
 ---
 
@@ -411,19 +411,6 @@ KK安全说
 网络与数据法律实务
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_daf0af303efa" alt="" />
-
----
-
-
-### [京数安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
-
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
-
-[:camera_flash:【2026-08-14T22:17:29】](https://mp.weixin.qq.com/s?__biz=Mzg4OTY4MDA2MA==&mid=2247491864&idx=1&sn=b5c66d393b1e798f71dc9b064a89deae&scene=27#wechat_redirect)
-
-算法备案｜等保咨询｜渗透测试｜风险评估｜APP检测｜APP加固 【商务联系18001352578同微】
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d679863e0ce0" alt="" />
 
 ---
 
@@ -866,6 +853,19 @@ HackingClub是一个由中国网络安全爱好者自发组建的安全组织。
 寰宇学堂汇集行业专家和学者，提供专业的知识课程和深度讲座，为用户打开学习新视界。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d6f341f213ab" alt="" />
+
+---
+
+
+### [京数安](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg4OTY4MDA2MA==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+算法备案｜等保咨询｜渗透测试｜风险评估｜APP检测｜APP加固 【商务联系18001352578同微】
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d679863e0ce0" alt="" />
 
 ---
 
