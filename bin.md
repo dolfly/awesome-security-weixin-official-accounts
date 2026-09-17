@@ -27,9 +27,9 @@
 
 ### [逆向有你](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
+[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA4MzgzNTU5MA==)
 
-[:camera_flash:【2026-09-10T09:26:49】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652041980&idx=1&sn=3bb04502f922c666d9415dbba9969a06&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-16T09:33:40】](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652042004&idx=1&sn=83b0588d1a84838b40dfeb2a7dd3705c&scene=27#wechat_redirect)
 
 分享一些Android逆向，PC逆向及游戏辅助等相关学习笔记。。。
 
@@ -51,19 +51,6 @@
 ---
 
 
-### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
-
-[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
-
-[:camera_flash:【2026-08-18T10:15:30】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247524131&idx=1&sn=18d640310974feec31ea6fac6b939c97&scene=27#wechat_redirect)
-
-本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
-
----
-
-
 ### [吾爱破解论坛](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5Mjc3MDM2Mw==)
@@ -73,6 +60,19 @@
 吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
+
+---
+
+
+### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+
+[:camera_flash:【2026-08-18T10:15:30】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247524131&idx=1&sn=18d640310974feec31ea6fac6b939c97&scene=27#wechat_redirect)
+
+本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
 
 ---
 
