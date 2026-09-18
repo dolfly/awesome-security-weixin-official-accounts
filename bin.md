@@ -14,7 +14,7 @@
 
 ### [广诚市保卫者](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
 
-[:chart_with_upwards_trend:【0/9/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
+[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2NzY0MzM3Ng==)
 
 [:camera_flash:【2026-09-13T09:15:00】](https://mp.weixin.qq.com/s?__biz=Mzg2NzY0MzM3Ng==&mid=2247491316&idx=1&sn=cfb826693ec4ab93a1ec429cce43abf7&scene=27#wechat_redirect)
 
@@ -60,19 +60,6 @@
 吾爱破解论坛深耕软件逆向工程与反病毒技术领域，汇聚众多技术爱好者的智慧与经验，共同探索与分享前沿安全技术和防护策略，构建业内最具影响力的技术交流平台。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_fb242c15300f" alt="" />
-
----
-
-
-### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
-
-[:camera_flash:【2026-08-18T10:15:30】](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247524131&idx=1&sn=18d640310974feec31ea6fac6b939c97&scene=27#wechat_redirect)
-
-本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
 
 ---
 
@@ -346,6 +333,19 @@ good good study, day day pwn
 IT知识、技术、素养分享
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_7e35cb74d67d" alt="" />
+
+---
+
+
+### [智能汽车开发者平台](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+
+[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkyOTMwMDQ5MQ==)
+
+[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+
+本公众号主要分享汽车技术文章，线上直播，行业活动分享平台
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_1a19d0de25f0" alt="" />
 
 ---
 

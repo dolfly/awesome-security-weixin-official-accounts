@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/99/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk0NTU0ODc0Nw==)
 
-[:camera_flash:【2026-09-16T11:26:25】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499330&idx=3&sn=e6b17e9258a35cfabbeeee953d8b118f&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-17T14:32:20】](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247499338&idx=5&sn=01ac6e516a99300e8fcd3b2f88627c42&scene=27#wechat_redirect)
 
 赛查查是探索网络安全和数据安全赛事领域的专业指南。提供及时的赛事信息和资源。关注我们，与我们一起助力赛事以及行业的发展！
 
@@ -14,7 +14,7 @@
 
 ### [长城杯网数智安全大赛](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
+[:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkwMjYwNDA3OQ==)
 
 [:camera_flash:【2026-09-03T19:30:00】](https://mp.weixin.qq.com/s?__biz=MzkwMjYwNDA3OQ==&mid=2247485796&idx=1&sn=4f5e83279a61b5aa7adf6ced36d5773a&scene=27#wechat_redirect)
 
