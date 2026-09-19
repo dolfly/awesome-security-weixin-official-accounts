@@ -27,9 +27,9 @@
 
 ### [安全学术圈](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:chart_with_upwards_trend:【1/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
+[:chart_with_upwards_trend:【2/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU5MTM5MTQ2MA==)
 
-[:camera_flash:【2026-09-13T13:07:07】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495911&idx=1&sn=c4c76784980c65eaee8379baeec1b861&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-18T18:30:00】](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495942&idx=1&sn=daf851538f72f5b732a6ca33136ecac6&scene=27#wechat_redirect)
 
 分享安全方面的论文写作、会议发表、基金申请方面的资料。
 
@@ -60,6 +60,19 @@
 北邮图数据挖掘与机器学习实验室
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_bc48147b67b6" alt="" />
+
+---
+
+
+### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
+
+[:camera_flash:【2026-09-18T13:48:33】](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247492324&idx=1&sn=923b3d213000f1a98482f51329102cd9&scene=27#wechat_redirect)
+
+北京张量无限科技有限公司官方公众号
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
 
 ---
 
@@ -99,19 +112,6 @@
 FOFA是由华顺信安科技有限公司开发的一款网络空间资产搜索引擎。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_d79c8913fde8" alt="" />
-
----
-
-
-### [SIGAI](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4MjQ3MDkwNA==)
-
-[:camera_flash:【2026-08-28T09:05:48】](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247492297&idx=1&sn=08ae96338a3af07d2528902975b09385&scene=27#wechat_redirect)
-
-北京张量无限科技有限公司官方公众号
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_0339db23ffb8" alt="" />
 
 ---
 
