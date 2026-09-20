@@ -1,9 +1,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【8/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【9/20/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-09-18T12:36:35】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556970&idx=2&sn=e09fcbf7127703ce48c0e0f5f6dcd6ac&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-19T14:16:00】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556978&idx=1&sn=5a249bbb832f66987fdf3ea823d2ecc5&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -40,9 +40,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-09-18T08:49:52】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517829&idx=1&sn=be9f021ae65f0cacf758d0ad3ede33f8&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-20T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517840&idx=1&sn=90561cd059c25d19e71d22a8704a3ba4&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -53,7 +53,7 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
 [:camera_flash:【2026-09-08T11:45:41】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523761&idx=1&sn=fbb573140acbadc85e65040beada037a&scene=27#wechat_redirect)
 

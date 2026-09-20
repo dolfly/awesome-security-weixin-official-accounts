@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-09-18T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635374&idx=2&sn=f3e2233b0739780e067a48431a1af2ab&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-19T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635385&idx=3&sn=f9099b5e4f42ed91aa12d11b6ad183ad&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【15/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【16/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-09-18T19:45:38】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454948677&idx=1&sn=eae63ba943b6e31384ffec79eadf28f7&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-19T19:48:32】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454948687&idx=1&sn=2ebfb0abcf6ed28bd17c6ead069a579a&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -27,9 +27,9 @@
 
 ### [Gh0xE9](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:chart_with_upwards_trend:【0/5/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
+[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2026-09-07T11:50:18】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501551&idx=1&sn=e84bf7e6caec0961b04cae4563997edc&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-19T08:50:00】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501645&idx=1&sn=d4fcb8d90134d3b86ed56c933372481d&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 

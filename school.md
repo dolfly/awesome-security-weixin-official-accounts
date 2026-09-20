@@ -90,6 +90,19 @@
 ---
 
 
+### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
+
+[:camera_flash:【2026-09-19T18:37:09】](https://mp.weixin.qq.com/s?__biz=MzA3NzgyNjUwNA==&mid=2247493327&idx=1&sn=2825af0f8eb23b8632eac5272b87173c&scene=27#wechat_redirect)
+
+湖南农业大学蝰蛇安全实验室
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
+
+---
+
+
 ### [谛听ditecting](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
 
 [:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MzQyOTU0Nw==)
@@ -151,19 +164,6 @@
 广东外语外贸大学网络安全实验室信息推送和资源平台
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_8176da819e03" alt="" />
-
----
-
-
-### [蝰蛇信息安全实验室](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3NzgyNjUwNA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-湖南农业大学蝰蛇安全实验室
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_638eab2e92c7" alt="" />
 
 ---
 
