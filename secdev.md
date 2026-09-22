@@ -3,7 +3,7 @@
 
 [:chart_with_upwards_trend:【10/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-09-20T12:13:44】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556990&idx=2&sn=f8d3a1c87e97b5f1f5878c523d762a65&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-20T12:13:44】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556990&idx=1&sn=f01d7dab3d50c668290edfdf26833bc0&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 

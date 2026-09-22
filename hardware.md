@@ -1,9 +1,9 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/45/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/42/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:camera_flash:【2026-09-21T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635407&idx=3&sn=d7500bddec3b10b20cddfc893472793e&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-20T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635396&idx=1&sn=49efe2bc9ecfeacc8652495c048004c4&scene=27#wechat_redirect)
 
 为智能网联汽车行业专业人士提供信息和网络安全技术、产品及服务等行业发展最新咨询
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【16/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【14/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-09-21T08:23:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454948692&idx=1&sn=0b4b803a7595a7738234fb716c3969dd&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-19T19:48:32】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454948687&idx=1&sn=2ebfb0abcf6ed28bd17c6ead069a579a&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
