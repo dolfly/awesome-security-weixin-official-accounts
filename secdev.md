@@ -1,9 +1,9 @@
 
 ### [掌控安全EDU](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:chart_with_upwards_trend:【10/22/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
+[:chart_with_upwards_trend:【11/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzUyODkwNDIyMg==)
 
-[:camera_flash:【2026-09-20T12:13:44】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247556990&idx=1&sn=f01d7dab3d50c668290edfdf26833bc0&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-22T11:59:07】](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247557006&idx=2&sn=a531bf4700e9fb78a3e2c705d99a1b9d&scene=27#wechat_redirect)
 
 安全教程\\高质量文章\\面试经验分享，尽在#掌控安全EDU#
 
@@ -14,9 +14,9 @@
 
 ### [数世咨询](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:chart_with_upwards_trend:【3/19/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
+[:chart_with_upwards_trend:【4/24/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzkxNzA3MTgyNg==)
 
-[:camera_flash:【2026-09-20T11:50:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543964&idx=2&sn=10376af982e4524aefa3a2b6c537e7c9&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-22T16:30:00】](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544039&idx=3&sn=0502b403c35fe29c8dedbbc4b3610c50&scene=27#wechat_redirect)
 
 中国数字产业领域中立的第三方调研机构，提供网络安全行业的调查、研究与咨询服务。
 
@@ -27,9 +27,9 @@
 
 ### [中国网络空间安全协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:chart_with_upwards_trend:【0/15/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
+[:chart_with_upwards_trend:【0/16/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzA3ODE0NDA4MA==)
 
-[:camera_flash:【2026-09-20T09:15:53】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404976&idx=1&sn=992e5c08742180a0e4b072f8c23255ca&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-22T18:51:07】](https://mp.weixin.qq.com/s?__biz=MzA3ODE0NDA4MA==&mid=2649404982&idx=1&sn=3cf815b36dc794fae52701a344b5e772&scene=27#wechat_redirect)
 
 中国网络空间安全协会是由国内从事网络空间安全相关产业、教育、科研、应用的机构、企业及个人共同自愿结成的全国性、行业性、非营利性社会组织。
 
@@ -40,9 +40,9 @@
 
 ### [全栈网络空间安全](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:chart_with_upwards_trend:【10/10/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
+[:chart_with_upwards_trend:【11/11/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3NTUzOTg3NA==)
 
-[:camera_flash:【2026-09-20T00:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517840&idx=1&sn=90561cd059c25d19e71d22a8704a3ba4&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-22T18:17:42】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517854&idx=1&sn=69bc0c6ba3b0d3dff464684c61af7f13&scene=27#wechat_redirect)
 
 做一个会思考的全栈网络空间安全者
 
@@ -53,9 +53,9 @@
 
 ### [深圳市网络与信息安全行业协会](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:chart_with_upwards_trend:【0/6/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
+[:chart_with_upwards_trend:【0/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU0Mzk0NDQyOA==)
 
-[:camera_flash:【2026-09-08T11:45:41】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523761&idx=1&sn=fbb573140acbadc85e65040beada037a&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-21T15:09:25】](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247523845&idx=1&sn=c74555e14c4298537b72f3159999a8d3&scene=27#wechat_redirect)
 
 深圳市网络与信息安全行业协会（SNISA），是深圳市网络与信息安全行业的权威组织，是中国网络安全审查技术与认证中心（CCRC）在深圳唯一授权工作站，是经深圳市人力资源和社会保障局核准，开展网络空间安全工程技术专业职称评审工作的社会组织。
 
@@ -116,6 +116,19 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 ---
 
 
+### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
+
+[:camera_flash:【2026-09-21T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247515794&idx=1&sn=faa1ffa74a313789e46c035d0256ad54&scene=27#wechat_redirect)
+
+珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_beefe8b3bbd1" alt="" />
+
+---
+
+
 ### [白日放歌须纵9](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNjAyODE0NQ==)
 
 [:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzIzNjAyODE0NQ==)
@@ -125,19 +138,6 @@ OWASP中国，SecZone互联网安全研究中心官方平台
 基于基本事实、基本常识和基本逻辑，致力大安全战略体系规划、数字化转型、以及产品管理方法论，提供领域的前沿理念和实践
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_119e00923f12" alt="" />
-
----
-
-
-### [珞安科技](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
-
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2NjI5NzY1OA==)
-
-[:camera_flash:【2026-08-27T18:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247515724&idx=1&sn=7f89df6c99d965c9108e7def9aabd645&scene=27#wechat_redirect)
-
-珞安科技是专注工业网络空间安全的国家专精特新“小巨人”企业，拥有自主可控工控安全产品。基于多年项目实践经验发布业务安全产品，业务遍布电力电网、石油石化、轨交、智能制造等20多个工业行业，创造多个业内大规模安全部署成功案例。
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_beefe8b3bbd1" alt="" />
 
 ---
 
