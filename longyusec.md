@@ -1,9 +1,9 @@
 
 ### [泷羽sec-freesec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
 
-[:chart_with_upwards_trend:【7/7/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
+[:chart_with_upwards_trend:【8/8/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzk1Nzk0NDY3Nw==)
 
-[:camera_flash:【2026-09-02T14:22:52】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0NDY3Nw==&mid=2247484990&idx=1&sn=76ae3c80e17c165dad5934771bc574a2&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-25T00:26:11】](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk0NDY3Nw==&mid=2247485132&idx=1&sn=00ab0446adc0a47ecd4a3da47d51e862&scene=27#wechat_redirect)
 
 网络安全学习，红队，渗透测试资源分享
 
@@ -14,9 +14,9 @@
 
 ### [泷羽Sec](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
+[:chart_with_upwards_trend:【1/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg2Nzk0NjA4Mg==)
 
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-27T22:00:00】](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247513670&idx=1&sn=77987fa376acc366191e1da1aa9b3eed&scene=27#wechat_redirect)
 
 B站：泷羽Sec，团队专注于网络安全领域的内容创作与分享，为网络安全而战。来自一个从零开始学习网安的见习生。很菜，不喜勿喷。
 

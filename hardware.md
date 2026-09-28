@@ -1,7 +1,7 @@
 
 ### [IoVSecurity](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
-[:chart_with_upwards_trend:【0/40/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
+[:chart_with_upwards_trend:【0/37/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU2MDk1Nzg2MQ==)
 
 [:camera_flash:【2026-09-27T08:00:00】](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247635559&idx=1&sn=5893ea436b54538777f72e050050f036&scene=27#wechat_redirect)
 
@@ -14,9 +14,9 @@
 
 ### [IoT物联网技术](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:chart_with_upwards_trend:【14/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
+[:chart_with_upwards_trend:【15/17/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5OTA4MzA0MA==)
 
-[:camera_flash:【2026-09-23T19:21:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454948740&idx=1&sn=95adebee71accf20f036e8f2df27e52c&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-24T14:13:00】](https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454948753&idx=1&sn=6e4d8beb589b6f1b0546ad5f95ee2685&scene=27#wechat_redirect)
 
 云计算、物联网、大模型暗中观察小分队
 
@@ -29,7 +29,7 @@
 
 [:chart_with_upwards_trend:【0/4/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzAwNTc5MTMyNg==)
 
-[:camera_flash:【2026-09-19T08:50:00】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501645&idx=1&sn=d4fcb8d90134d3b86ed56c933372481d&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-24T19:37:47】](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247501729&idx=1&sn=dfabc4d532734c8812ba684bf1401d16&scene=27#wechat_redirect)
 
 做勾八安全，卷的要死
 

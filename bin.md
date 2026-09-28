@@ -1,9 +1,9 @@
 
 ### [看雪学苑](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:chart_with_upwards_trend:【1/25/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
+[:chart_with_upwards_trend:【1/28/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MjM5NTc2MDYxMw==)
 
-[:camera_flash:【2026-09-23T17:59:00】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458621086&idx=3&sn=bb7cbcd85bba87195da00496fc84cfb8&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-27T17:59:00】](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622024&idx=1&sn=54a9aa955b8185e7701a9bd55a79842f&scene=27#wechat_redirect)
 
 致力于移动与安全研究的开发者社区，看雪学院(kanxue.com)官方微信公众帐号。
 
@@ -40,9 +40,9 @@
 
 ### [软件安全与逆向分析](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
+[:chart_with_upwards_trend:【2/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU3MTY5MzQxMA==)
 
-[:camera_flash:【2026-09-23T14:59:42】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485493&idx=1&sn=c4cd5d7cc4c129c4073f64eb896fc9d0&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-27T20:55:07】](https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485498&idx=1&sn=cc614f6fde7b4f0dfc7b86b1eb26d7cb&scene=27#wechat_redirect)
 
 分享最前沿的软件安全与逆向分析技术与资讯。包括Windows、macOS、iOS、Android、Linux等平台。
 
@@ -53,13 +53,26 @@
 
 ### [中机博也汽车技术](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
 
-[:chart_with_upwards_trend:【0/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
+[:chart_with_upwards_trend:【0/2/30】](http://wechat.doonsec.com/wechat_echarts/?biz=Mzg3OTU3Mjg0Nw==)
 
-[:camera_flash:【2026-09-14T13:06:44】](https://mp.weixin.qq.com/s?__biz=Mzg3OTU3Mjg0Nw==&mid=2247485845&idx=1&sn=3f20558092fd72e25b588bd040c123cd&scene=27#wechat_redirect)
+[:camera_flash:【2026-09-24T17:09:13】](https://mp.weixin.qq.com/s?__biz=Mzg3OTU3Mjg0Nw==&mid=2247485856&idx=1&sn=886859ed2e22859bd7419d1749b8df85&scene=27#wechat_redirect)
 
 中机博也（宁波）汽车技术为主机厂在车型开发中提供造型/模型设计、车身内外饰、总布置、电器、底盘协同、CAE仿真及Benchmark等专业领域的研发服务。依托母公司中机认检在实验、检测、认证上的综合优势为客户提供从研发到认证的一站式服务。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_086e3eb2dd2b" alt="" />
+
+---
+
+
+### [3072](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
+
+[:chart_with_upwards_trend:【1/1/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
+
+[:camera_flash:【2026-09-25T09:36:25】](https://mp.weixin.qq.com/s?__biz=MzU4OTk0NDMzOA==&mid=2247490074&idx=1&sn=9dbf60f652a84be4f2b624bea3cdfcc2&scene=27#wechat_redirect)
+
+威胁狩猎，漏洞挖掘
+
+<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
 
 ---
 
@@ -86,19 +99,6 @@
 开源恶意代码基准测试（OMB，malwarebenchmark.org）持续跟踪全球最新恶意代码，实时发布网络空间安全以及恶意代码技术、分布、演变等信息，定期公开相关基准测试集合以及测评报告。
 
 <img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_01202b41c2f7" alt="" />
-
----
-
-
-### [3072](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
-
-[:chart_with_upwards_trend:【0/0/30】](http://wechat.doonsec.com/wechat_echarts/?biz=MzU4OTk0NDMzOA==)
-
-[:camera_flash:【未知】](http://wechat.doonsec.com&scene=27#wechat_redirect)
-
-威胁狩猎，漏洞挖掘
-
-<img align="top" width="180" src="http://open.weixin.qq.com/qr/code?username=gh_02e64d74f88d" alt="" />
 
 ---
 
